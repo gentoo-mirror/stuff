@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer>
+		<email>megagreener@gmail.com</email>
+	</maintainer>
+	<use>
+		<flag name='linguas_tr_TR'>Turkish locale</flag>
+		<flag name='linguas_hr_HR'>Croatian locale</flag>
+	</use>
+</pkgmetadata>

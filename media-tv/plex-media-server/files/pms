@@ -1,0 +1,23 @@
+#!/sbin/runscript
+# Copyright 1999-2014 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+# $Header: $
+
+depend() {
+	need localmount
+	after net
+	keyword -timeout
+}
+
+start() {
+	ebegin "Starting plex-media-server"
+	. /etc/default/plexmediaserver
+	start-stop-daemon --start -b -x /usr/sbin/start_pms -u $PLEX_MEDIA_SERVER_USER
+	eend $?
+}
+
+stop() {
+	ebegin "Stopping plex-media-server"
+	killall -g start_pms
+	eend $?
+}
