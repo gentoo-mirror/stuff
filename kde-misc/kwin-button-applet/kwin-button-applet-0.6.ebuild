@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=4
+EAPI=5
 
 VIRTUALX_REQUIRED="test"
 inherit kde4-base
@@ -19,7 +19,7 @@ KEYWORDS="~amd64 ~x86"
 IUSE="debug test"
 
 DEPEND="kde-base/libkworkspace:4
-		kde-base/libtaskmanager:4"
+kde-base/libtaskmanager:4"
 RDEPEND="${DEPEND}"
 
 S="${WORKDIR}/${MY_PN}-${PV}"
