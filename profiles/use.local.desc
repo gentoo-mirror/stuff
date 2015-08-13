@@ -1,0 +1,299 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-admin/conky:apcupsd - enable support for sys-power/apcupsd
+app-admin/conky:audacious - enable monitoring of music played by media-sound/audacious
+app-admin/conky:eve - enable support for the eve-online skill monitor
+app-admin/conky:iostats - enable support for per-task I/O statistics
+app-admin/conky:lua - enable if you want Lua scripting support
+app-admin/conky:lua-cairo - enable if you want Lua Cairo bindings for Conky (also enables lua support)
+app-admin/conky:lua-imlib - enable if you want Lua Imlib2 bindings for Conky (also enables lua and imlib support)
+app-admin/conky:math - enable support for glibc's libm math library
+app-admin/conky:moc - enable monitoring of music played by media-sound/moc
+app-admin/conky:mpd - enable monitoring of music controlled by media-sound/mpd
+app-admin/conky:nano-syntax - enable syntax highlighting for app-editors/nano
+app-admin/conky:nvidia - enable reading of nvidia card temperature sensors via media-video/nvidia-settings
+app-admin/conky:portmon - enable support for tcp (ip4) port monitoring
+app-admin/conky:thinkpad - enable support for IBM/Lenovo notebooks
+app-admin/conky:weather-metar - enable support for metar weather service
+app-admin/conky:weather-xoap - enable support for metar and xoap weather service
+app-admin/conky:xmms2 - enable monitoring of music played by media-sound/xmms2
+app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
+app-editors/vim-qt:luajit - Use dev-lang/luajit instead of dev-lang/lua
+app-office/calligra:attica - Get hot stuff with dev-libs/libattica
+app-office/calligra:colorio - Enables media-libs/opencolorio which is a complete color management solution.
+app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
+app-office/calligra:glew - Enable media-libs/glew opengl extension library support
+app-office/calligra:glib - Enable support for C library routines from dev-libs/glib
+app-office/calligra:gsf - Enable support for ODT structures extraction via gnome-extra/libgsf
+app-office/calligra:import-filter - Enable support for various import filter file formats like WordPerfect, Visio and Apple Keynote
+app-office/calligra:kdcraw - Enable support for KDE image manipulating interface via kde-base/libkdcraw
+app-office/calligra:kdepim - Enable support for KDEPIM resources integration
+app-office/calligra:marble - Enable displaying of maps using Marble
+app-office/calligra:nepomuk - Enable Nepomuk based semantic desktop support (deprecated)
+app-office/calligra:okular - Enable bindings for kde-base/okular
+app-office/calligra:spacenav - Enable support for the 3Dconnexion spacenav input device via dev-libs/libspnav
+app-office/calligra:vc - Enable support for dev-libs/vc, could be a significant speed boost on krita
+app-office/calligra:xbase - Enable support for xbase compatible database formats
+dev-lang/erlang:halfword - Enable halfword emulator
+dev-lang/erlang:hipe - HIgh Performance Erlang extension
+dev-lang/erlang:kpoll - Enable kernel polling support
+dev-lang/erlang:sctp - Support for Stream Control Transmission Protocol
+dev-libs/blingbling:vicious - Require vicious plugin
+dev-libs/libcouplet:doc - Install doxygen documentation
+dev-libs/libcouplet:xml - Use dev-libs/libxml2 to parse XML
+dev-libs/libdbusmenu:gtk2 - Build with x11-libs/gtk+:2
+dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
+dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
+dev-libs/libstrophe:doc - Install doxygen documentation
+dev-libs/libstrophe:xml - Use dev-libs/libxml2 to parse XML
+dev-libs/thrift:c_glib - Enable c_glib support.
+dev-libs/thrift:cpp - Enable cpp support.
+dev-libs/thrift:csharp - Enable csharp support.
+dev-libs/thrift:erlang - Enable erlang support.
+dev-libs/thrift:go - Enable go support.
+dev-libs/thrift:haskell - Enable haskell support.
+dev-libs/thrift:java - Enable java support.
+dev-libs/thrift:perl - Enable perl support.
+dev-libs/thrift:php - Enable php support.
+dev-libs/thrift:php_extension - Enable php_extension support.
+dev-libs/thrift:pic - Enable pic support.
+dev-libs/thrift:python - Enable python support.
+dev-libs/thrift:ruby - Enable ruby support.
+dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
+dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
+dev-util/gperftools:cpu-profiler - Build the cpu profiler
+dev-util/gperftools:debug - Build versions of libs with debugalloc
+dev-util/gperftools:heap-checker - Build the heap checker
+dev-util/gperftools:heap-profiler - Build the heap profiler
+dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
+dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
+dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
+games-roguelike/angband:sound - Enable and install sounds
+lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
+lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
+lxde-base/lxpanelx:menucache - Add support for lxde-base/menu-cache
+lxde-base/lxpanelx:oss - Adds support for OSS (Open Sound System)
+lxde-base/lxpanelx:plugins - Enable plugin loading
+lxde-base/lxpolkit:gtk3 - Build with x11-libs/gtk+:3
+mail-client/alpine:passfile - Adds support for caching passwords into a file between sessions
+mail-client/alpine:patches - Apply additional pathces. See http://patches.freeiz.com/alpine/info/all.html
+mail-client/alpine:smime - Enable support for S/MIME
+mail-client/alpine:topal - Enable support for net-mail/topal
+media-gfx/bundler:ceres - Add support for ceresnonlinear least-squares minimizer
+media-gfx/darktable:colord - Support color management using x11-misc/colord
+media-gfx/darktable:flickr - Add support for uploading photos to flickr
+media-gfx/darktable:geo - Enable geotagging support
+media-gfx/darktable:graphicsmagick - Use media-gfx/graphicsmagick for image importing
+media-gfx/darktable:opencl - Enable opencl support
+media-gfx/darktable:pax_kernel - Triggers paxmarking of main darktable binary
+media-gfx/darktable:rawspeed - Enable the rawspeed backend
+media-gfx/darktable:slideshow - Build the opengl slideshow viewer
+media-gfx/darktable:squish - Enable thumbnail compression via libsquish
+media-gfx/darktable:web-services - Add support for uploading photos to facebook and picasa
+media-gfx/darktable:webp - Enable WebP export support
+media-gfx/embree:ispc - Adds support for Intel SPMD Program Compiler
+media-gfx/exiv2:contrib - Build additional contrib components
+media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
+media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
+media-gfx/fontforge:devicetables - Control whether we build with support for device tables which allow fine control of kerning (etc.) at small point sizes
+media-gfx/fontforge:freetype - Control whether we build with freetype
+media-gfx/fontforge:freetype-bytecode - Control whether we build with the bytecode interpreter
+media-gfx/fontforge:gb12345 - Control whether fontforge understands the gb12345 encoding
+media-gfx/fontforge:pango - Enable pango font rendering
+media-gfx/fontforge:pasteafter - Controls whether fontforge has a paste after command (Useful for making words?). This is kind of fun, but it isn't useful for normal fonts.
+media-gfx/fontforge:tilepath - Controls whether fontforge has a tile path command (a variant of expand stroke) This is useful for very decorative fonts, most people won't want it.
+media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
+media-gfx/fontforge:type3 - Build in support for type3/svg fonts containing multilayered drawing with strokes, fills, images, etc. Type3 fonts are only supported by postscript printers (not by most windowing displays). They are capable of more exotic images than normal fonts but require much more effort to support.
+media-gfx/graphicsmagick:fpx - Enable FlashPIX support
+media-gfx/graphicsmagick:q16 - 16 bits in a pixel quantum
+media-gfx/graphicsmagick:q32 - 32 bits in a pixel quantum
+media-gfx/graphicsmagick:q8 - 8 bits in a pixel quantum
+media-gfx/inkscape:dia - Pull in app-office/dia for dia import extension
+media-gfx/inkscape:gs - Enables support for the PostScript import extension
+media-gfx/inkscape:inkjar - Enables support for OpenOffice.org SVG jar files
+media-gfx/inkscape:poppler - Enable libpoppler-cairo for rendering PDF preview
+media-gfx/inkscape:postscript - Add support for media-gfx/pstoedit
+media-gfx/inkscape:wpg - Support for WordPerfect Graphics
+media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-compliant 3D rendering solution)
+media-gfx/makehuman:blender - Add media-gfx/blender support
+media-gfx/osl:tbb - Add support for dev-cpp/tbb
+media-gfx/siftgpu:cuda - Add support for dev-util/nvidia-cuda-toolkit
+media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
+media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
+media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
+media-libs/gmtk:dconf - Enable support for gnome-base/dconf
+media-libs/gmtk:gtk3 - Build with x11-libs/gtk+:3
+media-libs/luxrays:blender - Add support for blender
+media-libs/opencolorio:pdf - Install extra documentation in PDF format
+media-libs/openimageio:colorio - Use media-gfx/opencolorio
+media-libs/openimageio:opencv - Use media-libs/opencv
+media-libs/openimageio:tbb - Use dev-cpp/tbb
+media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
+media-plugins/deadbeef-fb:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-fb:gtk3 - Build with x11-libs/gtk+:3
+media-plugins/deadbeef-ffmpeg:3dnowext - Enable manually-optimised routines using the AMD 3DNow!Ex SIMD instruction set, present in modern AMD CPUs. (Check for 3dnowext in /proc/cpuinfo to know whether your CPU supports it).
+media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
+media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
+media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
+media-plugins/deadbeef-ffmpeg:mmxext - Enables mmx2 support
+media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
+media-plugins/deadbeef-ffmpeg:ssse3 - Faster floating point optimization for SSSE3 capable chips (Intel Core 2 and later chips)
+media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
+media-plugins/deadbeef-musical-spectrum:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-musical-spectrum:gtk3 - Build with x11-libs/gtk+:3
+media-plugins/deadbeef-spectrogram:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-spectrogram:gtk3 - Build with x11-libs/gtk+:3
+media-plugins/deadbeef-vk:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-vk:gtk3 - Build with x11-libs/gtk+:3
+media-plugins/deadbeef-waveform-seekbar:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-waveform-seekbar:gtk3 - Build with x11-libs/gtk+:3
+media-sound/amulet:flac - Support for flac fetching
+media-sound/amulet:mp3 - Support for mp3 fetching
+media-sound/deadbeef:adplug - Adplug player (OPL2/OPL3 emulation)
+media-sound/deadbeef:alac - Enable support for alac
+media-sound/deadbeef:ape - Monkey's Audio plugin
+media-sound/deadbeef:converter - Enable media-converter
+media-sound/deadbeef:cover - Build album art loader plugin
+media-sound/deadbeef:cover-imlib2 - Use imlib2 in artwork plugin
+media-sound/deadbeef:dumb - Support for tracker music(MOD, S3M, XM, IT, STM, 669, PTM, PSM, MTM, DSM, ASYLUM AMF, UMX, J2B)
+media-sound/deadbeef:gme - Game Music Emu plugin for NSF, AY, etc
+media-sound/deadbeef:gtk2 - Build with x11-libs/gtk+:2
+media-sound/deadbeef:gtk3 - Build with x11-libs/gtk+:3
+media-sound/deadbeef:hotkeys - Enable hotkeys plugin
+media-sound/deadbeef:lastfm - Enable lastfm plugin
+media-sound/deadbeef:m3u - Support for m3u playlists
+media-sound/deadbeef:midi - Add support for midi files
+media-sound/deadbeef:mono2stereo - Enable mono2stereo plugin
+media-sound/deadbeef:notify - Notification-daemon support plugin
+media-sound/deadbeef:nullout - NULL output plugin
+media-sound/deadbeef:pltbrowser - Playlist browser gui plugin
+media-sound/deadbeef:psf - AOSDK-based PSF(QSF,SSF,DSF) plugin
+media-sound/deadbeef:rpath - Hardcode runtime library paths
+media-sound/deadbeef:shellexec - Shell commands plugin
+media-sound/deadbeef:shn - Support for shorten (.shn) files
+media-sound/deadbeef:sid - Commodore64 SID music player plugin
+media-sound/deadbeef:src - Add media-libs/libsamplerate support
+media-sound/deadbeef:supereq - SuperEQ DSP plugin
+media-sound/deadbeef:tta - Build tta plugin
+media-sound/deadbeef:vtx - Libayemy VTX ZX-Spectrum music player plugin
+media-sound/deadbeef:wma - WMA plugin
+media-sound/deadbeef:zip - Vfs_zip plugin
+media-sound/sonata:dbus - Support for dbus fetching
+media-sound/sonata:mpd - Support for mpd fetching
+media-sound/sonata:taglib - Enable support for taglib
+media-video/acestream-ffmpeg:3dnowext - Enable manually-optimised routines using the AMD 3DNow!Ex SIMD instruction set, present in modern AMD CPUs. (Check for 3dnowext in /proc/cpuinfo to know whether your CPU supports it).
+media-video/acestream-ffmpeg:aacplus - AAC+ encoding via media-libs/libaacplus.
+media-video/acestream-ffmpeg:amr - Enables Adaptive Multi-Rate Audio support
+media-video/acestream-ffmpeg:avx - Adds support for Advanced Vector Extensions instructions (Intel Sandy Bridge, AMD Bulldozer and later chips)
+media-video/acestream-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
+media-video/acestream-ffmpeg:cdio - Enables audio CD grabbing with dev-libs/libcdio.
+media-video/acestream-ffmpeg:celt - Adds Xiph CELT audio decoding support via media-libs/celt
+media-video/acestream-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
+media-video/acestream-ffmpeg:dirac - Enable Dirac video support (an advanced royalty-free video compression format) via the reference library: dirac.
+media-video/acestream-ffmpeg:faac - Use external faac library for AAC encoding
+media-video/acestream-ffmpeg:frei0r - Enable frei0r wrapping in libavfilter
+media-video/acestream-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
+media-video/acestream-ffmpeg:libv4l - Uses media-libs/libv4l for video4linux instead of direct calls. Adds support for more devices via the userspace library.
+media-video/acestream-ffmpeg:mmxext - Enables mmx2 support
+media-video/acestream-ffmpeg:network - Enables network streaming support
+media-video/acestream-ffmpeg:openssl - Enables dev-libs/openssl support. Adds support for encrypted network protocols (TLS/HTTPS).
+media-video/acestream-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
+media-video/acestream-ffmpeg:rtmp - Enable Real Time Messaging Protocol using librtmp
+media-video/acestream-ffmpeg:schroedinger - Enable Dirac video support (an advanced royalty-free video compression format) via libschroedinger (high-speed implementation in C of the Dirac codec).
+media-video/acestream-ffmpeg:ssse3 - Faster floating point optimization for SSSE3 capable chips (Intel Core 2 and later chips)
+media-video/acestream-ffmpeg:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
+media-video/acestream-ffmpeg:vis - Adds support for SIMD optimizations for UltraSPARC processors.
+media-video/acestream-ffmpeg:vpx - Enables vp8 codec support using libvpx: Decoding vp8 does not require this to be enabled but libvpx can also be used for decoding; encoding vp8 requires this useflag to be enabled though.
+media-video/acestream-player-data:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
+media-video/acestream-player-data:linguas_ach - unknown
+media-video/acestream-player-data:linguas_cgg - unknown
+media-video/acestream-player-data:linguas_ckb - unknown
+media-video/acestream-player-data:linguas_co - unknown
+media-video/acestream-player-data:linguas_ff - unknown
+media-video/acestream-player-data:linguas_fur - unknown
+media-video/acestream-player-data:linguas_tet - unknown
+media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
+media-video/gnome-mplayer:dconf - Enable support for gnome-base/dconf
+media-video/gnome-mplayer:gtk3 - Build with x11-libs/gtk+:3
+net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
+net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
+net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi utilities under USE=utils
+net-dns/avahi:howl-compat - Enable compat libraries for howl
+net-dns/avahi:introspection - Use dev-libs/gobject-introspectionfor introspection
+net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
+net-dns/avahi:utils - Install the avahi gtk+ utils avahi-discover, bssh, and bvnc
+net-im/profanity:libnotify - Enable desktop notifications support
+net-im/profanity:otr - Enable Off-the-Record support (encryption)
+net-im/profanity:pgp - Enable PGP support
+net-im/profanity:themes - Install additional themes
+net-im/profanity:xml - Link with libxml2 instead of expat
+net-im/profanity:xscreensaver - Use x11-libs/libXScrnSaver for checking idle time
+net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
+net-libs/libinfinity:server - Build the infinote standalone server
+net-libs/ortp:srtp - Add support for Secure RTP
+net-misc/dropbox:librsync-bundled - Use bundled librsync instead of system one.
+net-misc/pppoat:extra - Enable extra modules
+net-misc/pppoat:xmpp - Enable xmpp module (PPP over Jabber)
+sci-electronics/kicad:dev-doc - Install developer documentation (requires app-doc/doxygen)
+sci-electronics/kicad:github - github plugin
+sci-electronics/kicad:gost - Kicad gost
+sci-electronics/kicad:nanometr - pcbnew nanometres
+sci-electronics/kicad:python - Kicad scripting
+sci-electronics/kicad:sexpr - pcbnew sexpr file format
+sci-geosciences/googleearth:mdns-bundled - Use bundled nss-mdns library instead of depending on sys-auth/nss-mdns. Enable this if you want to avoid the deptree.
+sci-geosciences/googleearth:qt-bundled - Use bundled Qt4 libraries instead of system ones. Recommended only for troubleshooting.
+sci-mathematics/fvm2:doc - Install ukrainian documentation
+sci-mathematics/fvm2:examples - Install examples for Markov algorithm
+sci-mathematics/sofastatistics:linguas_hr_HR - Croatian locale
+sci-mathematics/sofastatistics:linguas_tr_TR - Turkish locale
+sys-fs/ls-fuse:debug - Enables debug messages
+sys-kernel/kernel-cleaner:parallel - Add support for sys-process/parallel
+www-apps/ikiwiki:extras - Installs additional modules used by ikiwiki plugins
+www-client/firefox:appmenu - Add support for ubuntu global menu
+www-client/firefox:bindist - Disable official Firefox branding (icons, name) which are not binary-redistributable according to upstream.
+www-client/firefox:custom-optimization - Fine-tune custom compiler optimizations (-Os, -O0, -O1, -O2, -O3)
+www-client/firefox:minimal - Prevent sdk and headers from being installed
+www-client/firefox:pgo - Add support for profile-guided optimization using gcc-4.5, for faster binaries. This option will double the compile time.
+www-client/firefox:system-cairo - Use the system-wide x11-libs/cairo Use system cairo instead of bundled.
+www-client/firefox:system-icu - Use the system-wide dev-libs/icu Use system icu instead of bundled.
+www-client/firefox:system-jpeg - Use the system-wide media-libs/libjpeg-turbo Use system jpeg instead of bundled.
+www-client/firefox:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
+www-plugins/rosa-media-player-plugin:divx - Adds divx support
+www-plugins/rosa-media-player-plugin:mpeg - Adds libmpeg3 support to various packages
+www-plugins/rosa-media-player-plugin:rm - Adds real audo/video support
+www-plugins/rosa-media-player-plugin:wmp - Adds Windows media support
+x11-libs/bamf:gtk2 - Build with x11-libs/gtk+:2
+x11-libs/bamf:gtk3 - Build with x11-libs/gtk+:3
+x11-libs/gtk+:appmenu - Add support for ubuntu global menu
+x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
+x11-libs/gtk+:egl - Use EGL surfaces and Cairo GL in the wayland backend. This flag has no effect on X or aqua backends.
+x11-libs/gtk+:introspection - Use dev-libs/gobject-introspection for introspection
+x11-libs/gtk+:overlay - Add support for ubuntu overlay scrollbars
+x11-libs/gtk+:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit in application chooser
+x11-libs/gtk+:wayland - Enable dev-libs/wayland backend
+x11-libs/libwnck:introspection - Use dev-libs/gobject-introspection for introspection
+x11-libs/wxGTK:gnome - Use gnome-base/libgnomeprintui for printing tasks.
+x11-libs/wxGTK:gstreamer - Enable the wxMediaCtrl class for playing audio and video through gstreamer.
+x11-libs/wxGTK:sdl - Use Simple Directmedia Layer (media-libs/libsdl) for audio.
+x11-misc/appmenu-gtk:gtk2 - Build with x11-libs/gtk+:2
+x11-misc/appmenu-gtk:gtk3 - Build with x11-libs/gtk+:3
+x11-misc/indicator-appmenu:gtk2 - Build with x11-libs/gtk+:2
+x11-misc/indicator-appmenu:gtk3 - Build with x11-libs/gtk+:3
+x11-misc/overlay-scrollbar:gtk2 - Build with x11-libs/gtk+:2
+x11-misc/overlay-scrollbar:gtk3 - Build with x11-libs/gtk+:3
+x11-plugins/compiz-plugins-extra:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
+x11-plugins/compiz-plugins-main:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
+x11-terms/evilvte:gtk3 - Build with x11-libs/gtk+:3
+x11-terms/roxterm:gtk3 - Build with x11-libs/gtk+:3
+x11-themes/bespin:windeco - Enable window decoration for KWin.
+x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
+x11-wm/compiz:fuse - Enables support for the filesystem in userspace plugin through sys-fs/fuse.
+x11-wm/compiz:gconf - Enable the GConf-based configuration backend; it is not required to work with GNOME, and might actually be faster if it's not used.
+x11-wm/compiz:nvidia - Antitearing patch for nvidia users.
+x11-wm/compiz-fusion:emerald - Install the x11-wm/emerald package.
+x11-wm/compiz-fusion:unsupported - Install the x11-plugins/compiz-fusion-plugins-unsupported package.
+x11-wm/wmfs:imlib2 - Compile with media-libs/imlib2 support
+x11-wm/wmfs:xrandr - Add support for x11-libs/libXrandr
