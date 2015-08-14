@@ -179,8 +179,7 @@ media-video/gnome-mplayer 1.0.6 1.0.7: A GTK+ interface to MPlayer
 media-video/harvid 9999: http ardour video daemon
 media-video/lightworks 12.5-r5 12.5-r6: Lightworks is the fastest, most accessible and focused NLE in the industry
 media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
-media-video/rosa-media-player 1.0: ROSA Media Player
-media-video/rosa-media-player 1.6.2 9999: Multimedia player that supports most of audio and video formats.
+media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
 media-video/shotcut 9999: A free, open source, cross-platform video editor
 media-video/smtube 1.8 14.8.0: A youtube search and play add-on for smplayer
 net-dns/avahi 0.6.30-r6: System which facilitates service discovery on a local network
@@ -218,8 +217,7 @@ www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: Firefox Web Browser
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 www-plugins/okularplugin 1.0.1: Plugin for embedding okular into the browser
-www-plugins/rosa-media-player-plugin 0.951: ROSA Media Plugin
-www-plugins/rosa-media-player-plugin 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
+www-plugins/rosa-media-player-plugin 0.951 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
 x11-apps/ccsm 0.8.4-r6: Compizconfig Settings Manager
 x11-apps/simple-ccsm 0.8.8-r1: Simplified Compizconfig Settings Manager
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
