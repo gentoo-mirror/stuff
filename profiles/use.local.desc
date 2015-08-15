@@ -21,21 +21,6 @@ app-admin/conky:weather-xoap - enable support for metar and xoap weather service
 app-admin/conky:xmms2 - enable monitoring of music played by media-sound/xmms2
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
 app-editors/vim-qt:luajit - Use dev-lang/luajit instead of dev-lang/lua
-app-office/calligra:attica - Get hot stuff with dev-libs/libattica
-app-office/calligra:colorio - Enables media-libs/opencolorio which is a complete color management solution.
-app-office/calligra:eigen - Enable dev-cpp/eigen mathematical templates support
-app-office/calligra:glew - Enable media-libs/glew opengl extension library support
-app-office/calligra:glib - Enable support for C library routines from dev-libs/glib
-app-office/calligra:gsf - Enable support for ODT structures extraction via gnome-extra/libgsf
-app-office/calligra:import-filter - Enable support for various import filter file formats like WordPerfect, Visio and Apple Keynote
-app-office/calligra:kdcraw - Enable support for KDE image manipulating interface via kde-base/libkdcraw
-app-office/calligra:kdepim - Enable support for KDEPIM resources integration
-app-office/calligra:marble - Enable displaying of maps using Marble
-app-office/calligra:nepomuk - Enable Nepomuk based semantic desktop support (deprecated)
-app-office/calligra:okular - Enable bindings for kde-base/okular
-app-office/calligra:spacenav - Enable support for the 3Dconnexion spacenav input device via dev-libs/libspnav
-app-office/calligra:vc - Enable support for dev-libs/vc, could be a significant speed boost on krita
-app-office/calligra:xbase - Enable support for xbase compatible database formats
 dev-lang/erlang:halfword - Enable halfword emulator
 dev-lang/erlang:hipe - HIgh Performance Erlang extension
 dev-lang/erlang:kpoll - Enable kernel polling support
@@ -61,15 +46,10 @@ dev-libs/thrift:php_extension - Enable php_extension support.
 dev-libs/thrift:pic - Enable pic support.
 dev-libs/thrift:python - Enable python support.
 dev-libs/thrift:ruby - Enable ruby support.
-dev-util/cuda-z:sm_30 - Add support for compute capability 3.0
-dev-util/cuda-z:sm_35 - Add support for compute capability 3.5
 dev-util/gperftools:cpu-profiler - Build the cpu profiler
 dev-util/gperftools:debug - Build versions of libs with debugalloc
 dev-util/gperftools:heap-checker - Build the heap checker
 dev-util/gperftools:heap-profiler - Build the heap profiler
-dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
-dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
-dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
 games-roguelike/angband:sound - Enable and install sounds
 lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
 lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
@@ -93,7 +73,6 @@ media-gfx/darktable:slideshow - Build the opengl slideshow viewer
 media-gfx/darktable:squish - Enable thumbnail compression via libsquish
 media-gfx/darktable:web-services - Add support for uploading photos to facebook and picasa
 media-gfx/darktable:webp - Enable WebP export support
-media-gfx/embree:ispc - Adds support for Intel SPMD Program Compiler
 media-gfx/exiv2:contrib - Build additional contrib components
 media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
 media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
@@ -116,21 +95,12 @@ media-gfx/inkscape:inkjar - Enables support for OpenOffice.org SVG jar files
 media-gfx/inkscape:poppler - Enable libpoppler-cairo for rendering PDF preview
 media-gfx/inkscape:postscript - Add support for media-gfx/pstoedit
 media-gfx/inkscape:wpg - Support for WordPerfect Graphics
-media-gfx/makehuman:aqsis - Aqsis add its dependencies (Open source RenderMan-compliant 3D rendering solution)
-media-gfx/makehuman:blender - Add media-gfx/blender support
 media-gfx/osl:tbb - Add support for dev-cpp/tbb
-media-gfx/siftgpu:cuda - Add support for dev-util/nvidia-cuda-toolkit
 media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
 media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
 media-libs/gmtk:dconf - Enable support for gnome-base/dconf
 media-libs/gmtk:gtk3 - Build with x11-libs/gtk+:3
-media-libs/luxrays:blender - Add support for blender
-media-libs/opencolorio:pdf - Install extra documentation in PDF format
-media-libs/openimageio:colorio - Use media-gfx/opencolorio
-media-libs/openimageio:opencv - Use media-libs/opencv
-media-libs/openimageio:tbb - Use dev-cpp/tbb
-media-libs/pba:cuda - Add support for dev-util/nvidia-cuda-toolkit
 media-plugins/deadbeef-fb:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-fb:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-ffmpeg:3dnowext - Enable manually-optimised routines using the AMD 3DNow!Ex SIMD instruction set, present in modern AMD CPUs. (Check for 3dnowext in /proc/cpuinfo to know whether your CPU supports it).
@@ -289,7 +259,6 @@ x11-plugins/compiz-plugins-main:gconf - Install GConf schemas for the plugins, n
 x11-terms/evilvte:gtk3 - Build with x11-libs/gtk+:3
 x11-terms/roxterm:gtk3 - Build with x11-libs/gtk+:3
 x11-themes/bespin:windeco - Enable window decoration for KWin.
-x11-themes/kfaenza:additional - Install additional KFaenza icons. See third homepage for details
 x11-wm/compiz:fuse - Enables support for the filesystem in userspace plugin through sys-fs/fuse.
 x11-wm/compiz:gconf - Enable the GConf-based configuration backend; it is not required to work with GNOME, and might actually be faster if it's not used.
 x11-wm/compiz:nvidia - Antitearing patch for nvidia users.
