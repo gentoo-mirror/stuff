@@ -123,7 +123,7 @@ media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports mo
 media-video/smtube 1.8 14.8.0: A youtube search and play add-on for smplayer
 net-dns/avahi 0.6.30-r6: System which facilitates service discovery on a local network
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
-net-im/profanity 0.4.6 9999: Ncurses based jabber client inspired by irssi
+net-im/profanity 0.4.7 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-libs/libinfinity 0.5.1: An implementation of the Infinote protocol written in GObject-based C.
 net-libs/ortp 0.18.0 0.20.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
