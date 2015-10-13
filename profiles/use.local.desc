@@ -31,6 +31,7 @@ dev-libs/libcouplet:xml - Use dev-libs/libxml2 to parse XML
 dev-libs/libdbusmenu:gtk2 - Build with x11-libs/gtk+:2
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
+dev-libs/libmesode:doc - Install doxygen documentation
 dev-libs/libstrophe:doc - Install doxygen documentation
 dev-libs/libstrophe:xml - Use dev-libs/libxml2 to parse XML
 dev-libs/thrift:c_glib - Enable c_glib support.
