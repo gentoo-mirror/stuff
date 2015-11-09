@@ -47,7 +47,6 @@ dev-util/qbs 9999: Next generation of build systems based on Qt and QML language
 games-action/jjffe 2.8_alpha-r7: JJFFE is set of recompiled replacement executables for the game Frontier: First Encounters.
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
-games-roguelike/angband 3.5.0: A roguelike dungeon exploration game based on the books of J.R.R. Tolkien
 games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
 gnome-extra/gnome-shell-extensions-mediaplayer 9999: A mediaplayer indicator for the gnome-shell.
 gnome-extra/indicator-applet 0.4.5 0.4.12: A small applet to display information from various applications consistently in the panel
@@ -150,7 +149,7 @@ sys-fs/google-drive-ocamlfuse 0.5.12: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
-sys-kernel/liquorix-sources 4.1.11_p1 4.2.4_p1: The Liquorix Kernel Sources v3.x
+sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.5_p1 4.3.0_p1: The Liquorix Kernel Sources v3.x
 www-apps/ikiwiki 3.20150610 3.20150614: A wiki compiler
 www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: Firefox Web Browser
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
