@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=doc? ( >=app-doc/doxygen-1.4.2 ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=High-performance, full-featured text search engine based off of lucene in C++
+EAPI=5
+HOMEPAGE=http://clucene.sourceforge.net/
+IUSE=debug doc static-libs threads
+KEYWORDS=alpha amd64 ~arm hppa ia64 ~mips ppc ppc64 sparc x86 ~x86-fbsd ~amd64-linux ~x86-linux ~ppc-macos
+LICENSE=|| ( Apache-2.0 LGPL-2.1 )
+SLOT=1
+SRC_URI=mirror://sourceforge/clucene/clucene-core-0.9.21b.tar.bz2
+_eclass_exported_funcs=src_unpack:base src_prepare:- src_configure:- src_compile:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	f20548a2f7b0128068388cd2ec26708a	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=8bb98a52452d86a6a6ca2c5aca17c51c

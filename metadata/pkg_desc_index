@@ -1,197 +1,197 @@
-app-admin/conky 1.8.1-r6: 
-app-arch/lz4 9999: 
-app-benchmarks/perftest 0.1: 
-app-benchmarks/qtperf 0.1: 
+app-admin/conky 1.8.1-r6: An advanced, highly configurable system monitor for X
+app-arch/lz4 9999: Extremely Fast Compression algorithm
+app-benchmarks/perftest 0.1: Application designed to test gtk2/gtk3 performance
+app-benchmarks/qtperf 0.1: Application designed to test QT performance
 app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementations
-app-doc/lapack-docs 3.3-r1: 
-app-editors/gobby 0.4.94: 
-app-editors/manpageeditor 0.0.13: 
-app-editors/vim-qt 9999 20140203 20140827: 
-app-misc/megatools 1.9.91 1.9.91-r1: 
+app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
+app-editors/gobby 0.4.94: GTK-based collaborative editor
+app-editors/manpageeditor 0.0.13: Man Page Editor
+app-editors/vim-qt 9999 20140203 20140827: Qt GUI version of the Vim text editor
+app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line of your desktop or server.
 app-misc/qmetro 0.6.5-r1: Vector metro (subway) map for calculating route and getting information about transport nodes.
-app-misc/taskd 1.0.0: 
-app-misc/tudu 0.8.1-r1 0.8.2: 
-app-office/mytetra 9999: 
+app-misc/taskd 1.0.0: Taskwarrior is a command-line todo list manager
+app-misc/tudu 0.8.1-r1 0.8.2: Command line interface to manage hierarchical todos
+app-office/mytetra 9999: Smart manager for information collecting
 app-portage/gcc-switcher 1.4.1: Switch gcc's version per package
 app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
-app-portage/portopts 9999: 
+app-portage/portopts 9999: quick set opts per package
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 app-text/qrfcview 0.62 9999: Viewer for IETF RFCs
-dev-cpp/clucene 0.9.21b: 
+dev-cpp/clucene 0.9.21b: High-performance, full-featured text search engine based off of lucene in C++
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
-dev-lang/erlang 14.2.3: 
-dev-libs/acestream-libappindicator 12.10.0: 
+dev-lang/erlang 14.2.3: Erlang programming language, runtime environment, and large collection of libraries
+dev-libs/acestream-libappindicator 12.10.0: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/acestream-libebml 1.2.2: Extensible binary format library (kinda like XML) for acestream
-dev-libs/acestream-libgcrypt 1.5.3: 
-dev-libs/acestream-libindicator 12.10.1: 
-dev-libs/acestream-python-appindicator 12.10.0-r1: 
+dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the code used in GnuPG
+dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
+dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
-dev-libs/libchardet 1.0.4: 
+dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libcouplet 9999: Fork of libstrophe - a simple, lightweight C library for writing XMPP clients
-dev-libs/libdbusmenu 12.10.2-r3: 
+dev-libs/libdbusmenu 12.10.2-r3: Library to pass menu structure across DBus
 dev-libs/libdbusmenu-qt 0.9.0 0.9.1 0.9.2 0.9.2-r2: A library providing Qt implementation of DBusMenu specification
-dev-libs/libindicator 0.4.1 0.4.1-r300: 
+dev-libs/libindicator 0.4.1 0.4.1-r300: A set of symbols and convience functions that all indicators would like to use
 dev-libs/libmesode 9999: Fork of libstrophe for use with Profanity XMPP Client
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 0.8-r1 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library, allowing graphic and text rendering.
-dev-libs/thrift 0.9.1: 
-dev-ml/biniou 1.0.9: 
-dev-ml/gapi-ocaml 0.2.6: 
-dev-ml/ocamlfuse 2.7.1: 
-dev-python/pythonmagick 0.9.9: 
-dev-util/aptana 3.4.2: 
+dev-libs/thrift 0.9.1: Data serialization and communication toolwork
+dev-ml/biniou 1.0.9: A binary JSON like data format for OCaml
+dev-ml/gapi-ocaml 0.2.6: A simple OCaml client for Google Services
+dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
+dev-python/pythonmagick 0.9.9: Python bindings for ImageMagick
+dev-util/aptana 3.4.2: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/gperftools 2.4 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
 games-action/jjffe 2.8_alpha-r7: JJFFE is set of recompiled replacement executables for the game Frontier: First Encounters.
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
-games-roguelike/dwarftherapist 30.1.0: 
-gnome-extra/gnome-shell-extensions-mediaplayer 9999: 
-gnome-extra/indicator-applet 0.4.5 0.4.12: 
-kde-misc/ihatethecashew 0.4-r1: 
-kde-misc/kwin-button-applet 0.6: 
-kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: 
-kde-misc/yawc 0.4: 
-lxde-base/lxpanelx 9999: 
+games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
+gnome-extra/gnome-shell-extensions-mediaplayer 9999: A mediaplayer indicator for the gnome-shell.
+gnome-extra/indicator-applet 0.4.5 0.4.12: A small applet to display information from various applications consistently in the panel
+kde-misc/ihatethecashew 0.4-r1: KDE4 plasmoid. Removes the "hand" in upper right corner of the screen
+kde-misc/kwin-button-applet 0.6: KWinButton applet
+kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: A Plasma widget to display menubar of application windows
+kde-misc/yawc 0.4: Yet Another Window Control - KWinButton applet analog
+lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
-mail-client/alpine 2.11 2.20: 
+mail-client/alpine 2.11 2.20: alpine is an easy to use text-based based mail and news client
 media-gfx/SVGCleaner 0.6.2 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
-media-gfx/bundler 9999: 
-media-gfx/darktable 1.5: 
-media-gfx/exiv2 0.23-r3: 
-media-gfx/fontforge 99999999-r1: 
-media-gfx/graphicsmagick 9999: 
-media-gfx/inkscape 9999: 
-media-gfx/meshlab 1.3.3: 
-media-gfx/osl 1.6.5-r1: 
+media-gfx/bundler 9999: Bundler is a structure-from-motion system for unordered image collections.
+media-gfx/darktable 1.5: A virtual lighttable and darkroom for photographers
+media-gfx/exiv2 0.23-r3: EXIF and IPTC metadata C++ library and command line utility
+media-gfx/fontforge 99999999-r1: postscript font editor and converter
+media-gfx/graphicsmagick 9999: GraphicsMagick is the swiss army knife of image processing.
+media-gfx/inkscape 9999: A SVG based generic vector-drawing program
+media-gfx/meshlab 1.3.3: A mesh processing system
+media-gfx/osl 1.6.5-r1: Open Shading Language
 media-gfx/sk1 0.9.1_pre905-r1 9999: sK1 vector graphics editor
 media-gfx/sk1sdk 9999: sK1 vector graphics editor
 media-gfx/v3d 9999: GPU implementation for slowmoVideo
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
-media-libs/glui 2.36: 
+media-libs/glui 2.36: A GLUT-based C++ user interface library
 media-libs/gmtk 1.0.5_beta1 1.0.5 1.0.6 1.0.7: GTK+ widget and function libraries for gnome-mplayer
-media-libs/lib3ds 1.3.0: 
-media-libs/libjpeg-turbo 9999: 
-media-libs/mlt 9999: 
+media-libs/lib3ds 1.3.0: library for managing 3D-Studio Release 3 and 4 .3DS files
+media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
+media-libs/mlt 9999: An open source multimedia framework, designed and developed for television broadcasting
 media-libs/sk1libs 0.9.1_pre905 9999: sK1 vector graphics editor
 media-plugins/animation-nodes 9999: A node based system to create animations
-media-plugins/blam 9999: 
+media-plugins/blam 9999: A still image camera calibration toolkit
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
-media-plugins/deadbeef-bookmark-manager 9999: 
-media-plugins/deadbeef-bs2b 9999: 
-media-plugins/deadbeef-fb 9999 20131020-r1 20140309 20140311 20140316: 
+media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
+media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
+media-plugins/deadbeef-fb 9999 20131020-r1 20140309 20140311 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video. Includes libavcodec.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
 media-plugins/deadbeef-infobar 1.3-r1 1.4 9999-r1: Infobar plugin for DeadBeeF audio player. Shows lyrics and artist's biography for the current track.
-media-plugins/deadbeef-jack 9999: 
-media-plugins/deadbeef-mpris-plugin 9999: 
-media-plugins/deadbeef-musical-spectrum 9999: 
-media-plugins/deadbeef-opus 0.3 9999: 
-media-plugins/deadbeef-qt 9999: 
-media-plugins/deadbeef-remote 9999: 
-media-plugins/deadbeef-spectrogram 9999: 
-media-plugins/deadbeef-stereo-widener 9999: 
-media-plugins/deadbeef-vgmstream 9999: 
+media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
+media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
+media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
+media-plugins/deadbeef-opus 0.3 9999: Ogg Opus decoder plugin for DeaDBeeF audio player.
+media-plugins/deadbeef-qt 9999: Qt interface plugin for Deadbeef player
+media-plugins/deadbeef-remote 9999: Remote control plugin for DeadBeeF
+media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio player
+media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
+media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
 media-plugins/deadbeef-vk 0.1.13-r1 0.2.0 0.2.1 0.2.2 9999: DeadBeef plugin for listening music from vkontakte.com
-media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: 
-media-plugins/depan 9999: 
-media-plugins/fft3dfilter 9999: 
-media-plugins/frei0r-plugins 9999: 
-media-plugins/npapi-vlc 2.0.6: 
-media-plugins/tuttleofx 9999: 
+media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
+media-plugins/depan 9999: The DePanEstimate and DePan plugins, ported to avxsynth
+media-plugins/fft3dfilter 9999: FFT3DFilter for avxsynth
+media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
+media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
+media-plugins/tuttleofx 9999: Open Shading Language
 media-plugins/uvsquares 9999: A still image camera calibration toolkit
 media-sound/amulet 9999: Audio converter based on flac, lame...
-media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 9999-r8: 
+media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 9999-r8: foobar2k-like music player
 media-sound/knockout 9999: Port of kn0ck0ut to LV2 plugin
 media-sound/mpg321 0.2.13-r4 0.3.2-r1: a realtime MPEG 1.0/2.0/2.5 audio player for layers 1, 2 and 3
 media-sound/pulsar 0.92.10: Cloud audio player (i.e. vk.com)
 media-sound/qsmmp 9999: Qsmmp is a audio player based on Qmmp. Qsmmp aimed to have native qt look.
-media-sound/sonata 9999: 
-media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: 
-media-tv/popcorntime-bin 0.3.7.1: 
+media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
+media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
+media-tv/popcorntime-bin 0.3.7.1: Watch torrent movies instantly
 media-video/acestream-ffmpeg 0.10.7-r6: Old ffmpeg libs for use with AceStream, does not conflict with ffmpeg
-media-video/acestream-player 2.1.6: 
+media-video/acestream-player 2.1.6: ACE Stream HD multimedia player based on VLC
 media-video/acestream-player-data 2.1.6-r11: ACE Stream player libraries files
-media-video/avxsynth 9999: 
-media-video/baka-mplayer 9999: 
+media-video/avxsynth 9999: A Linux port of the AviSynth toolkit
+media-video/baka-mplayer 9999: MPV front end
 media-video/gnome-mplayer 1.0.6 1.0.7: A GTK+ interface to MPlayer
-media-video/harvid 9999: 
-media-video/qtav 9999: 
-media-video/rosa-media-player 1.0 1.6.2 9999: 
-media-video/smtube 1.8 14.8.0: 
-net-dns/avahi 0.6.30-r6: 
-net-im/jitsi-bin 2.5 2.8: 
+media-video/harvid 9999: http ardour video daemon
+media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
+media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
+media-video/smtube 1.8 14.8.0: A youtube search and play add-on for smplayer
+net-dns/avahi 0.6.30-r6: System which facilitates service discovery on a local network
+net-im/jitsi-bin 2.5 2.8: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 0.4.7 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-libs/libinfinity 0.5.1: An implementation of the Infinote protocol written in GObject-based C.
 net-libs/ortp 0.18.0 0.20.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
-net-misc/dropbox 3.4.6: 
+net-misc/dropbox 3.4.6: Dropbox daemon (pretends to be GUI-less)
 net-misc/pppoat 9999: PPP over Any Transport
-net-p2p/acestream-engine 2.1.6-r2: 
-sci-electronics/kicad 99999999-r4609 999999999: 
-sci-geosciences/googleearth 5.1.3535.3218-r2: 
-sci-libs/atlas 3.10.2: 
+net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
+sci-electronics/kicad 99999999-r4609 999999999: Electronic Schematic and PCB design tools.
+sci-geosciences/googleearth 5.1.3535.3218-r2: A 3D interface to the planet
+sci-libs/atlas 3.10.2: Automatically Tuned Linear Algebra Software
 sci-libs/levmar 2.6-r1: Levenberg-Marquardt nonlinear least squares C library
 sci-mathematics/fvm2 1.99.2: Environment for executing and debugging Markov algorithm
-sci-mathematics/sofastatistics 1.4.0 1.4.1 1.4.1-r1 1.4.2 1.4.3: 
+sci-mathematics/sofastatistics 1.4.0 1.4.1 1.4.1-r1 1.4.2 1.4.3: SOFA is a statistics, analysis, and reporting program
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
 sys-apps/uksmstat 9999: Small tool to show UKSM statistics.
-sys-boot/efibootmgr 9999: 
-sys-boot/efivar 0.7 0.10 0.11: 
-sys-fs/davl 1.2.4: 
-sys-fs/f2fs-tools 1.2.0 1.3.0 9999: 
+sys-boot/efibootmgr 9999: Interact with the EFI Boot Manager
+sys-boot/efivar 0.7 0.10 0.11: Library to manipulate EFI variables
+sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
+sys-fs/f2fs-tools 1.2.0 1.3.0 9999: Tools for Flash-Friendly File System (F2FS)
 sys-fs/fragview 9999: Disk fragmentation viewer written with boost and gtkmm
-sys-fs/google-drive-ocamlfuse 0.5.12: 
+sys-fs/google-drive-ocamlfuse 0.5.12: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
-sys-kernel/kernel-cleaner 2.6.4 9999: 
-sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.5_p1 4.3.0_p1: 
-www-apps/ikiwiki 3.20150610 3.20150614: 
-www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: 
-www-misc/httraqt 1.0.6: 
+sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
+sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.5_p1 4.3.0_p1: The Liquorix Kernel Sources v3.x
+www-apps/ikiwiki 3.20150610 3.20150614: A wiki compiler
+www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: Firefox Web Browser
+www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
-www-plugins/okularplugin 1.0.1: 
+www-plugins/okularplugin 1.0.1: Plugin for embedding okular into the browser
 www-plugins/rosa-media-player-plugin 0.951 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
-x11-apps/ccsm 0.8.4-r6: 
-x11-apps/simple-ccsm 0.8.8-r1: 
-x11-apps/skb 0.3 0.4: 
+x11-apps/ccsm 0.8.4-r6: Compizconfig Settings Manager
+x11-apps/simple-ccsm 0.8.8-r1: Simplified Compizconfig Settings Manager
+x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104 0.2.104-r1: BAMF Application Matching Framework
 x11-libs/compiz-bcop 0.8.4 0.8.8: Compiz Option code Generator
-x11-libs/compizconfig-backend-gconf 0.8.4-r2 0.8.8: 
-x11-libs/compizconfig-backend-kconfig4 0.8.4 0.8.8: 
-x11-libs/gtk+ 2.24.17 2.24.19 2.24.22 2.24.23 2.24.23-r1 3.4.4 3.6.3-r2 3.8.2: 
+x11-libs/compizconfig-backend-gconf 0.8.4-r2 0.8.8: Compizconfig Gconf Backend
+x11-libs/compizconfig-backend-kconfig4 0.8.4 0.8.8: Compizconfig Kconfig Backend
+x11-libs/gtk+ 2.24.17 2.24.19 2.24.22 2.24.23 2.24.23-r1 3.4.4 3.6.3-r2 3.8.2: Gimp ToolKit +
 x11-libs/libcompizconfig 0.8.4-r2 0.8.8: Compiz Configuration System
-x11-libs/libwnck 3.2.1: 
+x11-libs/libwnck 3.2.1: A window navigation construction kit
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
 x11-libs/wxGTK 2.9.1.1: GTK+ version of wxWidgets, a cross-platform C++ GUI toolkit.
 x11-misc/appmenu 0.3: Metapackage for appmenu
 x11-misc/appmenu-gtk 12.10.0 12.10.1 12.10.2: Application menu module for GTK
 x11-misc/appmenu-qt 0.2.4 0.2.5 0.2.6: Application menu module for Qt
-x11-misc/appmenu-thunderbird 3.5: 
-x11-misc/indicator-appmenu 0.2.1 0.3.1 0.3.2-r1: 
-x11-misc/kcm-qt-graphicssystem 1.2 1.3: 
+x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
+x11-misc/indicator-appmenu 0.2.1 0.3.1 0.3.2-r1: An indicator to host the menus from an application.
+x11-misc/kcm-qt-graphicssystem 1.2 1.3: This KCM allows you to easily configure the standard Qt graphics system
 x11-misc/krunner-appmenu 9999-r1: A krunner plugin that searches the appmenu
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus from the application into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.10 0.2.11 0.2.12 0.2.13 0.2.14 0.2.15 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
-x11-misc/yd-tools 1.2.2 9999: 
+x11-misc/yd-tools 1.2.2 9999: Panel indicator for YandexDisk CLI client for Linux
 x11-plugins/compiz-plugins-extra 0.8.6-r1 0.8.8: Compiz Fusion Window Decorator Extra Plugins
 x11-plugins/compiz-plugins-main 0.8.6-r1 0.8.8: Compiz Fusion Window Decorator Plugins
 x11-plugins/compiz-plugins-unsupported 0.8.4-r1 0.8.8: Compiz Fusion Window Decorator Unsupported Plugins
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget will display the current weather conditions plus a few days forecast
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
-x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: 
-x11-terms/cool-retro-term 9999: 
+x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
+x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
 x11-terms/evilvte 0.5.2_pre1: VTE based, super lightweight terminal emulator
-x11-terms/roxterm 2.6.5-r1: 
-x11-themes/bespin 9999: 
+x11-terms/roxterm 2.6.5-r1: A terminal emulator designed to integrate with the ROX environment
+x11-themes/bespin 9999: Very configurable Qt4/KDE4 style derived from the Oxygen project.
 x11-themes/emerald-themes 0.5.2: Emerald window decorator themes
-x11-wm/compiz 0.8.6-r4 0.8.8-r2 0.8.9-r1: 
+x11-wm/compiz 0.8.6-r4 0.8.8-r2 0.8.9-r1: OpenGL window and compositing manager
 x11-wm/compiz-fusion 0.8.4-r1 0.8.6 0.8.8: Compiz Fusion (meta)
 x11-wm/emerald 0.8.4-r2 0.8.8-r1: Emerald Window Decorator
 x11-wm/i3 9999: An improved dynamic tiling window manager
-x11-wm/wmfs 9999: 
+x11-wm/wmfs 9999: Windows Manager From Scratch

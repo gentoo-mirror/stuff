@@ -1,0 +1,12 @@
+DEFINED_PHASES=install preinst prepare unpack
+DESCRIPTION=PLEX media server
+EAPI=5
+HOMEPAGE=https://plex.tv/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2 LGPL-2
+RDEPEND=net-dns/avahi
+SLOT=0
+SRC_URI=x86? ( http://downloads.plexapp.com/plex-media-server/0.9.9.5.411-da1d892/plexmediaserver_0.9.9.5.411-da1d892_i386.deb http://stuff.tazhate.com/distfiles/plexmediaserver_0.9.9.5.411-da1d892_i386.deb ) amd64? ( http://downloads.plexapp.com/plex-media-server/0.9.9.5.411-da1d892/plexmediaserver_0.9.9.5.411-da1d892_amd64.deb http://stuff.tazhate.com/distfiles/plexmediaserver_0.9.9.5.411-da1d892_amd64.deb )
+_eclass_exported_funcs=pkg_preinst:- src_unpack:unpacker src_prepare:- src_install:-
+_eclasses_=unpacker	1d149d9bda7723e740cfd28118f27813	user	906f3c8eb3a2350a4f1191a89baa3e46
+_md5_=4cadbfe21850f6864e43dafcb77ff025

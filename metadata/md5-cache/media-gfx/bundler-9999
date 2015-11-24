@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=media-gfx/jhead ceres? ( sci-libs/ceres-solver ) virtual/lapack virtual/blas virtual/cblas media-gfx/jhead >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Bundler is a structure-from-motion system for unordered image collections.
+EAPI=5
+HOMEPAGE=https://github.com/snavely/bundler_sfm
+IUSE=-ceres
+KEYWORDS=amd64
+LICENSE=GPL-2
+RDEPEND=media-gfx/jhead ceres? ( sci-libs/ceres-solver ) virtual/lapack virtual/blas virtual/cblas
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=ccdeab751b1d7bd1237b5dd5f1516aaf

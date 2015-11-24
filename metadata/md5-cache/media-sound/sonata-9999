@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install postinst prepare test unpack
+DEPEND=>=dev-python/python-mpd-0.4.6 >=dev-python/pygobject-3.4.2 >=x11-libs/gtk+-3.4 mpd? ( >=media-sound/mpd-0.15 ) dbus? ( dev-python/dbus-python ) taglib? ( >=dev-python/tagpy-2013.1 ) virtual/pkgconfig python_targets_python3_3? ( >=dev-lang/python-3.3.2-r2:3.3 ) >=dev-lang/python-exec-2:=[python_targets_python3_3(-)?,-python_single_target_python3_3(-)] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=an elegant GTK 3 client for the Music Player Daemon
+EAPI=5
+HOMEPAGE=https://github.com/multani/sonata
+IUSE=dbus mpd taglib linguas_da linguas_it linguas_ko linguas_sk linguas_tr linguas_nl linguas_ca linguas_sl linguas_be linguas_zh_CN linguas_ru linguas_et linguas_sv linguas_pt_BR linguas_cs linguas_el_GR linguas_de linguas_fi linguas_ar linguas_pl linguas_uk linguas_ja linguas_es linguas_zh_TW linguas_fr python_targets_python3_3
+LICENSE=GPL-3
+RDEPEND=>=dev-python/python-mpd-0.4.6 >=dev-python/pygobject-3.4.2 >=x11-libs/gtk+-3.4 mpd? ( >=media-sound/mpd-0.15 ) dbus? ( dev-python/dbus-python ) taglib? ( >=dev-python/tagpy-2013.1 ) python_targets_python3_3? ( >=dev-lang/python-3.3.2-r2:3.3 ) >=dev-lang/python-exec-2:=[python_targets_python3_3(-)?,-python_single_target_python3_3(-)]
+REQUIRED_USE=|| ( python_targets_python3_3 )
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:git-r3 src_prepare:- src_configure:distutils-r1 src_compile:distutils-r1 src_test:distutils-r1 src_install:-
+_eclasses_=distutils-r1	46506dd0dd992b3c89b0d00daabfd86c	eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multibuild	ce2c2ede0c914b77f5dfc4e2ff2d0249	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	python-r1	fb656e31d5596be6ac85cde42dccfcb6	python-utils-r1	7d52f592fc09a002ea150d69507b5bad	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=1e49be45d9e4baba777c71ba6febc652
