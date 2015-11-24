@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install unpack
+DEPEND=app-arch/p7zip >=dev-qt/qtsvg-4.6 dev-vcs/git dev-vcs/git
+DESCRIPTION=SVG Cleaner cleans up your SVG files from unnecessary data.
+EAPI=4
+HOMEPAGE=http://qt-apps.org/content/show.php?action=content&content=147974 https://github.com/RazrFalcon/SVGCleaner
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+RDEPEND=app-arch/p7zip >=dev-qt/qtsvg-4.6
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_configure:- src_compile:- src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=949e0c6b3fc1c21c521210c64f7f4f21

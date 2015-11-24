@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure postinst
+DEPEND=>=dev-libs/glib-2.26:2 >=dev-libs/libstrophe-0.8-r1[xml=] net-misc/curl sys-libs/ncurses sys-libs/readline pgp? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify )
+DESCRIPTION=Ncurses based jabber client inspired by irssi
+EAPI=4
+HOMEPAGE=http://www.profanity.im/
+IUSE=libnotify otr pgp +themes xml xscreensaver
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3+
+RDEPEND=>=dev-libs/glib-2.26:2 >=dev-libs/libstrophe-0.8-r1[xml=] net-misc/curl sys-libs/ncurses sys-libs/readline pgp? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify )
+SLOT=0
+SRC_URI=http://www.profanity.im/profanity-0.4.7.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_configure:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=015f3047712aab01161b0d6736edc94d

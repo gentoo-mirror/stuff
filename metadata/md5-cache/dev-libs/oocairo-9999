@@ -1,0 +1,11 @@
+DEFINED_PHASES=prepare unpack
+DEPEND=dev-lang/lua x11-libs/cairo dev-vcs/git
+DESCRIPTION=oocairo are Lua bindings to the cairo library, allowing graphic and text rendering.
+EAPI=4
+HOMEPAGE=http://oocairo.naquadah.org/
+LICENSE=MIT
+RDEPEND=dev-lang/lua x11-libs/cairo
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=65cae341b8a532dadd860766f4ff8cfb

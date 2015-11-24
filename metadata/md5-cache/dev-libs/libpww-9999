@@ -1,0 +1,11 @@
+DEFINED_PHASES=unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=POSIX threads workers wrapper shared library
+EAPI=4
+HOMEPAGE=https://github.com/pfactum/libpww
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=f2e5fa24e31ec3549041062135dd8931

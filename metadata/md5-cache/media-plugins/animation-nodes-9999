@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=media-gfx/blender dev-vcs/git
+DESCRIPTION=A node based system to create animations
+EAPI=4
+HOMEPAGE=https://github.com/JacquesLucke/animation-nodes
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+RDEPEND=media-gfx/blender
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=19464ea973e0924e7465bab9228962c2
