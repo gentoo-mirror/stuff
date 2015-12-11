@@ -6,6 +6,7 @@ app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementa
 app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
 app-editors/gobby 0.4.94: GTK-based collaborative editor
 app-editors/manpageeditor 0.0.13: Man Page Editor
+app-editors/vim-qt 9999 20140203 20140827: Qt GUI version of the Vim text editor
 app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line of your desktop or server.
 app-misc/qmetro 0.6.5-r1: Vector metro (subway) map for calculating route and getting information about transport nodes.
 app-misc/taskd 1.0.0: Taskwarrior is a command-line todo list manager
@@ -28,6 +29,7 @@ dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome W
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libcouplet 9999: Fork of libstrophe - a simple, lightweight C library for writing XMPP clients
+dev-libs/libdbusmenu 12.10.2-r3: Library to pass menu structure across DBus
 dev-libs/libdbusmenu-qt 0.9.0 0.9.1 0.9.2 0.9.2-r2: A library providing Qt implementation of DBusMenu specification
 dev-libs/libindicator 0.4.1 0.4.1-r300: A set of symbols and convience functions that all indicators would like to use
 dev-libs/libmesode 9999: Fork of libstrophe for use with Profanity XMPP Client
@@ -134,6 +136,7 @@ sci-geosciences/googleearth 5.1.3535.3218-r2: A 3D interface to the planet
 sci-libs/atlas 3.10.2: Automatically Tuned Linear Algebra Software
 sci-libs/levmar 2.6-r1: Levenberg-Marquardt nonlinear least squares C library
 sci-mathematics/fvm2 1.99.2: Environment for executing and debugging Markov algorithm
+sci-mathematics/sofastatistics 1.4.0 1.4.1 1.4.1-r1 1.4.2 1.4.3: SOFA is a statistics, analysis, and reporting program
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
 sys-apps/uksmstat 9999: Small tool to show UKSM statistics.
