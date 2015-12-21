@@ -26,8 +26,6 @@ dev-lang/erlang:hipe - HIgh Performance Erlang extension
 dev-lang/erlang:kpoll - Enable kernel polling support
 dev-lang/erlang:sctp - Support for Stream Control Transmission Protocol
 dev-libs/blingbling:vicious - Require vicious plugin
-dev-libs/libcouplet:doc - Install doxygen documentation
-dev-libs/libcouplet:xml - Use dev-libs/libxml2 to parse XML
 dev-libs/libdbusmenu:gtk2 - Build with x11-libs/gtk+:2
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
@@ -205,8 +203,6 @@ net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
 net-misc/dropbox:librsync-bundled - Use bundled librsync instead of system one.
-net-misc/pppoat:extra - Enable extra modules
-net-misc/pppoat:xmpp - Enable xmpp module (PPP over Jabber)
 sci-electronics/kicad:dev-doc - Install developer documentation (requires app-doc/doxygen)
 sci-electronics/kicad:github - github plugin
 sci-electronics/kicad:gost - Kicad gost
