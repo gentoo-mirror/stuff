@@ -39,7 +39,7 @@ RDEPEND="
 	alsa? ( media-libs/alsa-lib )
 	amr? ( media-libs/opencore-amr )
 	bzip2? ( app-arch/bzip2 )
-	cdio? ( || ( dev-libs/libcdio-paranoia <dev-libs/libcdio-0.90[-minimal] ) )
+	cdio? ( dev-libs/libcdio-paranoia )
 	celt? ( >=media-libs/celt-0.11.1 )
 	dirac? ( media-video/dirac )
 	>=media-libs/x264-0.0.20111017

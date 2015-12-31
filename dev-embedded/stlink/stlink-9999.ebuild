@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=4
+EAPI=5
 
 inherit git-2 flag-o-matic
 
@@ -16,9 +16,11 @@ KEYWORDS="~x86 ~amd64"
 IUSE=""
 
 DEPEND="
-	virtual/libusb
+	virtual/libusb:=
 	virtual/pkgconfig"
-RDEPEND="${DEPEND}"
+RDEPEND="
+	virtual/libusb:=
+"
 
 src_configure() {
 	./autogen.sh

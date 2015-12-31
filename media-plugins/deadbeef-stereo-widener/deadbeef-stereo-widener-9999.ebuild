@@ -23,5 +23,4 @@ DEPEND="${DEPEND_COMMON}"
 src_install(){
 	insinto /usr/$(get_libdir)/deadbeef
 	doins stereo_widener.so
-	dodoc COPYING
 }

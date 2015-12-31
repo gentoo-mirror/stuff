@@ -23,5 +23,5 @@ RDEPEND="media-gfx/blender"
 
 src_install() {
 	insinto /use/share/blender/2.73/scripts/addons/animation-nodes
-	doins -r "${S}"/* 
+	doins -r "${S}"/*
 }
