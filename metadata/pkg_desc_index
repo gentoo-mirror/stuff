@@ -55,7 +55,7 @@ kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: A Plasma widget to display m
 kde-misc/yawc 0.4: Yet Another Window Control - KWinButton applet analog
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
-mail-client/alpine 2.11 2.20: alpine is an easy to use text-based based mail and news client
+mail-client/alpine 2.11 2.20 2.20.10: alpine is an easy to use text-based based mail and news client
 media-gfx/SVGCleaner 0.6.2 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/bundler 9999: Bundler is a structure-from-motion system for unordered image collections.
 media-gfx/darktable 1.5: A virtual lighttable and darkroom for photographers
@@ -147,7 +147,7 @@ sys-fs/google-drive-ocamlfuse 0.5.12: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
-sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.5_p1 4.3.0_p1: The Liquorix Kernel Sources v3.x
+sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.3_p3: The Liquorix Kernel Sources v3.x
 www-apps/ikiwiki 3.20150610 3.20150614: A wiki compiler
 www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: Firefox Web Browser
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
