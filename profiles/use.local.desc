@@ -203,12 +203,6 @@ net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
 net-misc/dropbox:librsync-bundled - Use bundled librsync instead of system one.
-sci-electronics/kicad:dev-doc - Install developer documentation (requires app-doc/doxygen)
-sci-electronics/kicad:github - github plugin
-sci-electronics/kicad:gost - Kicad gost
-sci-electronics/kicad:nanometr - pcbnew nanometres
-sci-electronics/kicad:python - Kicad scripting
-sci-electronics/kicad:sexpr - pcbnew sexpr file format
 sci-geosciences/googleearth:mdns-bundled - Use bundled nss-mdns library instead of depending on sys-auth/nss-mdns. Enable this if you want to avoid the deptree.
 sci-geosciences/googleearth:qt-bundled - Use bundled Qt4 libraries instead of system ones. Recommended only for troubleshooting.
 sci-mathematics/fvm2:doc - Install ukrainian documentation
