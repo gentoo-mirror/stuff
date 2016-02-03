@@ -6,7 +6,6 @@ app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementa
 app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
 app-editors/gobby 0.4.94: GTK-based collaborative editor
 app-editors/manpageeditor 0.0.13: Man Page Editor
-app-editors/vim-qt 9999 20140203 20140827: Qt GUI version of the Vim text editor
 app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line of your desktop or server.
 app-misc/qmetro 0.6.5-r1: Vector metro (subway) map for calculating route and getting information about transport nodes.
 app-misc/taskd 1.0.0: Taskwarrior is a command-line todo list manager

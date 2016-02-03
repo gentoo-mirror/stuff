@@ -20,7 +20,6 @@ app-admin/conky:weather-metar - enable support for metar weather service
 app-admin/conky:weather-xoap - enable support for metar and xoap weather service
 app-admin/conky:xmms2 - enable monitoring of music played by media-sound/xmms2
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
-app-editors/vim-qt:luajit - Use dev-lang/luajit instead of dev-lang/lua
 dev-lang/erlang:halfword - Enable halfword emulator
 dev-lang/erlang:hipe - HIgh Performance Erlang extension
 dev-lang/erlang:kpoll - Enable kernel polling support
