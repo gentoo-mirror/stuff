@@ -246,7 +246,6 @@ x11-misc/overlay-scrollbar:gtk2 - Build with x11-libs/gtk+:2
 x11-misc/overlay-scrollbar:gtk3 - Build with x11-libs/gtk+:3
 x11-plugins/compiz-plugins-extra:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
 x11-plugins/compiz-plugins-main:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
-x11-terms/evilvte:gtk3 - Build with x11-libs/gtk+:3
 x11-terms/roxterm:gtk3 - Build with x11-libs/gtk+:3
 x11-themes/bespin:windeco - Enable window decoration for KWin.
 x11-wm/compiz:fuse - Enables support for the filesystem in userspace plugin through sys-fs/fuse.

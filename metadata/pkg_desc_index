@@ -104,7 +104,6 @@ media-plugins/uvsquares 9999: A still image camera calibration toolkit
 media-sound/amulet 9999: Audio converter based on flac, lame...
 media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 9999-r8: foobar2k-like music player
 media-sound/knockout 9999: Port of kn0ck0ut to LV2 plugin
-media-sound/mpg321 0.2.13-r4 0.3.2-r1: a realtime MPEG 1.0/2.0/2.5 audio player for layers 1, 2 and 3
 media-sound/pulsar 0.92.10: Cloud audio player (i.e. vk.com)
 media-sound/qsmmp 9999: Qsmmp is a audio player based on Qmmp. Qsmmp aimed to have native qt look.
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
@@ -183,12 +182,10 @@ x11-plugins/e_modules-forecasts 9999: The forecasts gadget will display the curr
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
-x11-terms/evilvte 0.5.2_pre1: VTE based, super lightweight terminal emulator
 x11-terms/roxterm 2.6.5-r1: A terminal emulator designed to integrate with the ROX environment
 x11-themes/bespin 9999: Very configurable Qt4/KDE4 style derived from the Oxygen project.
 x11-themes/emerald-themes 0.5.2: Emerald window decorator themes
 x11-wm/compiz 0.8.6-r4 0.8.8-r2 0.8.9-r1: OpenGL window and compositing manager
 x11-wm/compiz-fusion 0.8.4-r1 0.8.6 0.8.8: Compiz Fusion (meta)
 x11-wm/emerald 0.8.4-r2 0.8.8-r1: Emerald Window Decorator
-x11-wm/i3 9999: An improved dynamic tiling window manager
 x11-wm/wmfs 9999: Windows Manager From Scratch
