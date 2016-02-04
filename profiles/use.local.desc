@@ -201,7 +201,6 @@ net-im/profanity:xscreensaver - Use x11-libs/libXScrnSaver for checking idle tim
 net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
-net-misc/dropbox:librsync-bundled - Use bundled librsync instead of system one.
 sci-geosciences/googleearth:mdns-bundled - Use bundled nss-mdns library instead of depending on sys-auth/nss-mdns. Enable this if you want to avoid the deptree.
 sci-geosciences/googleearth:qt-bundled - Use bundled Qt4 libraries instead of system ones. Recommended only for troubleshooting.
 sci-mathematics/fvm2:doc - Install ukrainian documentation
