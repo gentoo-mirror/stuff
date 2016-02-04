@@ -59,17 +59,6 @@ mail-client/alpine:patches - Apply additional pathces. See http://patches.freeiz
 mail-client/alpine:smime - Enable support for S/MIME
 mail-client/alpine:topal - Enable support for net-mail/topal
 media-gfx/bundler:ceres - Add support for ceresnonlinear least-squares minimizer
-media-gfx/darktable:colord - Support color management using x11-misc/colord
-media-gfx/darktable:flickr - Add support for uploading photos to flickr
-media-gfx/darktable:geo - Enable geotagging support
-media-gfx/darktable:graphicsmagick - Use media-gfx/graphicsmagick for image importing
-media-gfx/darktable:opencl - Enable opencl support
-media-gfx/darktable:pax_kernel - Triggers paxmarking of main darktable binary
-media-gfx/darktable:rawspeed - Enable the rawspeed backend
-media-gfx/darktable:slideshow - Build the opengl slideshow viewer
-media-gfx/darktable:squish - Enable thumbnail compression via libsquish
-media-gfx/darktable:web-services - Add support for uploading photos to facebook and picasa
-media-gfx/darktable:webp - Enable WebP export support
 media-gfx/exiv2:contrib - Build additional contrib components
 media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
 media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
