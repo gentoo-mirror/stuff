@@ -101,7 +101,7 @@ media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-plugins/tuttleofx 9999: Open Shading Language
 media-plugins/uvsquares 9999: A still image camera calibration toolkit
 media-sound/amulet 9999: Audio converter based on flac, lame...
-media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 9999-r8: foobar2k-like music player
+media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 0.6.2 0.7.0 9999-r8: foobar2k-like music player
 media-sound/knockout 9999: Port of kn0ck0ut to LV2 plugin
 media-sound/qsmmp 9999: Qsmmp is a audio player based on Qmmp. Qsmmp aimed to have native qt look.
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
