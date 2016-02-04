@@ -60,7 +60,7 @@ media-gfx/bundler 9999: Bundler is a structure-from-motion system for unordered 
 media-gfx/darktable 1.5: A virtual lighttable and darkroom for photographers
 media-gfx/exiv2 0.23-r3: EXIF and IPTC metadata C++ library and command line utility
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
-media-gfx/graphicsmagick 9999: GraphicsMagick is the swiss army knife of image processing.
+media-gfx/graphicsmagick 1.3.23 9999: GraphicsMagick is the swiss army knife of image processing.
 media-gfx/inkscape 9999: A SVG based generic vector-drawing program
 media-gfx/meshlab 1.3.3: A mesh processing system
 media-gfx/osl 1.6.5-r1: Open Shading Language
