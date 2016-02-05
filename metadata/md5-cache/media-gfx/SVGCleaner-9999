@@ -9,4 +9,4 @@ RDEPEND=app-arch/p7zip >=dev-qt/qtsvg-4.6
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_configure:- src_compile:- src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=949e0c6b3fc1c21c521210c64f7f4f21
+_md5_=9b083b14d73e1d8da61a751bc1ef9ba4

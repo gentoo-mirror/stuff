@@ -7,4 +7,4 @@ LICENSE=|| ( GPL-2 LGPL-2 )
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_compile:- src_install:-
 _eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=c152ff763da7e2e012d0d2fff5496845
+_md5_=2974bde093547c93966a4ecbd690b92b

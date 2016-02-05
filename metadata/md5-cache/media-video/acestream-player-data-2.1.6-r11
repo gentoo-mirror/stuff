@@ -12,4 +12,4 @@ SLOT=0
 SRC_URI=x86? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-player-data/acestream-player-data_2.1.6-1raring2_i386.deb http://stuff.tazhate.com/distfiles/acestream-player-data_2.1.6-1raring2_i386.deb ) amd64? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-player-data/acestream-player-data_2.1.6-1raring2_amd64.deb http://stuff.tazhate.com/distfiles/acestream-player-data_2.1.6-1raring2_amd64.deb )
 _eclass_exported_funcs=src_unpack:unpacker src_prepare:- src_install:-
 _eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813
-_md5_=ea369f441e1a496f9e19214eac56976a
+_md5_=668e9624ab6264f94f8dd61d94b54a52

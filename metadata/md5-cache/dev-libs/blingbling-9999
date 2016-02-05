@@ -9,4 +9,4 @@ RDEPEND=dev-lang/lua x11-wm/awesome dev-libs/oocairo vicious? ( x11-plugins/vici
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=3b0f50637f2dd4759ffc760be332cb07
+_md5_=f1519581ee2cfdf0ab55f19d4facc22c

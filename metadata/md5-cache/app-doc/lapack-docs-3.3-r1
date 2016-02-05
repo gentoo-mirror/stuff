@@ -7,4 +7,4 @@ LICENSE=BSD
 SLOT=0
 SRC_URI=http://dev.gentoo.org/~bicatali/lapack-man-3.3.tar.gz http://www.netlib.org/lapack/lapackqref.ps
 _eclass_exported_funcs=src_install:-
-_md5_=4111dad03414d9edd85771456668e42f
+_md5_=ae77c3ffb7ca242a90908a6b48747ded

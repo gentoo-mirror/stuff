@@ -8,4 +8,4 @@ LICENSE=GPL-3
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=da85fafc86dbc2a1d88e7d0378cfbc49
+_md5_=b5a33caaf24ac82b7cea1c02a5d8eb35

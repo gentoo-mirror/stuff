@@ -10,4 +10,4 @@ RDEPEND=srtp? ( net-libs/libsrtp ) ssl? ( dev-libs/openssl )
 SLOT=0
 SRC_URI=mirror://nongnu/linphone/ortp/sources/ortp-0.18.0.tar.gz
 _eclass_exported_funcs=src_prepare:- src_configure:- src_install:-
-_md5_=29df4eed3981eefa8da457efb04c7312
+_md5_=17480c4f0c6f1d79216d78a54720f52e

@@ -9,4 +9,4 @@ RDEPEND=media-gfx/blender
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=88dfc4c40ce81631ceb9d35ec296888c
+_md5_=9b39f0ba584dbe11a7762b29bd7363a3

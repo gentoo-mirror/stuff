@@ -10,4 +10,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=http://releases.compiz.org/0.8.4/libcompizconfig-0.8.4.tar.bz2
 _eclass_exported_funcs=src_configure:- src_install:-
-_md5_=aaa38300b6a111a56b1ab97a7e347e3e
+_md5_=cb509312d4106f54997b3d4f3f7108d0

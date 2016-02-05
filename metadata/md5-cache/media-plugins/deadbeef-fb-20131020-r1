@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=mirror://sourceforge/deadbeef-fb/deadbeef-fb_20131020_src.tar.gz
 _eclass_exported_funcs=src_configure:- src_install:-
 _eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=83f7ecb7bd17e587b9f8912fc74cd999
+_md5_=2be4f6f97e1e0f1bfdaa19201fd662a8
