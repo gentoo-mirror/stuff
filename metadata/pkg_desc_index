@@ -155,11 +155,10 @@ x11-libs/bamf 0.2.104 0.2.104-r1: BAMF Application Matching Framework
 x11-libs/compiz-bcop 0.8.4 0.8.8: Compiz Option code Generator
 x11-libs/compizconfig-backend-gconf 0.8.4-r2 0.8.8: Compizconfig Gconf Backend
 x11-libs/compizconfig-backend-kconfig4 0.8.4 0.8.8: Compizconfig Kconfig Backend
-x11-libs/gtk+ 2.24.17 2.24.19 2.24.22 2.24.23 2.24.23-r1 3.4.4 3.6.3-r2 3.8.2: Gimp ToolKit +
+x11-libs/gtk+ 2.24.23-r1 3.4.4 3.6.3-r2 3.8.2: Gimp ToolKit +
 x11-libs/libcompizconfig 0.8.4-r2 0.8.8: Compiz Configuration System
 x11-libs/libwnck 3.2.1: A window navigation construction kit
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
-x11-libs/wxGTK 2.9.1.1: GTK+ version of wxWidgets, a cross-platform C++ GUI toolkit.
 x11-misc/appmenu 0.3: Metapackage for appmenu
 x11-misc/appmenu-gtk 12.10.0 12.10.1 12.10.2: Application menu module for GTK
 x11-misc/appmenu-qt 0.2.4 0.2.5 0.2.6: Application menu module for Qt

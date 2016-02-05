@@ -222,9 +222,6 @@ x11-libs/gtk+:overlay - Add support for ubuntu overlay scrollbars
 x11-libs/gtk+:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit in application chooser
 x11-libs/gtk+:wayland - Enable dev-libs/wayland backend
 x11-libs/libwnck:introspection - Use dev-libs/gobject-introspection for introspection
-x11-libs/wxGTK:gnome - Use gnome-base/libgnomeprintui for printing tasks.
-x11-libs/wxGTK:gstreamer - Enable the wxMediaCtrl class for playing audio and video through gstreamer.
-x11-libs/wxGTK:sdl - Use Simple Directmedia Layer (media-libs/libsdl) for audio.
 x11-misc/appmenu-gtk:gtk2 - Build with x11-libs/gtk+:2
 x11-misc/appmenu-gtk:gtk3 - Build with x11-libs/gtk+:3
 x11-misc/indicator-appmenu:gtk2 - Build with x11-libs/gtk+:2
