@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile install preinst prepare unpack
-DEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] dev-python/imaging media-libs/lcms:0[python] gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] media-libs/lcms:2 gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
 DESCRIPTION=sK1 vector graphics editor
 EAPI=4
 HOMEPAGE=http://www.sk1project.org/
 LICENSE=|| ( GPL-2 LGPL-2 )
-RDEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] dev-python/imaging media-libs/lcms:0[python] gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk
+RDEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] media-libs/lcms:2 gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_prepare:subversion src_compile:- src_install:-
 _eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=1ba63d49c0bc7d75bab2a562b384f0be
+_md5_=907d934205ab98e1fd30fbe27cf1641e
