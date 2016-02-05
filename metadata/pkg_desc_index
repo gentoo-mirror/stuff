@@ -34,7 +34,7 @@ dev-libs/libmesode 9999: Fork of libstrophe for use with Profanity XMPP Client
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 0.8-r1 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library, allowing graphic and text rendering.
-dev-libs/thrift 0.9.1: Data serialization and communication toolwork
+dev-libs/thrift 0.9.1 0.9.3: Data serialization and communication toolwork
 dev-ml/biniou 1.0.9: A binary JSON like data format for OCaml
 dev-ml/gapi-ocaml 0.2.6: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
