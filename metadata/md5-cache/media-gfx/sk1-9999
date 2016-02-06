@@ -1,11 +1,13 @@
-DEFINED_PHASES=compile install preinst prepare unpack
-DEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] media-libs/lcms:2 gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-lang/python:2.7 dev-lang/tcl:0 dev-lang/tk:0 media-libs/freetype:2 >=sys-libs/zlib-1.1.4 >=x11-libs/cairo-1.2.4 media-libs/lcms:2 dev-python/pycairo dev-python/pillow x11-libs/libX11 x11-libs/libXext x11-libs/libXcursor dev-vcs/git python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7[tk(+)] ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
 DESCRIPTION=sK1 vector graphics editor
-EAPI=4
+EAPI=5
 HOMEPAGE=http://www.sk1project.org/
+IUSE=python_targets_python2_7
 LICENSE=|| ( GPL-2 LGPL-2 )
-RDEPEND=>=sys-libs/glibc-2.6.1 >=x11-libs/cairo-1.4.0 media-libs/freetype:2 x11-libs/libX11 x11-libs/libXext >=dev-lang/tcl-8.5.5 >=dev-lang/tk-8.5.5 >=sys-libs/zlib-1.2.3-r1 dev-lang/python[tk] media-libs/lcms:2 gnome-extra/zenity media-libs/sk1libs media-gfx/sk1sdk
+RDEPEND=dev-lang/python:2.7 dev-lang/tcl:0 dev-lang/tk:0 media-libs/freetype:2 >=sys-libs/zlib-1.1.4 >=x11-libs/cairo-1.2.4 media-libs/lcms:2 dev-python/pycairo dev-python/pillow x11-libs/libX11 x11-libs/libXext x11-libs/libXcursor dev-python/reportlab app-text/ghostscript-gpl python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7[tk(+)] ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
+REQUIRED_USE=|| ( python_targets_python2_7 )
 SLOT=0
-_eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_prepare:subversion src_compile:- src_install:-
-_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=907d934205ab98e1fd30fbe27cf1641e
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:distutils-r1 src_configure:distutils-r1 src_compile:distutils-r1 src_test:distutils-r1 src_install:-
+_eclasses_=distutils-r1	4e8ac1ba76ddacd8f7c0289aa586a34c	eutils	28fb3e5852485af1c348d446b0b98389	git-2	df00117322129fb906bb0a53c3d6a020	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	python-r1	0f6937650a475d673baa5d0c8c0b37b3	python-utils-r1	30887c5e8630bbf27b5cf0fd74564323	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=71771b206d5c135ae85d969bac8c5c5c
