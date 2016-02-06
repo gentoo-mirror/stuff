@@ -87,6 +87,14 @@ media-libs/acestream-x264:interlaced - enable interlaced encoding support, this 
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
 media-libs/gmtk:dconf - Enable support for gnome-base/dconf
 media-libs/gmtk:gtk3 - Build with x11-libs/gtk+:3
+media-libs/mlt:compressed-lumas - Compress the luma files in png.
+media-libs/mlt:frei0r - Build the module for media-plugins/frei0r-plugins
+media-libs/mlt:kdenlive - Build support for media-video/kdenlive
+media-libs/mlt:lua - Build SWIG bindings for Lua
+media-libs/mlt:melt - Build the melt commandline tool
+media-libs/mlt:python - Build SWIG bindings for Python
+media-libs/mlt:rtaudio - Builds rtaudio consumer for native audio support on multiple platforms.
+media-libs/mlt:ruby - Build SWIG bindings for Ruby
 media-plugins/deadbeef-fb:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-fb:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-ffmpeg:3dnowext - Enable manually-optimised routines using the AMD 3DNow!Ex SIMD instruction set, present in modern AMD CPUs. (Check for 3dnowext in /proc/cpuinfo to know whether your CPU supports it).

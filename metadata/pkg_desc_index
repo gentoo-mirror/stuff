@@ -158,7 +158,7 @@ x11-libs/libwnck 3.2.1: A window navigation construction kit
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
 x11-misc/appmenu 0.3: Metapackage for appmenu
 x11-misc/appmenu-gtk 12.10.0 12.10.1 12.10.2: Application menu module for GTK
-x11-misc/appmenu-qt 0.2.4 0.2.5 0.2.6: Application menu module for Qt
+x11-misc/appmenu-qt 0.2.6: Application menu module for Qt
 x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
 x11-misc/indicator-appmenu 0.3.1 0.3.2-r1: An indicator to host the menus from an application.
 x11-misc/kcm-qt-graphicssystem 1.2 1.3: This KCM allows you to easily configure the standard Qt graphics system
