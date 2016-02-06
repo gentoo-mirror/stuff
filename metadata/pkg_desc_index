@@ -37,7 +37,7 @@ dev-libs/libstrophe 0.8-r1 9999: A simple, lightweight C library for writing XMP
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library, allowing graphic and text rendering.
 dev-libs/thrift 0.9.1 0.9.3: Data serialization and communication toolwork
 dev-ml/biniou 1.0.9: A binary JSON like data format for OCaml
-dev-ml/gapi-ocaml 0.2.6: A simple OCaml client for Google Services
+dev-ml/gapi-ocaml 0.2.6 0.2.8: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
 dev-python/pythonmagick 0.9.9: Python bindings for ImageMagick
 dev-util/aptana 3.4.2: The leading eclipse IDE for Ajax and today's web platforms
@@ -112,7 +112,6 @@ media-video/acestream-player 2.1.6: ACE Stream HD multimedia player based on VLC
 media-video/acestream-player-data 2.1.6-r11: ACE Stream player libraries files
 media-video/avxsynth 9999: A Linux port of the AviSynth toolkit
 media-video/baka-mplayer 9999: MPV front end
-media-video/gnome-mplayer 1.0.6 1.0.7: A GTK+ interface to MPlayer
 media-video/harvid 9999: http ardour video daemon
 media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
 media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
@@ -137,7 +136,7 @@ sys-boot/efivar 0.7 0.10 0.11: Library to manipulate EFI variables
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/f2fs-tools 1.2.0 1.3.0 9999: Tools for Flash-Friendly File System (F2FS)
 sys-fs/fragview 9999: Disk fragmentation viewer written with boost and gtkmm
-sys-fs/google-drive-ocamlfuse 0.5.12: FUSE filesystem over Google Drive
+sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
