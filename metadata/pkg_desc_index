@@ -117,6 +117,7 @@ net-im/stabber 9999: Stubbed XMPP Server
 net-libs/libinfinity 0.5.1 0.6.7: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.18.0 0.20.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
+net-misc/i2pd 2.3.0 2.4.0: A C++ daemon for accessing the I2P anonymous network
 net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-geosciences/googleearth 5.1.3535.3218-r2: A 3D interface to the planet
 sci-libs/atlas 3.10.2: Automatically Tuned Linear Algebra Software
