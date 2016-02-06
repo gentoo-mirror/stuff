@@ -82,7 +82,6 @@ media-gfx/inkscape:inkjar - Enables support for OpenOffice.org SVG jar files
 media-gfx/inkscape:poppler - Enable libpoppler-cairo for rendering PDF preview
 media-gfx/inkscape:postscript - Add support for media-gfx/pstoedit
 media-gfx/inkscape:wpg - Support for WordPerfect Graphics
-media-gfx/osl:tbb - Add support for dev-cpp/tbb
 media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
 media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
