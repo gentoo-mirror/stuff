@@ -173,13 +173,6 @@ media-video/acestream-player-data:linguas_ff - unknown
 media-video/acestream-player-data:linguas_fur - unknown
 media-video/acestream-player-data:linguas_tet - unknown
 media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
-net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
-net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
-net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi utilities under USE=utils
-net-dns/avahi:howl-compat - Enable compat libraries for howl
-net-dns/avahi:introspection - Use dev-libs/gobject-introspectionfor introspection
-net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
-net-dns/avahi:utils - Install the avahi gtk+ utils avahi-discover, bssh, and bvnc
 net-im/profanity:libnotify - Enable desktop notifications support
 net-im/profanity:otr - Enable Off-the-Record support (encryption)
 net-im/profanity:pgp - Enable PGP support

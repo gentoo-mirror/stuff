@@ -115,7 +115,6 @@ media-video/baka-mplayer 9999: MPV front end
 media-video/harvid 9999: http ardour video daemon
 media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
 media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
-net-dns/avahi 0.6.30-r6: System which facilitates service discovery on a local network
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 0.4.7 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
