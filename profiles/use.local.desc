@@ -199,15 +199,6 @@ sci-mathematics/sofastatistics:linguas_tr_TR - Turkish locale
 sys-fs/ls-fuse:debug - Enables debug messages
 sys-kernel/kernel-cleaner:parallel - Add support for sys-process/parallel
 www-apps/ikiwiki:extras - Installs additional modules used by ikiwiki plugins
-www-client/firefox:appmenu - Add support for ubuntu global menu
-www-client/firefox:bindist - Disable official Firefox branding (icons, name) which are not binary-redistributable according to upstream.
-www-client/firefox:custom-optimization - Fine-tune custom compiler optimizations (-Os, -O0, -O1, -O2, -O3)
-www-client/firefox:minimal - Prevent sdk and headers from being installed
-www-client/firefox:pgo - Add support for profile-guided optimization using gcc-4.5, for faster binaries. This option will double the compile time.
-www-client/firefox:system-cairo - Use the system-wide x11-libs/cairo Use system cairo instead of bundled.
-www-client/firefox:system-icu - Use the system-wide dev-libs/icu Use system icu instead of bundled.
-www-client/firefox:system-jpeg - Use the system-wide media-libs/libjpeg-turbo Use system jpeg instead of bundled.
-www-client/firefox:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
 www-plugins/rosa-media-player-plugin:divx - Adds divx support
 www-plugins/rosa-media-player-plugin:mpeg - Adds libmpeg3 support to various packages
 www-plugins/rosa-media-player-plugin:rm - Adds real audo/video support

@@ -138,7 +138,6 @@ sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /b
 sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.5_p1 4.4.1_p2: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.3_p4 4.4_p4: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
 www-apps/ikiwiki 3.20160121: A wiki compiler
-www-client/firefox 26.0 27.0 27.0.1 28.0 29.0 29.0.1: Firefox Web Browser
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 www-plugins/okularplugin 1.0.1: Plugin for embedding okular into the browser
