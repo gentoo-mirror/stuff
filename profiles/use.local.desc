@@ -58,7 +58,6 @@ mail-client/alpine:passfile - Adds support for caching passwords into a file bet
 mail-client/alpine:patches - Apply additional pathces. See http://patches.freeiz.com/alpine/info/all.html
 mail-client/alpine:smime - Enable support for S/MIME
 mail-client/alpine:topal - Enable support for net-mail/topal
-media-gfx/bundler:ceres - Add support for ceresnonlinear least-squares minimizer
 media-gfx/exiv2:contrib - Build additional contrib components
 media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
 media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
