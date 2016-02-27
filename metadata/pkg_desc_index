@@ -39,7 +39,6 @@ dev-libs/thrift 0.9.1 0.9.3: Data serialization and communication toolwork
 dev-ml/biniou 1.0.9: A binary JSON like data format for OCaml
 dev-ml/gapi-ocaml 0.2.6 0.2.8: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
-dev-python/pythonmagick 0.9.9: Python bindings for ImageMagick
 dev-util/aptana 3.4.2: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/gperftools 2.4 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
