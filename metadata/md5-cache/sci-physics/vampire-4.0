@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Atomistic simulation of magnetic nanomaterials made easy.
+EAPI=5
+IUSE=doc
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://github.com/richard-evans/vampire/archive/v4.0.zip
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=b22868614c954d2906106ead2bb262d1
