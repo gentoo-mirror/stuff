@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-lang/tcl:= dev-lang/tk:=
+DESCRIPTION=The Object Oriented MicroMagnetic Framework
+EAPI=5
+HOMEPAGE=http://math.nist.gov/oommf/
+IUSE=doc
+KEYWORDS=~x86 ~amd64 ~arm
+LICENSE=OOMMF
+RDEPEND=dev-lang/tcl:= dev-lang/tk:=
+SLOT=1.2
+SRC_URI=http://math.nist.gov/oommf/dist/oommf12a6_20150930.tar.gz
+_eclass_exported_funcs=src_compile:- src_install:-
+_md5_=ebb2dfebd1d33d9cadc79f3ffd62e703

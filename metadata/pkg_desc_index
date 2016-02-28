@@ -110,6 +110,7 @@ sci-geosciences/googleearth 5.1.3535.3218-r2: A 3D interface to the planet
 sci-libs/atlas 3.10.2: Automatically Tuned Linear Algebra Software
 sci-mathematics/fvm2 1.99.2: Environment for executing and debugging Markov algorithm
 sci-mathematics/sofastatistics 1.4.0 1.4.1 1.4.1-r1 1.4.2 1.4.3: SOFA is a statistics, analysis, and reporting program
+sci-physics/oommf 1.2_alpha6: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
