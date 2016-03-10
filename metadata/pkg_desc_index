@@ -54,7 +54,7 @@ kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: A Plasma widget to display m
 kde-misc/yawc 0.4: Yet Another Window Control - KWinButton applet analog
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
-mail-client/alpine 2.11 2.20 2.20.10: alpine is an easy to use text-based based mail and news client
+mail-client/alpine 2.11 2.20 2.20.10 2.20.11: alpine is an easy to use text-based based mail and news client
 media-gfx/SVGCleaner 0.6.2 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/exiv2 0.23-r3: EXIF and IPTC metadata C++ library and command line utility
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
