@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND=dev-lang/lua x11-libs/cairo
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:-
-_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2
 _md5_=35d2eba4522f9ad6b232e2c67952d35d
