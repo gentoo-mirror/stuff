@@ -8,5 +8,5 @@ LICENSE=Apache-2.0
 RDEPEND=virtual/pam >=net-libs/c-client-2007f-r4[topal=] sys-libs/ncurses:0 >=dev-libs/openssl-1.0.1c ldap? ( net-nds/openldap ) kerberos? ( app-crypt/mit-krb5 ) spell? ( app-text/aspell ) topal? ( >=net-mail/topal-72 ) app-misc/mime-types !<=net-mail/uw-imap-2004g
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_unpack:git-2 src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-2	672c3929a162f221a53b4ccb4d25d8a2	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-2	672c3929a162f221a53b4ccb4d25d8a2	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
 _md5_=6a2081a838f5289695926e9838c5cf9f
