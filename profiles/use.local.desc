@@ -74,7 +74,6 @@ media-gfx/fontforge:type3 - Build in support for type3/svg fonts containing mult
 media-gfx/graphicsmagick:fpx - Enable FlashPIX support
 media-gfx/graphicsmagick:q16 - 16 bits in a pixel quantum
 media-gfx/graphicsmagick:q32 - 32 bits in a pixel quantum
-media-gfx/graphicsmagick:q8 - 8 bits in a pixel quantum
 media-gfx/graphicsmagick:webp - Enable support for webp image format
 media-gfx/inkscape:dia - Pull in app-office/dia for dia import extension
 media-gfx/inkscape:gs - Enables support for the PostScript import extension

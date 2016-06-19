@@ -1,15 +1,15 @@
 DEFINED_PHASES=configure install
-DEPEND=app-shells/bash sys-apps/portage
+DEPEND=app-shells/bash:= sys-apps/portage
 DESCRIPTION=A Portage analysis toolkit
 EAPI=5
 HOMEPAGE=https://github.com/init6/udept
 IUSE=bash-completion
 KEYWORDS=~amd64 ~ppc ~mips ~sparc ~x86
 LICENSE=GPL-3
-RDEPEND=app-shells/bash sys-apps/portage
+RDEPEND=app-shells/bash:= sys-apps/portage
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/init6/udept/archive/0.5.99.0.2.96.tar.gz -> udept-0.5.99.0.2.96.tar.gz
 _eclass_exported_funcs=src_configure:- src_install:-
 _eclasses_=bash-completion-r1	acf715fa09463f043fbfdc1640f3fb85	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
-_md5_=ccfffb0f1661d1071e6cc4db9017f8b0
+_md5_=85174e9184370d4fcbe9d2c84ade000e
