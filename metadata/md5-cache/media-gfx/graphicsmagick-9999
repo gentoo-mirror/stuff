@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=app-text/ghostscript-gpl bzip2? ( app-arch/bzip2 ) fpx? ( media-libs/libfpx ) jbig? ( media-libs/jbigkit ) jpeg? ( virtual/jpeg:0 ) jpeg2k? ( >=media-libs/jasper-1.701.0 ) lcms? ( media-libs/lcms:2 ) perl? ( dev-lang/perl ) png? ( media-libs/libpng:0 ) svg? ( dev-libs/libxml2 ) tiff? ( media-libs/tiff:0 ) truetype? ( media-libs/freetype:2 ) wmf? ( media-libs/libwmf ) X? ( x11-libs/libXext x11-libs/libSM ) imagemagick? ( !media-gfx/imagemagick ) dev-lang/perl:=[-build(-)] dev-vcs/mercurial
+DEPEND=>=sys-devel/libtool-2.2.6b bzip2? ( app-arch/bzip2 ) fpx? ( media-libs/libfpx ) imagemagick? ( !media-gfx/imagemagick ) jbig? ( media-libs/jbigkit ) jpeg? ( virtual/jpeg:0 ) jpeg2k? ( media-libs/jasper ) lcms? ( media-libs/lcms:2 ) lzma? ( app-arch/xz-utils ) perl? ( dev-lang/perl ) png? ( media-libs/libpng:0 ) postscript? ( app-text/ghostscript-gpl ) svg? ( dev-libs/libxml2 ) tiff? ( media-libs/tiff:0 ) truetype? ( media-fonts/urw-fonts >=media-libs/freetype-2 ) webp? ( media-libs/libwebp ) wmf? ( media-libs/libwmf ) X? ( x11-libs/libSM x11-libs/libXext ) zlib? ( sys-libs/zlib ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 dev-vcs/mercurial
 DESCRIPTION=GraphicsMagick is the swiss army knife of image processing.
-EAPI=5
+EAPI=6
 HOMEPAGE=http://www.graphicsmagick.org/
-IUSE=bzip2 cxx debug doc fpx imagemagick jbig jpeg jpeg2k lzma lcms modules openmp perl png q8 q16 q32 svg threads tiff truetype X wmf zlib
+IUSE=bzip2 cxx debug fpx imagemagick jbig jpeg jpeg2k lcms lzma modules openmp perl png postscript q16 q32 static-libs svg threads tiff truetype webp wmf X zlib
 LICENSE=MIT
-RDEPEND=app-text/ghostscript-gpl bzip2? ( app-arch/bzip2 ) fpx? ( media-libs/libfpx ) jbig? ( media-libs/jbigkit ) jpeg? ( virtual/jpeg:0 ) jpeg2k? ( >=media-libs/jasper-1.701.0 ) lcms? ( media-libs/lcms:2 ) perl? ( dev-lang/perl ) png? ( media-libs/libpng:0 ) svg? ( dev-libs/libxml2 ) tiff? ( media-libs/tiff:0 ) truetype? ( media-libs/freetype:2 ) wmf? ( media-libs/libwmf ) X? ( x11-libs/libXext x11-libs/libSM ) imagemagick? ( !media-gfx/imagemagick ) dev-lang/perl:=[-build(-)]
+RDEPEND=>=sys-devel/libtool-2.2.6b bzip2? ( app-arch/bzip2 ) fpx? ( media-libs/libfpx ) imagemagick? ( !media-gfx/imagemagick ) jbig? ( media-libs/jbigkit ) jpeg? ( virtual/jpeg:0 ) jpeg2k? ( media-libs/jasper ) lcms? ( media-libs/lcms:2 ) lzma? ( app-arch/xz-utils ) perl? ( dev-lang/perl ) png? ( media-libs/libpng:0 ) postscript? ( app-text/ghostscript-gpl ) svg? ( dev-libs/libxml2 ) tiff? ( media-libs/tiff:0 ) truetype? ( media-fonts/urw-fonts >=media-libs/freetype-2 ) webp? ( media-libs/libwebp ) wmf? ( media-libs/libwmf ) X? ( x11-libs/libSM x11-libs/libXext ) zlib? ( sys-libs/zlib )
 SLOT=0
 _eclass_exported_funcs=src_unpack:mercurial src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	mercurial	789038b352d112bcff9dff083aa40d8d	multilib	d062ae4ba2fc40a19c11de2ad89b6616	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	aac50de73be0a80ebe780e0b20850130	perl-module	c584f9e0fe426f3dcc2c46c6f7cb95ce	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1	unpacker	45d07319df5f40ee6af58418b0f930be
-_md5_=d6babf09f28fddd908bb2221aca85874
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	mercurial	789038b352d112bcff9dff083aa40d8d	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
+_md5_=f3ff1579f81b8467b0fc4a63bea0cf5f
