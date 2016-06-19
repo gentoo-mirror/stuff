@@ -209,10 +209,8 @@ x11-libs/gtk+:overlay - Add support for ubuntu overlay scrollbars
 x11-libs/gtk+:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit in application chooser
 x11-libs/gtk+:wayland - Enable dev-libs/wayland backend
 x11-libs/libwnck:introspection - Use dev-libs/gobject-introspection for introspection
-x11-misc/appmenu-gtk:gtk2 - Build with x11-libs/gtk+:2
+x11-misc/appmenu-gtk:gtk - Build with x11-libs/gtk+:2
 x11-misc/appmenu-gtk:gtk3 - Build with x11-libs/gtk+:3
-x11-misc/indicator-appmenu:gtk2 - Build with x11-libs/gtk+:2
-x11-misc/indicator-appmenu:gtk3 - Build with x11-libs/gtk+:3
 x11-misc/overlay-scrollbar:gtk2 - Build with x11-libs/gtk+:2
 x11-misc/overlay-scrollbar:gtk3 - Build with x11-libs/gtk+:3
 x11-plugins/compiz-plugins-extra:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.

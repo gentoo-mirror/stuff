@@ -46,7 +46,6 @@ games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
 gnome-extra/gnome-shell-extensions-mediaplayer 9999: A mediaplayer indicator for the gnome-shell.
-gnome-extra/indicator-applet 0.4.5 0.4.12: A small applet to display information from various applications consistently in the panel
 kde-misc/ihatethecashew 0.4-r1: KDE4 plasmoid. Removes the "hand" in upper right corner of the screen
 kde-misc/kwin-button-applet 0.6: KWinButton applet
 kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: A Plasma widget to display menubar of application windows
@@ -138,11 +137,9 @@ x11-libs/gtk+ 2.24.23-r1 3.4.4 3.6.3-r2 3.8.2: Gimp ToolKit +
 x11-libs/libcompizconfig 0.8.4-r2 0.8.8: Compiz Configuration System
 x11-libs/libwnck 3.2.1: A window navigation construction kit
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
-x11-misc/appmenu 0.3: Metapackage for appmenu
 x11-misc/appmenu-gtk 12.10.0 12.10.1 12.10.2: Application menu module for GTK
 x11-misc/appmenu-qt 0.2.6: Application menu module for Qt
 x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
-x11-misc/indicator-appmenu 0.3.1 0.3.2-r1: An indicator to host the menus from an application.
 x11-misc/kcm-qt-graphicssystem 1.2 1.3: This KCM allows you to easily configure the standard Qt graphics system
 x11-misc/krunner-appmenu 9999-r1: A krunner plugin that searches the appmenu
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus from the application into Unity's menubar.
