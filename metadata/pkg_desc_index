@@ -115,14 +115,13 @@ sci-physics/oommf 1.2_alpha6: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
-sys-apps/uksmstat 9999: Small tool to show UKSM statistics.
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 9999: Disk fragmentation viewer written with boost and gtkmm
 sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
-sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.6_p2 4.4.10_p1 4.5.6_p2 4.6.1_p1: The Liquorix Kernel Sources v4.x
+sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.6_p2 4.4.10_p1 4.5.6_p2 4.6.2_p1: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.5_p4 4.6_p1: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
 www-apps/ikiwiki 3.20160121 3.20160506: A wiki compiler
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
