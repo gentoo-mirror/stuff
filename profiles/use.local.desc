@@ -25,8 +25,6 @@ dev-lang/erlang:hipe - HIgh Performance Erlang extension
 dev-lang/erlang:kpoll - Enable kernel polling support
 dev-lang/erlang:sctp - Support for Stream Control Transmission Protocol
 dev-libs/blingbling:vicious - Require vicious plugin
-dev-libs/libdbusmenu:gtk2 - Build with x11-libs/gtk+:2
-dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
 dev-libs/libmesode:doc - Install doxygen documentation
 dev-libs/libstrophe:doc - Install doxygen documentation
