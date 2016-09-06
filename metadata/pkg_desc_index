@@ -45,7 +45,7 @@ games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
 gnome-extra/gnome-shell-extensions-mediaplayer 9999: A mediaplayer indicator for the gnome-shell.
-kde-misc/ihatethecashew 0.4-r1: KDE4 plasmoid. Removes the "hand" in upper right corner of the screen
+kde-misc/ihatethecashew 9999: KDE4 plasmoid. Removes the "hand" in upper right corner of the screen
 kde-misc/kwin-button-applet 0.6: KWinButton applet
 kde-misc/plasma-widget-menubar 0.1.16 0.1.18 0.2.0: A Plasma widget to display menubar of application windows
 kde-misc/yawc 0.4: Yet Another Window Control - KWinButton applet analog
