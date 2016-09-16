@@ -97,7 +97,7 @@ media-video/fswebcam 9999 20140113: neat and simple webcam grabbing app
 media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
 media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
-net-im/profanity 0.4.7 9999: Ncurses based jabber client inspired by irssi
+net-im/profanity 0.4.7 0.5.0 9999: Ncurses based jabber client inspired by irssi
 net-im/qtox 1.4.1.1: Most feature-rich GUI for net-libs/tox using Qt5
 net-im/stabber 9999: Stubbed XMPP Server
 net-libs/libinfinity 0.5.1 0.6.7: An implementation of the Infinote protocol written in GObject-based C
