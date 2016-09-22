@@ -1,5 +1,5 @@
 DEFINED_PHASES=configure postinst prepare unpack
-DEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libmesode-0.9.0 ) net-misc/curl sys-libs/ncurses sys-libs/readline gtk? ( >=x11-libs/gtk+-2.24.10:2 ) gpg? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) plugins? ( dev-lang/python ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 dev-vcs/git
+DEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libmesode-0.9.0 ) net-misc/curl sys-libs/ncurses sys-libs/readline gtk? ( >=x11-libs/gtk+-2.24.10:2 ) gpg? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) plugins? ( dev-lang/python ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify ) sys-devel/autoconf-archive !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 dev-vcs/git
 DESCRIPTION=Ncurses based jabber client inspired by irssi
 EAPI=4
 HOMEPAGE=http://www.profanity.im/
@@ -9,4 +9,4 @@ RDEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libme
 SLOT=0
 _eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_prepare:- src_configure:-
 _eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	4890219c51da247200223277f993e054	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=7df7c6e882f03ddfba2e9c90a3340597
+_md5_=33865ced5c922bd8c32d93b95cfce628
