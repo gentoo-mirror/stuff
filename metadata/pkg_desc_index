@@ -120,7 +120,7 @@ sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.6_p2 4.4.10_p1 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.15_p1 4.9.3_p2: The Liquorix Kernel Sources v4.x
-sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p3: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p4: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-apps/ikiwiki 3.20160121 3.20160509 3.20160728: A wiki compiler
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
