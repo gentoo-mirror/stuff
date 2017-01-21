@@ -76,7 +76,6 @@ media-gfx/graphicsmagick:q32 - 32 bits in a pixel quantum
 media-gfx/graphicsmagick:webp - Enable support for webp image format
 media-gfx/inkscape:dia - Pull in app-office/dia for dia import extension
 media-gfx/inkscape:gs - Enables support for the PostScript import extension
-media-gfx/inkscape:inkjar - Enables support for OpenOffice.org SVG jar files
 media-gfx/inkscape:poppler - Enable libpoppler-cairo for rendering PDF preview
 media-gfx/inkscape:postscript - Add support for media-gfx/pstoedit
 media-gfx/inkscape:wpg - Support for WordPerfect Graphics

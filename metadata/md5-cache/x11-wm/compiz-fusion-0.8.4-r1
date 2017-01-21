@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=>=x11-wm/compiz-0.8.4 >=x11-plugins/compiz-plugins-main-0.8.4 >=x11-plugins/compiz-plugins-extra-0.8.4 unsupported? ( >=x11-plugins/compiz-plugins-unsupported-0.8.4 ) >=x11-apps/ccsm-0.8.4 emerald? ( >=x11-wm/emerald-0.8.4 ) gnome? ( >=x11-libs/compizconfig-backend-gconf-0.8.4 ) kde? ( >=x11-libs/compizconfig-backend-kconfig4-0.8.4 )
 SLOT=0
 _eclass_exported_funcs=pkg_postinst:-
-_md5_=746897ed5a81ad2e3c3e866397b42c49
+_md5_=98545fd60b1512562b91da3d69475379

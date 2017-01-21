@@ -9,4 +9,4 @@ RDEPEND=x11-libs/libX11 >=dev-scheme/guile-1.8.4[deprecated] tk? ( dev-lang/tk )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_configure:- src_compile:- src_install:-
 _eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=8e78d300e1bfb2473c2d2f1cbd49ba87
+_md5_=5c9934ef8e3ad657627700f5187d0dab

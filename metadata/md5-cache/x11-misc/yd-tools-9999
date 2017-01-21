@@ -9,4 +9,4 @@ RDEPEND=net-misc/yandex-disk
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4
-_md5_=5d911e94788d1be7002266a8138401c8
+_md5_=d1488e2e988a56a1ac585a7616a296d3

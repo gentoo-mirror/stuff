@@ -8,4 +8,4 @@ RDEPEND=app-shells/bash-completion
 SLOT=0
 _eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_prepare:- src_install:-
 _eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4
-_md5_=9c0bf0252d5ac3cb3400db0f103c187a
+_md5_=7897a982ca03bccb9b7ac9c8db32083f

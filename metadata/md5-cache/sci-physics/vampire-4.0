@@ -8,4 +8,4 @@ LICENSE=GPL-2
 SLOT=0
 SRC_URI=https://github.com/richard-evans/vampire/archive/v4.0.zip
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=5f6716353f62ea367ad2b49de80794c7
+_md5_=32728f431e61bc58a5f4d2f03cf7fe65
