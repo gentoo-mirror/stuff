@@ -10,5 +10,5 @@ RDEPEND=gtk2? ( <media-sound/deadbeef-0.6[gtk2] ) gtk3? ( <media-sound/deadbeef-
 SLOT=0
 SRC_URI=mirror://sourceforge/deadbeef-fb/deadbeef-fb_20131020_src.tar.gz
 _eclass_exported_funcs=src_configure:- src_install:-
-_eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=67a5391775c4ddc414e2f1465a8a6307
