@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install
-DEPEND=gtk2? ( x11-libs/gtk+:2[overlay] ) gtk3? ( x11-libs/gtk+:3[overlay] )
+DEPEND=gtk2? ( x11-libs/gtk+:2 ) gtk3? ( x11-libs/gtk+:3 )
 DESCRIPTION=Ubuntu's scrollbars
 EAPI=4
 HOMEPAGE=https://launchpad.net/ayatana-scrollbar
 IUSE=+gtk2 gtk3
 KEYWORDS=~alpha ~amd64 ~ppc64 ~sparc ~x86
 LICENSE=GPL-2 LGPL-2
-RDEPEND=gtk2? ( x11-libs/gtk+:2[overlay] ) gtk3? ( x11-libs/gtk+:3[overlay] )
+RDEPEND=gtk2? ( x11-libs/gtk+:2 ) gtk3? ( x11-libs/gtk+:3 )
 SLOT=0
 SRC_URI=http://launchpad.net/ayatana-scrollbar/0.2/0.2.16/+download/overlay-scrollbar-0.2.16.tar.gz
 _eclass_exported_funcs=src_configure:- src_compile:- src_install:-
 _eclasses_=eutils	3c847a0129fed780bd709b98e426f89c	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	53b75b4a49cf3e61530a523804045432	versionator	c80ccf29e90adea7c5cae94b42eb76d0
-_md5_=c43eb8ac06623677b8eb73b8e5d0a8b3
+_md5_=3499c5451175c044767b691f3ab2fe7c

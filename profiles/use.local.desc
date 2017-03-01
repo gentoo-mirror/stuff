@@ -186,21 +186,10 @@ www-plugins/rosa-media-player-plugin:rm - Adds real audo/video support
 www-plugins/rosa-media-player-plugin:wmp - Adds Windows media support
 x11-libs/bamf:gtk2 - Build with x11-libs/gtk+:2
 x11-libs/bamf:gtk3 - Build with x11-libs/gtk+:3
-x11-libs/gtk+:appmenu - Add support for ubuntu global menu
-x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
-x11-libs/gtk+:egl - Use EGL surfaces and Cairo GL in the wayland backend. This flag has no effect on X or aqua backends.
-x11-libs/gtk+:introspection - Use dev-libs/gobject-introspection for introspection
-x11-libs/gtk+:overlay - Add support for ubuntu overlay scrollbars
-x11-libs/gtk+:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit in application chooser
-x11-libs/gtk+:wayland - Enable dev-libs/wayland backend
-x11-libs/libwnck:introspection - Use dev-libs/gobject-introspection for introspection
-x11-misc/appmenu-gtk:gtk - Build with x11-libs/gtk+:2
-x11-misc/appmenu-gtk:gtk3 - Build with x11-libs/gtk+:3
 x11-misc/overlay-scrollbar:gtk2 - Build with x11-libs/gtk+:2
 x11-misc/overlay-scrollbar:gtk3 - Build with x11-libs/gtk+:3
 x11-plugins/compiz-plugins-extra:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
 x11-plugins/compiz-plugins-main:gconf - Install GConf schemas for the plugins, needed when using the GConf-based configuration backend in x11-wm/compiz.
-x11-themes/bespin:windeco - Enable window decoration for KWin.
 x11-wm/compiz:fuse - Enables support for the filesystem in userspace plugin through sys-fs/fuse.
 x11-wm/compiz:gconf - Enable the GConf-based configuration backend; it is not required to work with GNOME, and might actually be faster if it's not used.
 x11-wm/compiz:nvidia - Antitearing patch for nvidia users.
