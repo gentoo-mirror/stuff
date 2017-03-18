@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-qt/qtcore:4 dev-qt/qtgui:4 doc? ( app-doc/doxygen ) test? ( dev-libs/qjson dev-qt/qttest:4 ) sys-devel/make >=dev-util/cmake-3.6.3 test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost )
+DEPEND=dev-qt/qtcore:4 dev-qt/qtgui:4 doc? ( app-doc/doxygen ) test? ( dev-libs/qjson dev-qt/qttest:4 ) sys-devel/make >=dev-util/cmake-3.7.2 test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost )
 DESCRIPTION=A library providing Qt implementation of DBusMenu specification
 EAPI=4
 HOMEPAGE=https://launchpad.net/libdbusmenu-qt/
@@ -11,5 +11,5 @@ RESTRICT=test
 SLOT=0
 SRC_URI=http://launchpad.net/libdbusmenu-qt/trunk/0.9.1/+download/libdbusmenu-qt-0.9.1.tar.bz2
 _eclass_exported_funcs=src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:- src_install:cmake-utils
-_eclasses_=cmake-utils	dd1d263f83f0791bd433b134f40db39b	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0	virtualx	171580f737f5aaf18fcb456548588066
+_eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0	virtualx	171580f737f5aaf18fcb456548588066
 _md5_=209f64a7d943ce31f43711092b54aa86
