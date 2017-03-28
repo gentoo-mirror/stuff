@@ -36,7 +36,7 @@ dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library, allowing g
 dev-libs/thrift 0.9.1 0.9.3: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.2.6 0.2.8: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
-dev-util/aptana 3.4.2: The leading eclipse IDE for Ajax and today's web platforms
+dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/gperftools 2.5 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
 games-action/jjffe 2.8_alpha-r7: JJFFE is set of recompiled replacement executables for the game Frontier: First Encounters.
