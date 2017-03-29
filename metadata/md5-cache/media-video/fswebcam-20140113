@@ -9,4 +9,4 @@ RDEPEND=media-libs/gd
 SLOT=0
 SRC_URI=http://www.sanslogic.co.uk/fswebcam/files/fswebcam-20140113.tar.xz
 _eclass_exported_funcs=-
-_md5_=f5c133b30caf0652526b1a5eed40fb84
+_md5_=3a5072d9a30967ef09663e291e916b37

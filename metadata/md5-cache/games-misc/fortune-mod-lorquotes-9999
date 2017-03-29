@@ -7,4 +7,4 @@ LICENSE=WTFPL-2
 RDEPEND=games-misc/fortune-mod
 SLOT=0
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=bc505f1db9f557518035e82e77c31d6e
+_md5_=afcc851f03570e674eb2b2a4484c9a5b

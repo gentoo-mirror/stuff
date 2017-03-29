@@ -3,10 +3,6 @@
 # * generated automatically using pmaint *
 
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
-dev-lang/erlang:halfword - Enable halfword emulator
-dev-lang/erlang:hipe - HIgh Performance Erlang extension
-dev-lang/erlang:kpoll - Enable kernel polling support
-dev-lang/erlang:sctp - Support for Stream Control Transmission Protocol
 dev-libs/blingbling:vicious - Require vicious plugin
 dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
 dev-libs/libmesode:doc - Install doxygen documentation
@@ -77,13 +73,10 @@ media-libs/mlt:rtaudio - Builds rtaudio consumer for native audio support on mul
 media-libs/mlt:ruby - Build SWIG bindings for Ruby
 media-plugins/deadbeef-fb:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-fb:gtk3 - Build with x11-libs/gtk+:3
-media-plugins/deadbeef-ffmpeg:3dnowext - Enable manually-optimised routines using the AMD 3DNow!Ex SIMD instruction set, present in modern AMD CPUs. (Check for 3dnowext in /proc/cpuinfo to know whether your CPU supports it).
 media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
 media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
 media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
-media-plugins/deadbeef-ffmpeg:mmxext - Enables mmx2 support
 media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
-media-plugins/deadbeef-ffmpeg:ssse3 - Faster floating point optimization for SSSE3 capable chips (Intel Core 2 and later chips)
 media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-musical-spectrum:gtk2 - Build with x11-libs/gtk+:2

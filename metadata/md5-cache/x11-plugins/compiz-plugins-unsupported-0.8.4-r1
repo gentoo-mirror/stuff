@@ -10,4 +10,4 @@ RESTRICT=mirror
 SLOT=0
 SRC_URI=http://releases.compiz.org/0.8.4/compiz-plugins-unsupported-0.8.4.tar.bz2
 _eclass_exported_funcs=src_install:-
-_md5_=bdc1a5fb953d84a1b60b3c09ee270360
+_md5_=4a68a19d5f6f343668c07759860fade4
