@@ -12,7 +12,6 @@ app-portage/gcc-switcher 1.4.1: Switch gcc's version per package
 app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
 app-portage/portopts 9999: quick set opts per package
 app-portage/udept 0.5.99.0.2.96: A Portage analysis toolkit
-app-text/goldendict 9999: Feature-rich dictionary lookup program
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 app-text/qrfcview 0.62 9999: Viewer for IETF RFCs
 dev-cpp/clucene 0.9.21b: High-performance, full-featured text search engine based off of lucene in C++
@@ -120,25 +119,16 @@ x11-apps/ccsm 0.8.4-r6: Compizconfig Settings Manager
 x11-apps/simple-ccsm 0.8.8-r1: Simplified Compizconfig Settings Manager
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104 0.2.104-r1: BAMF Application Matching Framework
-x11-libs/compiz-bcop 0.8.4 0.8.8: Compiz Option code Generator
-x11-libs/compizconfig-backend-gconf 0.8.4-r2 0.8.8: Compizconfig Gconf Backend
-x11-libs/compizconfig-backend-kconfig4 0.8.4 0.8.8: Compizconfig Kconfig Backend
-x11-libs/libcompizconfig 0.8.4-r2 0.8.8: Compiz Configuration System
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
 x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus from the application into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.2.2 9999: Panel indicator for YandexDisk CLI client for Linux
-x11-plugins/compiz-plugins-extra 0.8.6-r1 0.8.8: Compiz Fusion Window Decorator Extra Plugins
-x11-plugins/compiz-plugins-main 0.8.6-r1 0.8.8: Compiz Fusion Window Decorator Plugins
-x11-plugins/compiz-plugins-unsupported 0.8.4-r1 0.8.8: Compiz Fusion Window Decorator Unsupported Plugins
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget will display the current weather conditions plus a few days forecast
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 1.0.0 9999: A good looking terminal emulator which mimics the old cathode display
 x11-themes/emerald-themes 0.5.2: Emerald window decorator themes
-x11-wm/compiz 0.8.6-r4 0.8.8-r2 0.8.9-r1: OpenGL window and compositing manager
-x11-wm/compiz-fusion 0.8.4-r1 0.8.6 0.8.8: Compiz Fusion (meta)
 x11-wm/emerald 0.8.4-r2 0.8.8-r1: Emerald Window Decorator
 x11-wm/wmfs 9999: Windows Manager From Scratch
