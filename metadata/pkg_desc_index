@@ -5,7 +5,7 @@ app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK imp
 app-editors/gobby 0.5.0: GTK-based collaborative editor
 app-editors/manpageeditor 0.0.13: Man Page Editor
 app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line of your desktop or server.
-app-misc/qmetro 0.6.5-r1: Vector metro (subway) map for calculating route and getting information about transport nodes.
+app-misc/qmetro 0.6.5-r1: Subway map for calculating route and getting information about transport nodes.
 app-misc/tudu 0.8.1-r1 0.8.2: Command line interface to manage hierarchical todos
 app-office/mytetra 9999: Smart manager for information collecting
 app-portage/gcc-switcher 1.4.1: Switch gcc's version per package
