@@ -4,7 +4,7 @@ app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementa
 app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
 app-editors/gobby 0.5.0: GTK-based collaborative editor
 app-editors/manpageeditor 0.0.13: Man Page Editor
-app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line of your desktop or server.
+app-misc/megatools 1.9.91 1.9.91-r1: Collection of programs for accessing Mega service from a command line.
 app-misc/qmetro 0.6.5-r1: Subway map for calculating route and getting information about transport nodes.
 app-misc/tudu 0.8.1-r1 0.8.2: Command line interface to manage hierarchical todos
 app-office/mytetra 9999: Smart manager for information collecting
@@ -29,14 +29,13 @@ dev-libs/libindicator 0.4.1 0.4.1-r300: A set of symbols and convience functions
 dev-libs/libmesode 0.9.1 9999: Fork of libstrophe for use with Profanity XMPP Client
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 0.9.1 9999: A simple, lightweight C library for writing XMPP clients
-dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library, allowing graphic and text rendering.
+dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
 dev-libs/thrift 0.9.1 0.9.3: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.2.6 0.2.8: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
 dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/gperftools 2.5 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
-games-action/jjffe 2.8_alpha-r7: JJFFE is set of recompiled replacement executables for the game Frontier: First Encounters.
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
@@ -62,7 +61,7 @@ media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20131020-r1 20140309 20140311 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
-media-plugins/deadbeef-infobar 1.3-r1 1.4 9999-r1: Infobar plugin for DeadBeeF audio player. Shows lyrics and artist's biography for the current track.
+media-plugins/deadbeef-infobar 1.3-r1 1.4 9999-r1: Infobar plugin for DeadBeeF showing lyrics.
 media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
 media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
 media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
@@ -114,18 +113,18 @@ www-apps/ikiwiki 3.20170111: A wiki compiler
 www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed in C++ and based on Qt4
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 www-plugins/okularplugin 1.0.1: Plugin for embedding okular into the browser
-www-plugins/rosa-media-player-plugin 0.951 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
+www-plugins/rosa-media-player-plugin 0.951 1.6: ROSA Media Player Plugin is designed to use with internet browsers.
 x11-apps/ccsm 0.8.4-r6: Compizconfig Settings Manager
 x11-apps/simple-ccsm 0.8.8-r1: Simplified Compizconfig Settings Manager
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104 0.2.104-r1: BAMF Application Matching Framework
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
 x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
-x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus from the application into Unity's menubar.
+x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.2.2 9999: Panel indicator for YandexDisk CLI client for Linux
-x11-plugins/e_modules-forecasts 9999: The forecasts gadget will display the current weather conditions plus a few days forecast
+x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 1.0.0 9999: A good looking terminal emulator which mimics the old cathode display

@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile configure install prepare unpack
 DEPEND=media-video/mplayer dev-libs/glib dev-qt/qtcore:4 dev-qt/qtgui:4
-DESCRIPTION=ROSA Media Plugin
+DESCRIPTION=ROSA Media Player Plugin is designed to use with internet browsers.
 EAPI=4
 HOMEPAGE=http://www.rosalab.ru/
 IUSE=+mpeg +rm +wmp +divx linguas_ar linguas_bg linguas_ca linguas_cs linguas_de linguas_el linguas_en_GB linguas_es_LA linguas_es linguas_et linguas_eu linguas_fi linguas_fr linguas_gl linguas_hu linguas_it linguas_ja linguas_ka linguas_ko linguas_ku linguas_lt linguas_mk linguas_nl linguas_pl linguas_pt_PT linguas_pt linguas_pt_BR linguas_ro linguas_ru linguas_sk linguas_sl linguas_sr linguas_sv linguas_tr linguas_uk linguas_vi linguas_zh_CN linguas_zh_TW
@@ -11,4 +11,4 @@ SLOT=0
 SRC_URI=http://svn.mandriva.com/svn/packages/cooker/rosa-media-player-plugin/current/SOURCES/rosa-media-player-plugin-0.951.tar.gz http://stuff.tazhate.com/distfiles/rosa-media-player-plugin-0.951.tar.gz
 _eclass_exported_funcs=src_unpack:qt4-r2 src_prepare:qt4-r2 src_configure:qt4-r2 src_compile:- src_install:-
 _eclasses_=base	df2aa567b3f0595aae0d0923889f7631	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	e7491451996e8b54c3caeb713285b0fb	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	qmake-utils	ea78a9056543346cdc8cbbd07f16c6fb	qt4-r2	b7985a3197fbc3a22d059f19904e735b	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
-_md5_=e942afb0660c8c569487e559537bc794
+_md5_=ce59197944c6af0104989f7fa7a15210
