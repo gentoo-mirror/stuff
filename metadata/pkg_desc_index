@@ -1,5 +1,3 @@
-app-benchmarks/perftest 0.1: Application designed to test gtk2/gtk3 performance
-app-benchmarks/qtperf 0.1: Application designed to test QT performance
 app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementations
 app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
 app-editors/gobby 0.5.0: GTK-based collaborative editor
