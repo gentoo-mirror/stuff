@@ -37,7 +37,6 @@ dev-util/qbs 9999: Next generation of build systems based on Qt and QML language
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 30.1.0: Dwarf (The)rapist for Dwarf Fortress.
-gnome-extra/gnome-shell-extensions-mediaplayer 9999: A mediaplayer indicator for the gnome-shell.
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.11 2.20 2.20.13 9999: alpine is an easy to use text-based based mail and news client
