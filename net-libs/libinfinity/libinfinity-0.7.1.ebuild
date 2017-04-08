@@ -9,11 +9,12 @@ MY_PV=$(get_version_component_range 1-2)
 
 DESCRIPTION="An implementation of the Infinote protocol written in GObject-based C"
 HOMEPAGE="https://gobby.github.io/"
-SRC_URI="http://releases.0x539.de/${PN}/${P}.tar.gz"
+SRC_URI="https://github.com/gobby/${PN}/archive/${PV}.zip -> ${P}.zip
+http://releases.0x539.de/${PN}/${P}.tar.gz"
 LICENSE="LGPL-2.1"
-SLOT="0"
+SLOT="0.7"
 KEYWORDS="~amd64 ~x86"
-IUSE="avahi doc gtk +gtk3 server static-libs"
+IUSE="-avahi doc gtk +gtk3 server static-libs"
 
 RDEPEND="dev-libs/glib:2
 	dev-libs/libxml2
