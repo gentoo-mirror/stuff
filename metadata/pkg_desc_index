@@ -107,8 +107,6 @@ www-misc/httraqt 1.0.6: Graphical user interface for HTTrack library, developed 
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 www-plugins/okularplugin 1.0.1: Plugin for embedding okular into the browser
 www-plugins/rosa-media-player-plugin 0.951 1.6: ROSA Media Player Plugin is designed to use with internet browsers.
-x11-apps/ccsm 0.8.4-r6: Compizconfig Settings Manager
-x11-apps/simple-ccsm 0.8.8-r1: Simplified Compizconfig Settings Manager
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-libs/qt-components-desktop 9999: Qt4 desktop components
