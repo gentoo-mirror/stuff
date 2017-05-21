@@ -18,7 +18,9 @@ dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the 
 dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
 dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
+dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
+dev-libs/libdbusmenu-qt 0.9.0 0.9.1 0.9.2 0.9.2-r2: A library providing Qt implementation of DBusMenu specification
 dev-libs/libindicator 0.4.1 0.4.1-r300: A set of symbols and convience functions that all indicators would like to use
 dev-libs/libmesode 0.9.1 9999: Fork of libstrophe for use with Profanity XMPP Client
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
@@ -62,7 +64,7 @@ media-plugins/deadbeef-remote 9999: Remote control plugin for DeadBeeF
 media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio player
 media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
 media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
-media-plugins/deadbeef-vk 0.1.13-r1 0.2.0 0.2.1 0.2.2: DeadBeef plugin for listening music from vkontakte.com
+media-plugins/deadbeef-vk 0.1.13-r1 0.2.0 0.2.1 0.2.2 9999: DeadBeef plugin for listening music from vkontakte.com
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
@@ -91,9 +93,12 @@ sci-physics/mumax 3.9.1: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_alpha6 1.2_beta0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
+sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
+sys-fs/fragview 9999: Disk fragmentation viewer written with boost and gtkmm
 sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22 0.6.18: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
+sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 3.15.10_p2 3.16.7_p1 3.17.7_p2 3.18.11_p1 3.19.5_p1 4.0.9_p1 4.1.12_p1 4.2.7_p1 4.3.6_p2 4.4.10_p1 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.23_p1 4.10.16_p1 4.11.2_p3: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p3: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
