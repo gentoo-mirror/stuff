@@ -8,5 +8,5 @@ LICENSE=GPL-3+
 RDEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libmesode-0.9.0 ) net-misc/curl sys-libs/ncurses sys-libs/readline gtk? ( >=x11-libs/gtk+-2.24.10:2 ) gpg? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) plugins? ( dev-lang/python ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify )
 SLOT=0
 _eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_prepare:- src_configure:-
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	git-2	195a672bfaf52d868442171c9469bbb6	libtool	e32ea84bf82cf8987965b574672dba93	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7
+_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	git-2	195a672bfaf52d868442171c9469bbb6	libtool	e32ea84bf82cf8987965b574672dba93	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
 _md5_=e32c329878e557149367213e1717fe70
