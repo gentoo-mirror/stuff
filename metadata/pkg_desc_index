@@ -86,6 +86,7 @@ net-im/stabber 9999: Stubbed XMPP Server
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.18.0 0.20.0 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
+net-misc/pppoat 9999: PPP over Any Transport
 net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-mathematics/fvm2 1.99.2: Environment for executing and debugging Markov algorithm
 sci-mathematics/sofastatistics 1.4.0 1.4.1 1.4.1-r1 1.4.2 1.4.3: SOFA is a statistics, analysis, and reporting program

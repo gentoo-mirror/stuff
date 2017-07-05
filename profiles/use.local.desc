@@ -159,6 +159,7 @@ net-im/profanity:xscreensaver - Use x11-libs/libXScrnSaver for checking idle tim
 net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
+net-misc/pppoat:xmpp - Build with xmpp module
 sci-mathematics/fvm2:doc - Install ukrainian documentation
 sci-mathematics/fvm2:examples - Install examples for Markov algorithm
 sci-mathematics/sofastatistics:linguas_hr_HR - Croatian locale
