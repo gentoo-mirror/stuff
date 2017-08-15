@@ -37,6 +37,12 @@ mail-client/alpine:passfile - Adds support for caching passwords into a file bet
 mail-client/alpine:patches - Apply additional pathces. See http://patches.freeiz.com/alpine/info/all.html
 mail-client/alpine:smime - Enable support for S/MIME
 mail-client/alpine:topal - Enable support for net-mail/topal
+media-gfx/digikam:addressbook - Enable akonadi contact integration
+media-gfx/digikam:kipi - Enable support for media-plugins/kipi-plugins
+media-gfx/digikam:lensfun - Enable support for media-libs/lensfun
+media-gfx/digikam:marble - Enable support for geolocation using kde-apps/marble
+media-gfx/digikam:panorama - Build the panorama plugin which requires media-gfx/hugin
+media-gfx/digikam:semantic-desktop - Enable kde-frameworks/kfilemetadata support
 media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
 media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
 media-gfx/fontforge:devicetables - Control whether we build with support for device tables which allow fine control of kerning (etc.) at small point sizes
