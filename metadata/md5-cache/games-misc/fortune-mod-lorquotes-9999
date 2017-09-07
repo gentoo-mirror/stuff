@@ -6,5 +6,4 @@ KEYWORDS=alpha amd64 arm hppa ia64 m68k ~mips ppc ppc64 s390 sh sparc x86 ~x86-f
 LICENSE=WTFPL-2
 RDEPEND=games-misc/fortune-mod
 SLOT=0
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=afcc851f03570e674eb2b2a4484c9a5b

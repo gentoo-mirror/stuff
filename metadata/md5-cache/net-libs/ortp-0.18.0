@@ -9,5 +9,4 @@ LICENSE=LGPL-2.1
 RDEPEND=srtp? ( net-libs/libsrtp ) ssl? ( dev-libs/openssl )
 SLOT=0
 SRC_URI=mirror://nongnu/linphone/ortp/sources/ortp-0.18.0.tar.gz
-_eclass_exported_funcs=src_prepare:- src_configure:- src_install:-
 _md5_=16d66ff03ff322db18b7843720aa2630
