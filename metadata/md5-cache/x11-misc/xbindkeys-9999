@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install unpack
-DEPEND=x11-libs/libX11 >=dev-scheme/guile-1.8.4[deprecated] tk? ( dev-lang/tk ) x11-proto/xproto dev-vcs/git
+DEPEND=x11-libs/libX11 >=dev-scheme/guile-1.8.4[deprecated] tk? ( dev-lang/tk ) x11-proto/xproto >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Tool for launching commands on keystrokes
 EAPI=4
 HOMEPAGE=http://www.nongnu.org/xbindkeys/xbindkeys.html
@@ -7,5 +7,5 @@ IUSE=tk
 LICENSE=GPL-2
 RDEPEND=x11-libs/libX11 >=dev-scheme/guile-1.8.4[deprecated] tk? ( dev-lang/tk )
 SLOT=0
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	git-2	195a672bfaf52d868442171c9469bbb6	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=0debe48c1807df7e72ab96eb0e7d3b1d
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	git-r3	52a888802d25387c2c74cb845d1219bc	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
+_md5_=227c92e54338c12f668ccd5a3211a808

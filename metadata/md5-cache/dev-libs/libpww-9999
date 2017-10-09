@@ -1,10 +1,10 @@
 DEFINED_PHASES=unpack
-DEPEND=dev-vcs/git
+DEPEND=>=dev-vcs/git-1.8.2.1
 DESCRIPTION=POSIX threads workers wrapper shared library
 EAPI=4
 HOMEPAGE=https://github.com/pfactum/libpww
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
-_md5_=6ba51d2c784bb4c62541cc2c4fefd972
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_md5_=5d4da3f572f8f73a42ecd434e79c7b54
