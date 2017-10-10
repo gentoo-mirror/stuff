@@ -34,9 +34,8 @@ lxde-base/lxpanelx:oss - Adds support for OSS (Open Sound System)
 lxde-base/lxpanelx:plugins - Enable plugin loading
 lxde-base/lxpolkit:gtk3 - Build with x11-libs/gtk+:3
 mail-client/alpine:passfile - Adds support for caching passwords into a file between sessions
-mail-client/alpine:patches - Apply additional pathces. See http://patches.freeiz.com/alpine/info/all.html
+mail-client/alpine:patches - Apply additional pathces. See http://alpine.freeiz.com/alpine/index.html
 mail-client/alpine:smime - Enable support for S/MIME
-mail-client/alpine:topal - Enable support for net-mail/topal
 media-gfx/digikam:addressbook - Enable akonadi contact integration
 media-gfx/digikam:kipi - Enable support for media-plugins/kipi-plugins
 media-gfx/digikam:lensfun - Enable support for media-libs/lensfun
