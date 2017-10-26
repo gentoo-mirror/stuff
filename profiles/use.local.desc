@@ -4,7 +4,6 @@
 
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
 dev-libs/blingbling:vicious - Require vicious plugin
-dev-libs/libindicator:gtk2 - Build with x11-libs/gtk+:2
 dev-libs/libmesode:doc - Install doxygen documentation
 dev-libs/libstrophe:doc - Install doxygen documentation
 dev-libs/libstrophe:libressl - Use dev-libs/libressl instead of dev-libs/openssl
@@ -36,12 +35,6 @@ lxde-base/lxpolkit:gtk3 - Build with x11-libs/gtk+:3
 mail-client/alpine:passfile - Adds support for caching passwords into a file between sessions
 mail-client/alpine:patches - Apply additional pathces. See http://alpine.freeiz.com/alpine/index.html
 mail-client/alpine:smime - Enable support for S/MIME
-media-gfx/digikam:addressbook - Enable akonadi contact integration
-media-gfx/digikam:kipi - Enable support for media-plugins/kipi-plugins
-media-gfx/digikam:lensfun - Enable support for media-libs/lensfun
-media-gfx/digikam:marble - Enable support for geolocation using kde-apps/marble
-media-gfx/digikam:panorama - Build the panorama plugin which requires media-gfx/hugin
-media-gfx/digikam:semantic-desktop - Enable kde-frameworks/kfilemetadata support
 media-gfx/fontforge:capslock-for-alt - Control whether to use capslock rather than alt/meta to alter behavior of tools in outline/bitmap windows
 media-gfx/fontforge:cjk - Controls whether fontforge understands the gb12345 encoding and installs cidmap package to edit CID-keyed fonts
 media-gfx/fontforge:devicetables - Control whether we build with support for device tables which allow fine control of kerning (etc.) at small point sizes
