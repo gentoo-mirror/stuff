@@ -44,6 +44,7 @@ media-gfx/svgcleaner 0.9.1 9999: SVG Cleaner cleans up your SVG files from unnec
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
+media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
@@ -64,7 +65,6 @@ media-plugins/deadbeef-vk 0.1.13-r1 0.2.0 0.2.1 0.2.2 9999: DeadBeef plugin for 
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
-media-sound/amulet 9999: Audio converter based on flac, lame...
 media-sound/deadbeef 0.5.6-r4 0.6.0-r1 0.6.1 0.6.2 0.7.0 0.7.2 9999-r8: foobar2k-like music player
 media-sound/qsmmp 9999: Qsmmp is a audio player based on Qmmp. Qsmmp aimed to have native qt look.
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
@@ -74,7 +74,6 @@ media-video/acestream-ffmpeg 0.10.7-r6: Old ffmpeg libs for use with AceStream, 
 media-video/acestream-player 2.1.6: ACE Stream HD multimedia player based on VLC
 media-video/acestream-player-data 2.1.6-r11: ACE Stream player libraries files
 media-video/fswebcam 9999 20140113: neat and simple webcam grabbing app
-media-video/qtav 9999: media playback based on Qt, FFmpeg and Cuda
 media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 0.4.7 0.5.0 0.5.1 9999: Ncurses based jabber client inspired by irssi
@@ -88,7 +87,7 @@ net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-mathematics/fvm2 1.99.2: Environment for executing and debugging Markov algorithm
 sci-mathematics/sofastatistics 1.4.6: SOFA is a statistics, analysis, and reporting program
 sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
-sci-physics/oommf 1.2_alpha6 1.2_beta0: The Object Oriented MicroMagnetic Framework
+sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
