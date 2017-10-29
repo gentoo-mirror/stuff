@@ -32,6 +32,7 @@ dev-util/gperftools 2.5 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
+games-roguelike/angband 4.1.0: A roguelike dungeon exploration game based on the books of J.R.R. Tolkien
 games-roguelike/dwarftherapist 37.0.0: Dwarf (The)rapist for Dwarf Fortress.
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
