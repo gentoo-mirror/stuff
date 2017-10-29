@@ -58,8 +58,6 @@ media-gfx/inkscape:wpg - Support for WordPerfect Graphics
 media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
 media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
-media-libs/gmtk:dconf - Enable support for gnome-base/dconf
-media-libs/gmtk:gtk3 - Build with x11-libs/gtk+:3
 media-libs/mlt:compressed-lumas - Compress the luma files in png.
 media-libs/mlt:frei0r - Build the module for media-plugins/frei0r-plugins
 media-libs/mlt:kdenlive - Build support for media-video/kdenlive
