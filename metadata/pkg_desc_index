@@ -28,7 +28,6 @@ dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwor
 dev-ml/gapi-ocaml 0.2.6 0.2.8 0.3.1 0.3.3 0.3.4: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1: OCaml binding for fuse
 dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
-dev-util/gperftools 2.5 9999: Collection of nifty performance analysis tools.
 dev-util/qbs 9999: Next generation of build systems based on Qt and QML language/
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game

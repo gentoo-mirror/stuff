@@ -21,11 +21,6 @@ dev-libs/thrift:php_extension - Enable php_extension support.
 dev-libs/thrift:pic - Enable pic support.
 dev-libs/thrift:python - Enable python support.
 dev-libs/thrift:ruby - Enable ruby support.
-dev-util/gperftools:cpu-profiler - Build the cpu profiler
-dev-util/gperftools:debug - Build versions of libs with debugalloc
-dev-util/gperftools:heap-checker - Build the heap checker
-dev-util/gperftools:heap-profiler - Build the heap profiler
-dev-util/gperftools:sized-delete - C++14 sized-deallocation support
 lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
 lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
 lxde-base/lxpanelx:menucache - Add support for lxde-base/menu-cache
