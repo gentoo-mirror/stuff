@@ -76,7 +76,7 @@ media-video/acestream-player-data 2.1.6-r11: ACE Stream player libraries files
 media-video/fswebcam 9999 20140113: neat and simple webcam grabbing app
 media-video/rosa-media-player 1.0 1.6.2 9999: Multimedia player that supports most of audio and video formats.
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
-net-im/profanity 0.4.7 0.5.0 0.5.1 9999: Ncurses based jabber client inspired by irssi
+net-im/profanity 0.4.7 0.5.1 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
