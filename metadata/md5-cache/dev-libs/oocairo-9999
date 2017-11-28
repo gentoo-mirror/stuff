@@ -6,5 +6,5 @@ HOMEPAGE=http://oocairo.naquadah.org/
 LICENSE=MIT
 RDEPEND=dev-lang/lua x11-libs/cairo
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
 _md5_=1768461016fde8e482a75dc888d326a4

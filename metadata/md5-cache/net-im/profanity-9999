@@ -7,5 +7,5 @@ IUSE=gpg -gtk libnotify otr plugins +themes xscreensaver
 LICENSE=GPL-3+
 RDEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libmesode-0.9.0 ) net-misc/curl sys-libs/ncurses sys-libs/readline gtk? ( >=x11-libs/gtk+-2.24.10:2 ) gpg? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) plugins? ( dev-lang/python ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify )
 SLOT=0
-_eclasses_=autotools	dc412f38566b91012efd58b9c203e6c3	git-r3	52a888802d25387c2c74cb845d1219bc	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
+_eclasses_=autotools	dc412f38566b91012efd58b9c203e6c3	git-r3	fec09a83ae965b041b47f5ff7c8ba29a	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=6caae3f312e14c2608df0a1917930d6b
