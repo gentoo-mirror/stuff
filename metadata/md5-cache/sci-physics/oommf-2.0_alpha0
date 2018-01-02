@@ -9,4 +9,4 @@ LICENSE=HPND
 RDEPEND=dev-lang/tcl:= dev-lang/tk:=
 SLOT=1.2
 SRC_URI=http://math.nist.gov/oommf/dist/oommf20a0_20170927.tar.gz
-_md5_=302dd2394978221e66da71f6417ebce3
+_md5_=a393394db2b52b0666abfa65ebe5fea3

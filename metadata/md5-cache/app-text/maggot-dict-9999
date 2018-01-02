@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=app-shells/bash-completion
 SLOT=0
 _eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
-_md5_=67e4baa891dc9783a484deffc0d0d071
+_md5_=927ed0ed8dd4d12d44cd273f8c3e5b0a

@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=media-libs/gd
 SLOT=0
 _eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
-_md5_=f4b50ef9dc9a51a9f65815d6c2930de3
+_md5_=278c75eb01c22e57c076826e159adcb6
