@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install
 DEPEND=xml? ( dev-libs/libxml2 ) !xml? ( dev-libs/expat ) libressl? ( dev-libs/libressl:0= ) !libressl? ( dev-libs/openssl:0= ) doc? ( app-doc/doxygen )
 DESCRIPTION=A simple, lightweight C library for writing XMPP clients
-EAPI=5
+EAPI=6
 HOMEPAGE=http://strophe.im/libstrophe/
-IUSE=doc libressl -xml
+IUSE=doc examples libressl -xml
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT GPL-3
 RDEPEND=xml? ( dev-libs/libxml2 ) !xml? ( dev-libs/expat ) libressl? ( dev-libs/libressl:0= ) !libressl? ( dev-libs/openssl:0= )
 SLOT=0
-SRC_URI=https://github.com/strophe/libstrophe/releases/download/0.9.1/libstrophe-0.9.1.tar.bz2
-_md5_=6311d29561b678c7513556d027e78033
+SRC_URI=https://github.com/strophe/libstrophe/releases/download/0.9.2/libstrophe-0.9.2.tar.bz2
+_md5_=c5f1e1ee6b2530926ca4f905828effe8
