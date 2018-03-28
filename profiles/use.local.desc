@@ -9,3 +9,4 @@ media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constrain
 media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
 media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
 media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
+www-apps/ikiwiki:extras - Installs additional modules used by ikiwiki plugins
