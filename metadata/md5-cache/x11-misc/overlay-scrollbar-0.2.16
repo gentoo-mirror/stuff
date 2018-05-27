@@ -9,5 +9,5 @@ LICENSE=GPL-2 LGPL-2
 RDEPEND=gtk2? ( x11-libs/gtk+:2 ) gtk3? ( x11-libs/gtk+:3 )
 SLOT=0
 SRC_URI=http://launchpad.net/ayatana-scrollbar/0.2/0.2.16/+download/overlay-scrollbar-0.2.16.tar.gz
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	fa02994d0beba88681127d93da4411ec	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
 _md5_=a18366893f58784bd14e2f2aaae1a6cb
