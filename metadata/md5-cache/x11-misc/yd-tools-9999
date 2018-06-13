@@ -1,5 +1,5 @@
 DEFINED_PHASES=install unpack
-DEPEND=net-misc/yandex-disk >=dev-vcs/git-1.8.2.1
+DEPEND=net-misc/yandex-disk >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Panel indicator for YandexDisk CLI client for Linux
 EAPI=5
 HOMEPAGE=https://github.com/slytomcat/yandex-disk-indicator
@@ -7,5 +7,5 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-3
 RDEPEND=net-misc/yandex-disk
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=a9886f796cd02afd752fe1a0f7e4a644
