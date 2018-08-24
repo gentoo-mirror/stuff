@@ -7,7 +7,8 @@ IUSE=+gtk2 gtk3
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-3
 RDEPEND=>=dev-lang/vala-0.11.7 gtk3? ( >=x11-libs/libwnck-3.2.1 >=x11-libs/gtk+-3.2.1 ) gnome-base/libgtop
+RESTRICT=primaryuri
 SLOT=0
 SRC_URI=http://launchpad.net/bamf/0.2/0.2.104/+download/bamf-0.2.104.tar.gz
 _eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512
-_md5_=0943db49ddf10ffbb4d3d64bf8618256
+_md5_=abeaa552c0e1ac8cefc5e6cb64f47468
