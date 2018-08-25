@@ -1,0 +1,10 @@
+dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the code used in GnuPG
+dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
+dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
+games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
+media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
+media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
+media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
+www-apps/ikiwiki 3.20180311: A wiki compiler
+x11-misc/yd-tools 9999: Panel indicator for YandexDisk CLI client for Linux
+x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
