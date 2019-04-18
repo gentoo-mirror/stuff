@@ -1,3 +1,4 @@
+app-office/texmaker 5.0.3: A nice LaTeX-IDE
 dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the code used in GnuPG
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
 dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
