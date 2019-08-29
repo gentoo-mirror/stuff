@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile install test unpack
-DEPEND=virtual/rust dev-util/cargo virtual/cargo >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=virtual/rust dev-util/cargo >=virtual/cargo-1.37.0 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=SVG Cleaner cleans up your SVG files from unnecessary data.
 EAPI=6
 HOMEPAGE=https://github.com/RazrFalcon/SVGCleaner
@@ -8,5 +8,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=virtual/rust dev-util/cargo
 SLOT=0
-_eclasses_=cargo	c6407d708bf89ddb5b8d8fc903fd08b0	git-r3	562b380fc59ae6a8622171d0acb777d1	multiprocessing	cac3169468f893670dac3e7cb940e045
+_eclasses_=cargo	bccdcfbbe03fc5843eeb9f7e87005f6f	git-r3	562b380fc59ae6a8622171d0acb777d1	multiprocessing	cac3169468f893670dac3e7cb940e045
 _md5_=8abb80943417e8abaa0c4987530a0186
