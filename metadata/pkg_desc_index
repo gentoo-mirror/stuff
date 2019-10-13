@@ -37,7 +37,6 @@ lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/inkscape 9999: A SVG based generic vector-drawing program
-media-gfx/iscan 2.30.4.2: EPSON Image Scan! for Linux (including sane-epkowa backend)
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.2 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
@@ -97,7 +96,7 @@ sys-fs/ls-fuse 0.1 0.2 0.3 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.1.12_p1 4.2.7_p1 4.3.6_p2 4.4.10_p1 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
-sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p3: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
