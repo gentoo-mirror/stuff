@@ -6,4 +6,4 @@ KEYWORDS=~alpha ~amd64 ~hppa ~ia64 ~ppc ~ppc64 ~s390 ~sparc ~x86 ~x86-fbsd ~amd6
 LICENSE=BSD
 SLOT=0
 SRC_URI=https://dev.gentoo.org/~bicatali/lapack-man-3.3.tar.gz https://www.netlib.org/lapack/lapackqref.ps
-_md5_=0b45cd997f36214ba8ba4683a7e832e4
+_md5_=6d57812b22efbb03090df9b117676e4b
