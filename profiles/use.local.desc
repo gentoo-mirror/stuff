@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-editors/gobby:avahi - Build with net-dns/avahi:3
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
 dev-libs/blingbling:vicious - Require vicious plugin
 dev-libs/libmesode:doc - Install doxygen documentation
