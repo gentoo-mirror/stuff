@@ -1,4 +1,4 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=6
@@ -27,7 +27,7 @@ RDEPEND="
 	dev-python/pyopencl
 	dev-python/silx
 	dev-python/numexpr
-	sci-libs/fftw
+	sci-libs/fftw:3.0
 "
 
 DEPEND="${RDEPEND}
