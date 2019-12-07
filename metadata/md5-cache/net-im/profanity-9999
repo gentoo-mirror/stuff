@@ -8,5 +8,5 @@ LICENSE=GPL-3+
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.26:2 || ( >=dev-libs/libstrophe-0.9.0 >=dev-libs/libmesode-0.9.0 ) net-misc/curl sys-libs/ncurses sys-libs/readline gtk? ( >=x11-libs/gtk+-2.24.10:2 ) gpg? ( app-crypt/gpgme ) otr? ( net-libs/libotr ) plugins? ( dev-lang/python ) xscreensaver? ( x11-libs/libXScrnSaver ) libnotify? ( x11-libs/libnotify )
 SLOT=0
-_eclasses_=autotools	ea7865c8fba1ea8d3639f355fffe1a3c	git-r3	562b380fc59ae6a8622171d0acb777d1	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=autotools	ea7865c8fba1ea8d3639f355fffe1a3c	git-r3	6d22636df236df4cc8475f7b7668bdcd	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=f99714fed5c5edd14df006824b09ab3f
