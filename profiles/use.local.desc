@@ -143,8 +143,6 @@ net-libs/ortp:srtp - Add support for Secure RTP
 net-misc/pppoat:xmpp - Build with xmpp module
 sci-libs/scikits_image:freeimage - Enable support for image i/o via media-libs/freeimage
 sci-libs/scikits_image:pyamg - Enable support for algebraic solvers via dev-python/pyamg
-sci-mathematics/fvm2:doc - Install ukrainian documentation
-sci-mathematics/fvm2:examples - Install examples for Markov algorithm
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
 sci-visualization/gwyddion:sourceview - Enable support for x11-libs/gtksourceview
 sys-fs/ls-fuse:debug - Enables debug messages
