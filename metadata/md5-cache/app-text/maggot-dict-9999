@@ -8,4 +8,4 @@ PROPERTIES=live
 RDEPEND=app-shells/bash-completion
 SLOT=0
 _eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
-_md5_=b3132cf42c2eabc884d8c280dc694f6f
+_md5_=b1a4513e900153d24fe11728487df77e
