@@ -73,7 +73,7 @@ media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming v
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
-media-sound/deadbeef 0.5.6-r5 0.6.0-r2 0.6.1-r1 0.6.2-r1 0.7.0-r1 0.7.2-r1 9999-r9: foobar2k-like music player
+media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
