@@ -23,6 +23,49 @@ dev-libs/thrift:php_extension - Enable php_extension support.
 dev-libs/thrift:pic - Enable pic support.
 dev-libs/thrift:python - Enable python support.
 dev-libs/thrift:ruby - Enable ruby support.
+dev-python/hyperspy:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
+dev-python/hyperspy:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
+dev-python/hyperspy:learning - To install required libraries for some machine learning features
+dev-python/hyperspy:mrcz - To install the mrcz plugin
+dev-python/hyperspy:speed - To install optional libraries that speed up some functionalities
+dev-python/pyface:pyqt5 - To install required libraries for pyqt5 support
+dev-python/pyface:pyside - To install required libraries for pyside support
+dev-python/pyface:wx - To install required libraries for wx support
+dev-python/pyqode_python:pyqode-uic - To install pyquode-uic
+dev-python/pyqode_python:pyqt-distutils - To install pyqt-distutils
+dev-python/pyside:3d - Build Qt3DCore, Qt3DAnimation, Qt3DInput, Qt3DLogic, Qt3DRender and Qt3DExtras modules
+dev-python/pyside:charts - Build QtCharts module
+dev-python/pyside:concurrent - Build QtConcurrent module
+dev-python/pyside:datavis - Build QtDataVisualization module
+dev-python/pyside:declarative - Build QtQml, QtQuick, and QtQuickWidgets modules
+dev-python/pyside:designer - Build QtDesigner and QtUiTools modules
+dev-python/pyside:gui - Build QtGui module
+dev-python/pyside:help - Build QtHelp module
+dev-python/pyside:location - Build QtLocation module
+dev-python/pyside:multimedia - Build QtMultimedia and QtMultimediaWidgets modules
+dev-python/pyside:network - Build QtNetwork module
+dev-python/pyside:opengl - Build QtOpenGL module
+dev-python/pyside:positioning - Build QtPositioning module
+dev-python/pyside:printsupport - Build QtPrintSupport module
+dev-python/pyside:script - Build QtScript module
+dev-python/pyside:scripttools - Build QtScriptTools module
+dev-python/pyside:scxml - Build QtScxml module
+dev-python/pyside:sensors - Build QtSensors module
+dev-python/pyside:speech - Build QtTextToSpeech module
+dev-python/pyside:sql - Build QtSql module
+dev-python/pyside:svg - Build QtSvg module
+dev-python/pyside:testlib - Build QtTest module
+dev-python/pyside:webchannel - Build QtWebChannel module
+dev-python/pyside:webengine - Build QtWebEngine, QtWebEngineCore and QtWebEngineWidgets modules
+dev-python/pyside:websockets - Build QtWebSockets module
+dev-python/pyside:widgets - Build QtWidgets module
+dev-python/pyside:x11extras - Build QtX11Extras module
+dev-python/pyside:xmlpatterns - Build QtXmlPatterns module
+dev-python/shiboken:numpy - Enable NumPy-based 2D array support
+dev-python/traitsui:demo - To install all requirements demo
+dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
+dev-python/traitsui:pyside - To install required libraries for pyside support
+dev-python/traitsui:wx - To install required libraries for wx support
 lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
 lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
 lxde-base/lxpanelx:menucache - Add support for lxde-base/menu-cache
