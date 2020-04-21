@@ -113,6 +113,7 @@ sci-mathematics/sofastatistics 1.4.6: SOFA is a statistics, analysis, and report
 sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
+sci-physics/xraylarch 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.55 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
