@@ -62,7 +62,6 @@ lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
-media-gfx/inkscape 9999: A SVG based generic vector-drawing program
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.2 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
@@ -129,7 +128,6 @@ www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed 
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
-x11-misc/appmenu-thunderbird 3.5: Appmenu support for Thunderbird
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
