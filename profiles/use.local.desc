@@ -5,11 +5,9 @@
 app-editors/gobby:avahi - Build with net-dns/avahi:3
 app-editors/gobby:gtk3 - Build with x11-libs/gtk+:3
 dev-libs/blingbling:vicious - Require vicious plugin
-dev-libs/libmesode:doc - Install doxygen documentation
 dev-libs/libstrophe:doc - Install doxygen documentation
-dev-libs/libstrophe:examples - Install code examples
+dev-libs/libstrophe:expat - Use dev-libs/expat instead of dev-libs/libxml2 to parse XML
 dev-libs/libstrophe:libressl - Use dev-libs/libressl instead of dev-libs/openssl
-dev-libs/libstrophe:xml - Use dev-libs/libxml2 to parse XML
 dev-libs/thrift:c_glib - Enable c_glib support.
 dev-libs/thrift:cpp - Enable cpp support.
 dev-libs/thrift:csharp - Enable csharp support.
@@ -174,16 +172,15 @@ media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdi
 net-im/profanity:gpg - Enable PGP support
 net-im/profanity:gtk - Enable tray icon
 net-im/profanity:libnotify - Enable desktop notifications support
+net-im/profanity:omemo - Enable OMEMO encryption
 net-im/profanity:otr - Enable Off-the-Record support (encryption)
 net-im/profanity:plugins - Enable plugins support (see net-im/profanity-plugins)
 net-im/profanity:themes - Install additional themes
-net-im/profanity:xml - Link with libxml2 instead of expat
 net-im/profanity:xscreensaver - Use x11-libs/libXScrnSaver for checking idle time
 net-libs/libinfinity:avahi - Build with net-dns/avahi
 net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
-net-misc/pppoat:xmpp - Build with xmpp module
 sci-libs/scikits_image:freeimage - Enable support for image i/o via media-libs/freeimage
 sci-libs/scikits_image:pyamg - Enable support for algebraic solvers via dev-python/pyamg
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
