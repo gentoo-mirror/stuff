@@ -3,23 +3,20 @@
 
 EAPI=6
 
-PYTHON_COMPAT=( python2_7 python3_5 python3_6 python3_7)
+PYTHON_COMPAT=( python2_7 python3_{6,7,8} )
 
 inherit distutils-r1 flag-o-matic
 
-DESCRIPTION="This package provides utilities related to the detection of peaks on 1D data."
-HOMEPAGE="https://bitbucket.org/lucashnegri/peakutils/"
+DESCRIPTION="Pyshortcuts helps to create desktop shortcuts that will run python scripts"
+HOMEPAGE="https://github.com/newville/pyshortcuts"
 SRC_URI="mirror://pypi/${P:0:1}/${PN}/${P}.tar.gz"
 
-LICENSE="MIT"
+LICENSE="BSD"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE="doc python"
 
 RDEPEND="
-	>=dev-python/numpy-1.8
-	>=sci-libs/scipy-0.11
-	dev-python/setuptools
 "
 #dev-python/PyQt4
 

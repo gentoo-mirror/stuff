@@ -3,26 +3,22 @@
 
 EAPI=6
 
-PYTHON_COMPAT=( python2_7 python3_5 python3_6 )
+PYTHON_COMPAT=( python3_{6,7,8} )
 
 inherit distutils-r1 flag-o-matic
 
-DESCRIPTION="Provides advanced wxPython widgets for plotting based on matplotlib"
-HOMEPAGE="https://newville.github.io/wxmplot/"
+DESCRIPTION="Python package to manipulate physical units"
+HOMEPAGE="https://pint.readthedocs.io"
 SRC_URI="mirror://pypi/${P:0:1}/${PN}/${P}.tar.gz"
 
-LICENSE="MIT"
+LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~amd64 ~x86 ~amd64-linux ~x86-linux"
+KEYWORDS="~amd64 ~x86"
 IUSE="doc python"
 
 RDEPEND="
-	>=dev-python/numpy-1.12
-	>=dev-python/six-1.10
-	>=dev-python/wxpython-4.0.3
-	>=dev-python/matplotlib-2.0
+	dev-python/numpy
 "
-#dev-python/PyQt4
 
 DEPEND="${RDEPEND}
 	doc? ( dev-util/gtk-doc )
