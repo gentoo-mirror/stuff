@@ -63,7 +63,6 @@ mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.2 0.9.3 9999: sK1 vector graphics editor
-media-gfx/svgcleaner 0.9.1 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
