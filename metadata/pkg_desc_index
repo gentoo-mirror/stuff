@@ -16,7 +16,6 @@ dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the 
 dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
 dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
-dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
@@ -57,7 +56,6 @@ dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platform
 dev-util/qbs 9999: Modern build tool for software projects
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
-games-roguelike/dwarftherapist 41.0.2: Dwarf (The)rapist for Dwarf Fortress.
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
@@ -67,7 +65,6 @@ media-gfx/sk1 0.9.2 0.9.3 9999: sK1 vector graphics editor
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
-media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
@@ -84,7 +81,6 @@ media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio p
 media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
 media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
-media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
@@ -100,7 +96,6 @@ net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AI
 net-im/profanity 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-im/xmppconsole 9999: A tool for XMPP hackers
-net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
@@ -116,16 +111,12 @@ sci-physics/xraylarch 9999: Software for XRF data analysis
 sci-physics/xraylarch-bin 0.9.47: Software for XRF data analysis
 sci-visualization/gwyddion 2.55 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
-sys-apps/kernelat 9999: Silly userspace utility to measure desktop interactivity under different loads.
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
-sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
 sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22 0.6.18 0.6.21: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
-sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p3: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
-www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
@@ -135,6 +126,5 @@ x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.2.2 9999: Panel indicator for YandexDisk CLI client for Linux
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
-x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
 x11-wm/wmfs 9999: Windows Manager From Scratch
