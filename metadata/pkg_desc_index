@@ -102,6 +102,7 @@ net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
 net-misc/ipx-utils 9999: The IPX Utilities
 net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
+sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikits_image 0.15.0: Image processing routines for SciPy
 sci-libs/scikits_learn 0.21.2: Python modules for machine learning and data mining
 sci-mathematics/sofastatistics 1.4.6: SOFA is a statistics, analysis, and reporting program
