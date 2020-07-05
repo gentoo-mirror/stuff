@@ -16,6 +16,7 @@ dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the 
 dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
 dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
+dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
@@ -109,7 +110,7 @@ sci-mathematics/sofastatistics 1.4.6: SOFA is a statistics, analysis, and report
 sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
-sci-physics/xraylarch 9999: Software for XRF data analysis
+sci-physics/xraylarch 0.9.47 9999: Software for XRF data analysis
 sci-physics/xraylarch-bin 0.9.47: Software for XRF data analysis
 sci-visualization/gwyddion 2.55 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
