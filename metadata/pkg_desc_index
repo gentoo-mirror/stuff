@@ -57,6 +57,7 @@ dev-python/transforms3d 0.3.1: Code to convert between various geometric transfo
 dev-python/uncertainties 3.1.2: Python module for calculations with uncertainties
 dev-python/wxmplot 0.9.40 0.9.41: Provides advanced wxPython widgets for plotting based on matplotlib
 dev-python/wxutils 0.2.3 0.2.4: A library of convenience functions for wxPython
+dev-python/xraydb 4.3.4: X-ray Reference Data for the Elements using SQLite
 dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/qbs 9999: Modern build tool for software projects
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
@@ -115,7 +116,6 @@ sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.47 9999: Software for XRF data analysis
-sci-physics/xraylarch-bin 0.9.47: Software for XRF data analysis
 sci-visualization/gwyddion 2.55 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
