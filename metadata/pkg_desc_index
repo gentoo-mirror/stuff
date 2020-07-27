@@ -59,6 +59,7 @@ dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (co
 dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports both PyQt and PySide
 dev-python/pyshortcuts 1.7.1: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pyside 5.11.1: Python bindings for the Qt framework
+dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0: Python library for multi-dimensional diffraction microscopy
 dev-python/shiboken 5.11.1: Tool for creating Python bindings for C++ libraries
 dev-python/silx 0.12.0 0.13.0: Python packages collection for synchrotron data manipulation
@@ -99,6 +100,7 @@ media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio p
 media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
 media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
+media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
