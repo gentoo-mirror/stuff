@@ -162,6 +162,7 @@ media-video/acestream-ffmpeg:schroedinger - Enable Dirac video support (an advan
 media-video/acestream-ffmpeg:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
 media-video/acestream-ffmpeg:vis - Adds support for SIMD optimizations for UltraSPARC processors.
 media-video/acestream-ffmpeg:vpx - Enables vp8 codec support using libvpx: Decoding vp8 does not require this to be enabled but libvpx can also be used for decoding; encoding vp8 requires this useflag to be enabled though.
+media-video/acestream-player-data:avahi - avahi
 media-video/acestream-player-data:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
 media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
 net-im/profanity:gpg - Enable PGP support
