@@ -1,14 +1,14 @@
 BDEPEND=dev-util/ninja dev-util/cmake >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-qt/qtcore:5 libav? ( x11-libs/libX11 media-video/libav:= ) !libav? ( media-video/ffmpeg:= ) dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-video/ffmpeg:= gui? ( dev-qt/qtsql:5 ) opengl? ( dev-qt/qtopengl:5 ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio ) cuda? ( dev-util/nvidia-cuda-toolkit )
+DEPEND=dev-qt/qtcore:5 media-video/ffmpeg:= dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-video/ffmpeg:= gui? ( dev-qt/qtsql:5 ) opengl? ( dev-qt/qtopengl:5 ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio ) cuda? ( dev-util/nvidia-cuda-toolkit )
 DESCRIPTION=Multimedia playback framework based on Qt + FFmpeg
 EAPI=7
 HOMEPAGE=https://www.qtav.org
-IUSE=gui opengl portaudio pulseaudio vaapi cuda libav
+IUSE=gui opengl portaudio pulseaudio vaapi cuda
 LICENSE=GPL-3+ LGPL-2.1+
 PROPERTIES=live
-RDEPEND=dev-qt/qtcore:5 libav? ( x11-libs/libX11 media-video/libav:= ) !libav? ( media-video/ffmpeg:= ) dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-video/ffmpeg:= gui? ( dev-qt/qtsql:5 ) opengl? ( dev-qt/qtopengl:5 ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio ) cuda? ( dev-util/nvidia-cuda-toolkit )
+RDEPEND=dev-qt/qtcore:5 media-video/ffmpeg:= dev-qt/qtdeclarative:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-video/ffmpeg:= gui? ( dev-qt/qtsql:5 ) opengl? ( dev-qt/qtopengl:5 ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio ) cuda? ( dev-util/nvidia-cuda-toolkit )
 REQUIRED_USE=gui? ( opengl )
 SLOT=0/1
 _eclasses_=cmake	f274d2f953f93e2d88cd3e0b2ce376a9	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	git-r3	8ec5b53812bce105ae7943930e4660f8	multilib	2477ebe553d3e4d2c606191fe6c33602	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	qmake-utils	4eb5e05ef7ee630c003e3f0edc094135	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=7ea1a429d6620c261efa44890a59e065
+_md5_=9cc7ace4ce356dd28585f080ccc68bb8
