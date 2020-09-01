@@ -1,7 +1,7 @@
 DEFINED_PHASES=configure install setup
 DEPEND=dev-libs/glib:2 dev-libs/libxml2 net-libs/gnutls sys-libs/pam virtual/gsasl avahi? ( net-dns/avahi ) gtk3? ( x11-libs/gtk+:3 ) gtk? ( x11-libs/gtk+:2 ) virtual/pkgconfig sys-devel/gettext doc? ( dev-util/gtk-doc )
 DESCRIPTION=An implementation of the Infinote protocol written in GObject-based C
-EAPI=6
+EAPI=7
 HOMEPAGE=https://gobby.github.io/
 IUSE=avahi doc gtk +gtk3 server static-libs
 KEYWORDS=~amd64 ~x86
@@ -9,5 +9,5 @@ LICENSE=LGPL-2.1
 RDEPEND=dev-libs/glib:2 dev-libs/libxml2 net-libs/gnutls sys-libs/pam virtual/gsasl avahi? ( net-dns/avahi ) gtk3? ( x11-libs/gtk+:3 ) gtk? ( x11-libs/gtk+:2 )
 SLOT=0/0.6
 SRC_URI=https://github.com/gobby/libinfinity/archive/0.6.8.tar.gz -> libinfinity-0.6.8.tar.gz http://releases.0x539.de/libinfinity/libinfinity-0.6.8.tar.gz
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	eapi7-ver	f9ec87e93172b25ce65a85303dc06964	epatch	ed88001f77c6dd0d5f09e45c1a5b480e	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	2477ebe553d3e4d2c606191fe6c33602	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	user	7b7fc6ec5eb1c1eee55b0609f01e7362	user-info	a2abd4e2f4c3b9b06d64bf1329359a02	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=7304a8d0e80f4e32655f23370ca11dbe
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	user	7b7fc6ec5eb1c1eee55b0609f01e7362	user-info	a2abd4e2f4c3b9b06d64bf1329359a02
+_md5_=ee642ce073534ceecd69b9837f826910
