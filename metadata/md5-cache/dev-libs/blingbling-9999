@@ -8,5 +8,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-lang/lua x11-wm/awesome dev-libs/oocairo vicious? ( x11-plugins/vicious )
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=79ceec398deb079b6d57d80da12aae25
