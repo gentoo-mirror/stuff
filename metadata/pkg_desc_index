@@ -138,7 +138,7 @@ sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Fo
 sci-libs/scikits_image 0.15.0: Image processing routines for SciPy
 sci-libs/scikits_learn 0.21.2: Python modules for machine learning and data mining
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
-sci-physics/demeter 9999: Software for XAS data processing
+sci-physics/demeter 0.9.26 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
 sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
