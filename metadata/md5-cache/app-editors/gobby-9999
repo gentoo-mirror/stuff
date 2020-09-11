@@ -10,5 +10,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-cpp/glibmm:2 gtk3? ( dev-cpp/gtkmm:3.0 ) !gtk3? ( dev-cpp/gtkmm:2.4 ) dev-libs/libsigc++:2 gtk3? ( net-libs/libinfinity:0.7[gtk3,avahi?] ) !gtk3? ( net-libs/libinfinity:0.7[gtk,avahi?] ) gtk3? ( x11-libs/gtk+:3 ) !gtk3? ( x11-libs/gtk+:2 ) dev-cpp/libxmlpp:2.6 gtk3? ( x11-libs/gtksourceview:3.0 ) !gtk3? ( x11-libs/gtksourceview:2.0 )
 SLOT=0.5
-_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	3e7ec3d6619213460c85e2aa48398441	gnome2-utils	893e828f0f25f070f0b38d20c83c7670	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	3e7ec3d6619213460c85e2aa48398441	gnome2-utils	893e828f0f25f070f0b38d20c83c7670	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=ac9e1306e081c54724e07595689c1958
