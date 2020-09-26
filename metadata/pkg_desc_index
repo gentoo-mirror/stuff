@@ -59,6 +59,7 @@ dev-python/lmfit 0.9.15-r1 1.0.1-r1: A library for least-squares minimization an
 dev-python/m2crypto 0.35.2 0.36.0: A Python crypto and SSL toolkit
 dev-python/numba 0.39.0 0.50.0 0.51.1: NumPy aware dynamic Python compiler using LLVM
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
+dev-python/pycairo 1.18.2: Python bindings for the cairo library
 dev-python/pyctest 0.0.12: Python wrappers for generating CTest and submitting to CDash without a CMake
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/pygments 2.5.2: Pygments is a syntax highlighting package written in Python
