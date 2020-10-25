@@ -140,6 +140,10 @@ media-sound/deadbeef:tta - Build tta plugin
 media-sound/deadbeef:vtx - Libayemy VTX ZX-Spectrum music player plugin
 media-sound/deadbeef:wma - WMA plugin
 media-sound/deadbeef:zip - Vfs_zip plugin
+media-sound/puddletag:acoustid - Use media-libs/chromaprint for acoustic fingerprinting
+media-sound/puddletag:cover - Enables editing of FLAC cover art
+media-sound/puddletag:musicbrainz - Enables support for musicbrainz, needs dev-python/python-musicbrainz
+media-sound/puddletag:quodlibet - Enables support for editing media-sound/quodlibet databases
 media-sound/sonata:dbus - Support for dbus fetching
 media-sound/sonata:mpd - Support for mpd fetching
 media-sound/sonata:taglib - Enable support for taglib
