@@ -177,6 +177,8 @@ net-im/profanity:otr - Enable Off-the-Record support (encryption)
 net-im/profanity:plugins - Enable plugins support (see net-im/profanity-plugins)
 net-im/profanity:themes - Install additional themes
 net-im/profanity:xscreensaver - Use x11-libs/libXScrnSaver for checking idle time
+net-im/xmppconsole:gtk - Build GTK graphical UI
+net-im/xmppconsole:ncurses - Build Ncurses text UI
 net-libs/libinfinity:avahi - Build with net-dns/avahi
 net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
