@@ -31,35 +31,6 @@ dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
 dev-python/pyqode_python:pyqode-uic - To install pyquode-uic
 dev-python/pyqode_python:pyqt-distutils - To install pyqt-distutils
-dev-python/pyside:3d - Build Qt3DCore, Qt3DAnimation, Qt3DInput, Qt3DLogic, Qt3DRender and Qt3DExtras modules
-dev-python/pyside:charts - Build QtCharts module
-dev-python/pyside:concurrent - Build QtConcurrent module
-dev-python/pyside:datavis - Build QtDataVisualization module
-dev-python/pyside:declarative - Build QtQml, QtQuick, and QtQuickWidgets modules
-dev-python/pyside:designer - Build QtDesigner and QtUiTools modules
-dev-python/pyside:gui - Build QtGui module
-dev-python/pyside:help - Build QtHelp module
-dev-python/pyside:location - Build QtLocation module
-dev-python/pyside:multimedia - Build QtMultimedia and QtMultimediaWidgets modules
-dev-python/pyside:network - Build QtNetwork module
-dev-python/pyside:opengl - Build QtOpenGL module
-dev-python/pyside:positioning - Build QtPositioning module
-dev-python/pyside:printsupport - Build QtPrintSupport module
-dev-python/pyside:script - Build QtScript module
-dev-python/pyside:scripttools - Build QtScriptTools module
-dev-python/pyside:scxml - Build QtScxml module
-dev-python/pyside:sensors - Build QtSensors module
-dev-python/pyside:speech - Build QtTextToSpeech module
-dev-python/pyside:sql - Build QtSql module
-dev-python/pyside:svg - Build QtSvg module
-dev-python/pyside:testlib - Build QtTest module
-dev-python/pyside:webchannel - Build QtWebChannel module
-dev-python/pyside:webengine - Build QtWebEngine, QtWebEngineCore and QtWebEngineWidgets modules
-dev-python/pyside:websockets - Build QtWebSockets module
-dev-python/pyside:widgets - Build QtWidgets module
-dev-python/pyside:x11extras - Build QtX11Extras module
-dev-python/pyside:xmlpatterns - Build QtXmlPatterns module
-dev-python/shiboken:numpy - Enable NumPy-based 2D array support
 dev-python/traitsui:demo - To install all requirements demo
 dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
@@ -181,8 +152,6 @@ net-libs/libinfinity:avahi - Build with net-dns/avahi
 net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
-sci-libs/scikits_image:freeimage - Enable support for image i/o via media-libs/freeimage
-sci-libs/scikits_image:pyamg - Enable support for algebraic solvers via dev-python/pyamg
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
 sci-visualization/gwyddion:sourceview - Enable support for x11-libs/gtksourceview
 sys-fs/ls-fuse:debug - Enables debug messages

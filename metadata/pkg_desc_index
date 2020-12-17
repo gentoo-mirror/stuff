@@ -69,15 +69,14 @@ dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/Py
 dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (code completion, calltips, etc)
 dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports both PyQt and PySide
 dev-python/pyshortcuts 1.7.1: Pyshortcuts helps to create desktop shortcuts that will run python scripts
-dev-python/pyside 5.11.1: Python bindings for the Qt framework
 dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1: Python library for multi-dimensional diffraction microscopy
-dev-python/shiboken 5.11.1: Tool for creating Python bindings for C++ libraries
 dev-python/silx 0.13.0 0.13.1: Python packages collection for synchrotron data manipulation
 dev-python/sparse 0.10.0: Sparse multi-dimensional arrays for the PyData ecosystem
 dev-python/traits 5.1.1 6.0.0 6.1.1: Enthought Tool Suite: Explicitly typed attributes for Python
 dev-python/traitsui 6.1.3 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/transforms3d 0.3.1: Code to convert between various geometric transformations
+dev-python/typing 3.7.4.3: Type Hints for Python
 dev-python/uncertainties 3.1.2 3.1.4: Python module for calculations with uncertainties
 dev-python/wxmplot 0.9.40 0.9.41: Provides advanced wxPython widgets for plotting based on matplotlib
 dev-python/wxutils 0.2.3 0.2.4: A library of convenience functions for wxPython
@@ -140,8 +139,7 @@ net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
 net-misc/ipx-utils 9999: The IPX Utilities
 net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
-sci-libs/scikits_image 0.15.0: Image processing routines for SciPy
-sci-libs/scikits_learn 0.21.2: Python modules for machine learning and data mining
+sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
 sci-physics/demeter 0.9.26 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
