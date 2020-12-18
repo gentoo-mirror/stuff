@@ -62,7 +62,6 @@ dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffracti
 dev-python/pycairo 1.18.2: Python bindings for the cairo library
 dev-python/pyctest 0.0.12: Python wrappers for generating CTest and submitting to CDash without a CMake
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/pygments 2.5.2: Pygments is a syntax highlighting package written in Python
 dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
@@ -147,6 +146,7 @@ sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.47 9999: Software for XRF data analysis
+sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
@@ -155,7 +155,7 @@ sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
-sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p1: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p1: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
