@@ -50,10 +50,10 @@ dev-python/asteval 0.9.17 0.9.18: ASTEVAL provides a numpy-aware, safe(ish) eval
 dev-python/diffpy_structure 3.0.1: Crystal structure container and parsers for structure formats
 dev-python/diffsims 0.2.3: Python library for simulating diffraction
 dev-python/fabio 0.9.0 0.10.2: FabIO is an I/O library for images produced by 2D X-ray detectors
-dev-python/hyperspy 1.5.2: Interactive analysis of multidimensional datasets tools
-dev-python/hyperspy-gui-ipywidgets 1.2: Interactive analysis of multidimensional datasets tools
-dev-python/hyperspy-gui-traitsui 1.2: Provides traitsui graphic user interface (GUI) elements for hyperspy
-dev-python/hyperspyUI 1.1.1: Provides graphic user interface (GUI) for hyperspy
+dev-python/hyperspy 1.5.2 1.6.1: Interactive analysis of multidimensional datasets tools
+dev-python/hyperspy-gui-ipywidgets 1.2 1.3.0: Interactive analysis of multidimensional datasets tools
+dev-python/hyperspy-gui-traitsui 1.2 1.3.1: Provides traitsui graphic user interface (GUI) elements for hyperspy
+dev-python/hyperspyUI 1.1.1 1.1.2: Provides graphic user interface (GUI) for hyperspy
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/lmfit 0.9.15-r1 1.0.1-r1: A library for least-squares minimization and data fitting in Python
 dev-python/m2crypto 0.35.2 0.36.0: A Python crypto and SSL toolkit
@@ -72,6 +72,7 @@ dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1: Python library for multi-dimensional diffraction microscopy
 dev-python/silx 0.13.0 0.13.1: Python packages collection for synchrotron data manipulation
 dev-python/sparse 0.10.0: Sparse multi-dimensional arrays for the PyData ecosystem
+dev-python/tifffile 2020.12.8: Read and write TIFFr files
 dev-python/traits 5.1.1 6.0.0 6.1.1: Enthought Tool Suite: Explicitly typed attributes for Python
 dev-python/traitsui 6.1.3 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/transforms3d 0.3.1: Code to convert between various geometric transformations
