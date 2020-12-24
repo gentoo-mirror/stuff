@@ -135,7 +135,6 @@ net-im/xmppconsole 9999: A tool for XMPP hackers
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
-net-misc/bcg729 1.0.0: Backported G729 implementation for Linphone
 net-misc/ipx-utils 9999: The IPX Utilities
 net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
@@ -164,7 +163,7 @@ x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
-x11-misc/yd-tools 1.2.2 9999: Panel indicator for YandexDisk CLI client for Linux
+x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
