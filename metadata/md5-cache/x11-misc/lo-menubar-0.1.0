@@ -10,4 +10,4 @@ RESTRICT=primaryuri
 SLOT=0
 SRC_URI=x86? ( https://launchpad.net/ubuntu/+source/lo-menubar/0.1.0-0ubuntu3/+build/2774800/+files/lo-menubar_0.1.0-0ubuntu3_i386.deb ) amd64? ( https://launchpad.net/ubuntu/+source/lo-menubar/0.1.0-0ubuntu3/+build/2774798/+files/lo-menubar_0.1.0-0ubuntu3_amd64.deb )
 _eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b
-_md5_=a1f47c7f5a71b508b849de0e405bad4d
+_md5_=37ebb3f406a0d8867a5491feb91c643b

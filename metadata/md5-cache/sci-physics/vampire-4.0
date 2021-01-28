@@ -7,4 +7,4 @@ KEYWORDS=~amd64
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=https://github.com/richard-evans/vampire/archive/v4.0.tar.gz -> vampire-4.0.tar.gz
-_md5_=50c6656ae4735aa0d58159cba69cb7b6
+_md5_=0bf5171e4afc06c095fa82904b29fc3a

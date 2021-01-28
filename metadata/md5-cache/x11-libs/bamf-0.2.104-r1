@@ -11,4 +11,4 @@ RESTRICT=primaryuri
 SLOT=0
 SRC_URI=http://launchpad.net/bamf/0.2/0.2.104/+download/bamf-0.2.104.tar.gz
 _eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=6436d9b349b0bbe669c9901a5bd1c92d
+_md5_=45a85d20c8da0c50ee8726e911195575
