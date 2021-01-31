@@ -62,8 +62,6 @@ dev-python/numba 0.39.0 0.50.0 0.51.1 0.52.0: NumPy aware dynamic Python compile
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pycairo 1.18.2: Python bindings for the cairo library
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
-dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
 dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (code completion, calltips, etc)
 dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports both PyQt and PySide
@@ -90,16 +88,13 @@ games-roguelike/dwarftherapist 41.0.2 41.1.7: Dwarf (The)rapist for Dwarf Fortre
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
-media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
-media-gfx/sk1 0.9.2 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
-media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
@@ -138,7 +133,6 @@ net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communicati
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
-net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
@@ -148,7 +142,6 @@ sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.47 9999: Software for XRF data analysis
-sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
