@@ -26,9 +26,12 @@ dev-python/hyperspy:gui-traitsui - To install required libraries to use the GUI 
 dev-python/hyperspy:learning - To install required libraries for some machine learning features
 dev-python/hyperspy:mrcz - To install the mrcz plugin
 dev-python/hyperspy:speed - To install optional libraries that speed up some functionalities
+dev-python/pycairo-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pyface:pyqt5 - To install required libraries for pyqt5 support
 dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
+dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pyqode_python:pyqode-uic - To install pyquode-uic
 dev-python/pyqode_python:pyqt-distutils - To install pyqt-distutils
 dev-python/traitsui:demo - To install all requirements demo
@@ -153,6 +156,7 @@ net-libs/libinfinity:gtk3 - Build with x11-libs/gtk+:3
 net-libs/libinfinity:server - Build the infinote standalone server
 net-libs/ortp:srtp - Add support for Secure RTP
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
+sci-visualization/gwyddion:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 sci-visualization/gwyddion:sourceview - Enable support for x11-libs/gtksourceview
 sys-fs/ls-fuse:debug - Enables debug messages
 sys-kernel/kernel-cleaner:parallel - Add support for sys-process/parallel
