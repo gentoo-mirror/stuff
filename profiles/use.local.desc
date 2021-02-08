@@ -64,9 +64,6 @@ media-gfx/fontforge:tilepath - Controls whether fontforge has a tile path comman
 media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-gfx/fontforge:type3 - Build in support for type3/svg fonts containing multilayered drawing with strokes, fills, images, etc. Type3 fonts are only supported by postscript printers (not by most windowing displays). They are capable of more exotic images than normal fonts but require much more effort to support.
 media-gfx/sk1:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
-media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
-media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
-media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
 media-libs/mlt:compressed-lumas - Compress the luma files in png.
 media-libs/mlt:frei0r - Build the module for media-plugins/frei0r-plugins
 media-libs/mlt:kdenlive - Build support for media-video/kdenlive
@@ -126,28 +123,6 @@ media-sound/puddletag:cover - Enables editing of FLAC cover art
 media-sound/sonata:dbus - Support for dbus fetching
 media-sound/sonata:mpd - Support for mpd fetching
 media-sound/sonata:taglib - Enable support for taglib
-media-video/acestream-ffmpeg:aacplus - AAC+ encoding via media-libs/libaacplus.
-media-video/acestream-ffmpeg:amr - Enables Adaptive Multi-Rate Audio support
-media-video/acestream-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
-media-video/acestream-ffmpeg:cdio - Enables audio CD grabbing with dev-libs/libcdio.
-media-video/acestream-ffmpeg:celt - Adds Xiph CELT audio decoding support via media-libs/celt
-media-video/acestream-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
-media-video/acestream-ffmpeg:dirac - Enable Dirac video support (an advanced royalty-free video compression format) via the reference library: dirac.
-media-video/acestream-ffmpeg:faac - Use external faac library for AAC encoding
-media-video/acestream-ffmpeg:frei0r - Enable frei0r wrapping in libavfilter
-media-video/acestream-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
-media-video/acestream-ffmpeg:libv4l - Uses media-libs/libv4l for video4linux instead of direct calls. Adds support for more devices via the userspace library.
-media-video/acestream-ffmpeg:network - Enables network streaming support
-media-video/acestream-ffmpeg:openssl - Enables dev-libs/openssl support. Adds support for encrypted network protocols (TLS/HTTPS).
-media-video/acestream-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
-media-video/acestream-ffmpeg:rtmp - Enable Real Time Messaging Protocol using librtmp
-media-video/acestream-ffmpeg:schroedinger - Enable Dirac video support (an advanced royalty-free video compression format) via libschroedinger (high-speed implementation in C of the Dirac codec).
-media-video/acestream-ffmpeg:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
-media-video/acestream-ffmpeg:vis - Adds support for SIMD optimizations for UltraSPARC processors.
-media-video/acestream-ffmpeg:vpx - Enables vp8 codec support using libvpx: Decoding vp8 does not require this to be enabled but libvpx can also be used for decoding; encoding vp8 requires this useflag to be enabled though.
-media-video/acestream-player-data:avahi - avahi
-media-video/acestream-player-data:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
-media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
 net-im/profanity:gpg - Enable PGP support
 net-im/profanity:gtk - Enable tray icon
 net-im/profanity:libnotify - Enable desktop notifications support

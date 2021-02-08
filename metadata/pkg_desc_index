@@ -11,11 +11,6 @@ app-portage/udept 0.5.99.0.2.96: A Portage analysis toolkit
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
-dev-libs/acestream-libappindicator 12.10.0: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/acestream-libebml 1.2.2: Extensible binary format library (kinda like XML) for acestream
-dev-libs/acestream-libgcrypt 1.5.3: General purpose crypto library based on the code used in GnuPG
-dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
-dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
@@ -96,7 +91,6 @@ media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
-media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
@@ -127,9 +121,6 @@ media-sound/puddletag 2.0.1 9999: Audio tag editor
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
 media-tv/popcorntime-bin 0.3.10: Watch torrent movies instantly
-media-video/acestream-ffmpeg 0.10.7-r6: Old ffmpeg libs for use with AceStream, does not conflict with ffmpeg
-media-video/acestream-player 2.1.6: ACE Stream HD multimedia player based on VLC
-media-video/acestream-player-data 2.1.6-r11: ACE Stream player libraries files
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 9999: Ncurses based jabber client inspired by irssi
@@ -139,7 +130,6 @@ net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communicati
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
-net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
@@ -158,9 +148,8 @@ sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
-sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p10: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p11: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
-www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus into Unity's menubar.
