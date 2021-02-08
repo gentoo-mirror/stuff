@@ -21,11 +21,13 @@ dev-libs/thrift:php_extension - Enable php_extension support.
 dev-libs/thrift:pic - Enable pic support.
 dev-libs/thrift:python - Enable python support.
 dev-libs/thrift:ruby - Enable ruby support.
+dev-python/certifi-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/hyperspy:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
 dev-python/hyperspy:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
 dev-python/hyperspy:learning - To install required libraries for some machine learning features
 dev-python/hyperspy:mrcz - To install the mrcz plugin
 dev-python/hyperspy:speed - To install optional libraries that speed up some functionalities
+dev-python/numpy-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pycairo-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pyface:pyqt5 - To install required libraries for pyqt5 support
 dev-python/pyface:pyside - To install required libraries for pyside support
@@ -34,6 +36,8 @@ dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (p
 dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pyqode_python:pyqode-uic - To install pyquode-uic
 dev-python/pyqode_python:pyqt-distutils - To install pyqt-distutils
+dev-python/setuptools-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/setuptools_scm-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/traitsui:demo - To install all requirements demo
 dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
@@ -55,9 +59,11 @@ media-gfx/fontforge:freetype-bytecode - Control whether we build with the byteco
 media-gfx/fontforge:gb12345 - Control whether fontforge understands the gb12345 encoding
 media-gfx/fontforge:pango - Enable pango font rendering
 media-gfx/fontforge:pasteafter - Controls whether fontforge has a paste after command (Useful for making words?). This is kind of fun, but it isn't useful for normal fonts.
+media-gfx/fontforge:python_single_target_python2_7 - Enable Python-compatible libs (python2_7 only)
 media-gfx/fontforge:tilepath - Controls whether fontforge has a tile path command (a variant of expand stroke) This is useful for very decorative fonts, most people won't want it.
 media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-gfx/fontforge:type3 - Build in support for type3/svg fonts containing multilayered drawing with strokes, fills, images, etc. Type3 fonts are only supported by postscript printers (not by most windowing displays). They are capable of more exotic images than normal fonts but require much more effort to support.
+media-gfx/sk1:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
 media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
@@ -67,6 +73,7 @@ media-libs/mlt:kdenlive - Build support for media-video/kdenlive
 media-libs/mlt:lua - Build SWIG bindings for Lua
 media-libs/mlt:melt - Build the melt commandline tool
 media-libs/mlt:python - Build SWIG bindings for Python
+media-libs/mlt:python_single_target_python2_7 - Enable Python-compatible libs (python2_7 only)
 media-libs/mlt:rtaudio - Builds rtaudio consumer for native audio support on multiple platforms.
 media-libs/mlt:ruby - Build SWIG bindings for Ruby
 media-libs/qtav:cuda - Enable cuda support

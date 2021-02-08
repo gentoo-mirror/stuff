@@ -47,7 +47,7 @@ dev-python/Pint 0.12 0.16.1: Python package to manipulate physical units
 dev-python/apsw 3.25.2_p1 3.34.0_p1: APSW - Another Python SQLite Wrapper
 dev-python/ase 3.19.1: Set of Python modules for atomistic simulations
 dev-python/asteval 0.9.18 0.9.21: ASTEVAL provides a numpy-aware, safe(ish) eval function
-dev-python/certifi 10001: Thin replacement for certifi using system certificate store
+dev-python/certifi-python2 10001: Thin replacement for certifi using system certificate store
 dev-python/diffpy_structure 3.0.1: Crystal structure container and parsers for structure formats
 dev-python/diffsims 0.2.3: Python library for simulating diffraction
 dev-python/fabio 0.10.2 0.11.0: FabIO is an I/O library for images produced by 2D X-ray detectors
@@ -59,6 +59,7 @@ dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/lmfit 1.0.1-r1: A library for least-squares minimization and data fitting in Python
 dev-python/m2crypto 0.35.2 0.36.0: A Python crypto and SSL toolkit
 dev-python/numba 0.39.0 0.50.0 0.51.1 0.52.0: NumPy aware dynamic Python compiler using LLVM
+dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
@@ -70,8 +71,8 @@ dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports 
 dev-python/pyshortcuts 1.7.1: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1: Python library for multi-dimensional diffraction microscopy
-dev-python/setuptools 46.4.0-r2: Collection of extensions to Distutils
-dev-python/setuptools_scm 4.1.2-r1: Manage versions by scm tags via setuptools
+dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
+dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
 dev-python/silx 0.13.0 0.13.1: Python packages collection for synchrotron data manipulation
 dev-python/sparse 0.10.0: Sparse multi-dimensional arrays for the PyData ecosystem
 dev-python/tifffile 2020.12.8: Read and write TIFFr files
@@ -90,13 +91,16 @@ games-roguelike/dwarftherapist 41.0.2 41.1.7: Dwarf (The)rapist for Dwarf Fortre
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
+media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
+media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
+media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
@@ -135,6 +139,7 @@ net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communicati
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
+net-p2p/acestream-engine 2.1.6-r2: ACE Stream Engine
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
