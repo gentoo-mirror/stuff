@@ -60,6 +60,7 @@ dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
+dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
 dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
 dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (code completion, calltips, etc)
 dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports both PyQt and PySide
