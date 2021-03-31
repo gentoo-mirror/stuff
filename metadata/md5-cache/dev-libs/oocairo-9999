@@ -3,9 +3,10 @@ DEPEND=dev-lang/lua x11-libs/cairo >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=oocairo are Lua bindings to the cairo library.
 EAPI=4
 HOMEPAGE=http://oocairo.naquadah.org/
+INHERIT=git-r3
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=dev-lang/lua x11-libs/cairo
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=c10dc2c23911969b26bf9ead4f17c65b

@@ -4,6 +4,7 @@ DEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtscript:5 dev-
 DESCRIPTION=Modern build tool for software projects
 EAPI=7
 HOMEPAGE=https://wiki.qt.io/Qbs
+INHERIT=qmake-utils toolchain-funcs git-r3
 IUSE=doc examples test
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=|| ( LGPL-2.1 LGPL-3 )
@@ -11,5 +12,5 @@ PROPERTIES=live
 RDEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtscript:5 dev-qt/qtwidgets:5 dev-qt/qtxml:5
 RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=234e7e52c4b103ebe479157b11a021ee
