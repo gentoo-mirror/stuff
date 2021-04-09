@@ -56,7 +56,6 @@ dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
 dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
@@ -115,9 +114,7 @@ media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
-media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor
-media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
 media-tv/popcorntime-bin 0.3.10: Watch torrent movies instantly
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
