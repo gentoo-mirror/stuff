@@ -117,7 +117,6 @@ media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugi
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
-media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon

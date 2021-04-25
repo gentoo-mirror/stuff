@@ -89,35 +89,6 @@ media-plugins/deadbeef-spectrogram:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-spectrogram:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-waveform-seekbar:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-waveform-seekbar:gtk3 - Build with x11-libs/gtk+:3
-media-sound/deadbeef:adplug - Adplug player (OPL2/OPL3 emulation)
-media-sound/deadbeef:alac - Enable support for alac
-media-sound/deadbeef:ape - Monkey's Audio plugin
-media-sound/deadbeef:converter - Enable media-converter
-media-sound/deadbeef:cover - Build album art loader plugin
-media-sound/deadbeef:cover-imlib2 - Use imlib2 in artwork plugin
-media-sound/deadbeef:dumb - Support for tracker music(MOD, S3M, XM, IT, STM, 669, PTM, PSM, MTM, DSM, ASYLUM AMF, UMX, J2B)
-media-sound/deadbeef:gme - Game Music Emu plugin for NSF, AY, etc
-media-sound/deadbeef:gtk2 - Build with x11-libs/gtk+:2
-media-sound/deadbeef:gtk3 - Build with x11-libs/gtk+:3
-media-sound/deadbeef:hotkeys - Enable hotkeys plugin
-media-sound/deadbeef:lastfm - Enable lastfm plugin
-media-sound/deadbeef:m3u - Support for m3u playlists
-media-sound/deadbeef:midi - Add support for midi files
-media-sound/deadbeef:mono2stereo - Enable mono2stereo plugin
-media-sound/deadbeef:notify - Notification-daemon support plugin
-media-sound/deadbeef:nullout - NULL output plugin
-media-sound/deadbeef:pltbrowser - Playlist browser gui plugin
-media-sound/deadbeef:psf - AOSDK-based PSF(QSF,SSF,DSF) plugin
-media-sound/deadbeef:rpath - Hardcode runtime library paths
-media-sound/deadbeef:shellexec - Shell commands plugin
-media-sound/deadbeef:shn - Support for shorten (.shn) files
-media-sound/deadbeef:sid - Commodore64 SID music player plugin
-media-sound/deadbeef:src - Add media-libs/libsamplerate support
-media-sound/deadbeef:supereq - SuperEQ DSP plugin
-media-sound/deadbeef:tta - Build tta plugin
-media-sound/deadbeef:vtx - Libayemy VTX ZX-Spectrum music player plugin
-media-sound/deadbeef:wma - WMA plugin
-media-sound/deadbeef:zip - Vfs_zip plugin
 media-sound/puddletag:acoustid - Use media-libs/chromaprint for acoustic fingerprinting
 media-sound/puddletag:cover - Enables editing of FLAC cover art
 media-sound/sonata:dbus - Support for dbus fetching
