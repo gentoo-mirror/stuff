@@ -115,7 +115,5 @@ sys-fs/ls-fuse:debug - Enables debug messages
 sys-kernel/kernel-cleaner:parallel - Add support for sys-process/parallel
 x11-libs/bamf:gtk2 - Build with x11-libs/gtk+:2
 x11-libs/bamf:gtk3 - Build with x11-libs/gtk+:3
-x11-misc/overlay-scrollbar:gtk2 - Build with x11-libs/gtk+:2
-x11-misc/overlay-scrollbar:gtk3 - Build with x11-libs/gtk+:3
 x11-wm/wmfs:imlib2 - Compile with media-libs/imlib2 support
 x11-wm/wmfs:xrandr - Add support for x11-libs/libXrandr
