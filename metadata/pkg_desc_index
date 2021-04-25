@@ -18,6 +18,8 @@ dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
 dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwork
+dev-ml/gapi-ocaml 0.2.6 0.2.8 0.3.1 0.3.3 0.3.4: A simple OCaml client for Google Services
+dev-ml/ocamlfuse 2.7.1-r1: OCaml binding for fuse
 dev-ml/xmlm 1.3.0: Ocaml XML manipulation module
 dev-perl/Chemistry-Elements 1.072: Perl extension for working with Chemical Elements
 dev-perl/Encoding-FixLatin 1.02 1.04: takes mixed encoding input and produces UTF-8 output
@@ -56,6 +58,7 @@ dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 6.1.2 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
+dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
 dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
@@ -73,6 +76,7 @@ dev-python/traits 6.0.0 6.1.1 6.2.0: Enthought Tool Suite: Explicitly typed attr
 dev-python/traitsui 6.1.3 7.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/transforms3d 0.3.1: Code to convert between various geometric transformations
 dev-python/uncertainties 3.1.2 3.1.4: Python module for calculations with uncertainties
+dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
 dev-python/wxmplot 0.9.40 0.9.41: Provides advanced wxPython widgets for plotting based on matplotlib
 dev-python/wxutils 0.2.3 0.2.4: A library of convenience functions for wxPython
 dev-python/xraydb 4.3.4: X-ray Reference Data for the Elements using SQLite
@@ -98,6 +102,7 @@ media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly f
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20140309 20140311 20140316: DeaDBeeF filebrowser plugin
+media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
 media-plugins/deadbeef-infobar 1.4 9999-r1: Infobar plugin for DeadBeeF showing lyrics.
 media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
@@ -113,7 +118,9 @@ media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/deadbeef 0.7.2-r1 1.8.2 9999-r9: foobar2k-like music player
+media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor
+media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
 media-tv/popcorntime-bin 0.3.10: Watch torrent movies instantly
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
@@ -123,6 +130,7 @@ net-im/stabber 9999: Stubbed XMPP Server
 net-im/xmppconsole 9999: A tool for XMPP hackers
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
+net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
 sci-libs/pycifrw 4.1.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
@@ -137,6 +145,7 @@ sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy dat
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
+sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22 0.6.18 0.6.21: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
@@ -144,6 +153,7 @@ sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.
 sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
+x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-misc/lo-menubar 0.1.0 0.1.1: A small plugin for LibreOffice to export the menus into Unity's menubar.
 x11-misc/overlay-scrollbar 0.2.16: Ubuntu's scrollbars
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes

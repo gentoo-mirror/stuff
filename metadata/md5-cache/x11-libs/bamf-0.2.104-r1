@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=>=dev-lang/vala-0.11.7 gtk3? ( >=x11-libs/libwnck-3.2.1 >=x11-libs/gtk+-3.2.1 ) gnome-base/libgtop dev-util/gtk-doc
+DESCRIPTION=BAMF Application Matching Framework
+EAPI=7
+HOMEPAGE=https://launchpad.net/bamf
+INHERIT=autotools
+IUSE=+gtk2 gtk3
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3
+RDEPEND=>=dev-lang/vala-0.11.7 gtk3? ( >=x11-libs/libwnck-3.2.1 >=x11-libs/gtk+-3.2.1 ) gnome-base/libgtop
+RESTRICT=primaryuri
+SLOT=0
+SRC_URI=http://launchpad.net/bamf/0.2/0.2.104/+download/bamf-0.2.104.tar.gz
+_eclasses_=gnuconfig	9f91b4b0c84e734a87492d4293f03de5	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	9e63f92c2a5d867fea55ecb160c7d354
+_md5_=c882de36195417adef4c753f2c8b4eca
