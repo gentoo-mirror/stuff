@@ -18,8 +18,6 @@ dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
 dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwork
-dev-ml/gapi-ocaml 0.2.6 0.2.8 0.3.1 0.3.3 0.3.4: A simple OCaml client for Google Services
-dev-ml/ocamlfuse 2.7.1-r1: OCaml binding for fuse
 dev-ml/xmlm 1.3.0: Ocaml XML manipulation module
 dev-perl/Chemistry-Elements 1.072: Perl extension for working with Chemical Elements
 dev-perl/Encoding-FixLatin 1.02 1.04: takes mixed encoding input and produces UTF-8 output
@@ -144,7 +142,6 @@ sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy dat
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
-sys-fs/google-drive-ocamlfuse 0.5.12 0.5.22 0.6.18 0.6.21: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
