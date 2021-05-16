@@ -1,0 +1,15 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=>=dev-ml/camlidl-0.9.5 dev-lang/ocaml sys-fs/fuse:0 dev-ml/opam
+DESCRIPTION=OCaml binding for fuse
+EAPI=7
+HOMEPAGE=https://sourceforge.net/projects/ocamlfuse/
+INHERIT=git-r3
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=>=dev-ml/camlidl-0.9.5 dev-lang/ocaml sys-fs/fuse:0 dev-ml/opam
+SLOT=0
+SRC_URI=https://github.com/astrada/ocamlfuse/archive/v2.7.1_cvs7.tar.gz
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=7ca998ddc40638fe06818280e2d1dc2c
