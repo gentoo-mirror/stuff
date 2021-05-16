@@ -42,6 +42,7 @@ dev-python/traitsui:demo - To install all requirements demo
 dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
 dev-python/traitsui:wx - To install required libraries for wx support
+dev-python/unittest-or-fail:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
 lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
 lxde-base/lxpanelx:menucache - Add support for lxde-base/menu-cache
