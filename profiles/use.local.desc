@@ -81,14 +81,10 @@ media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constrain
 media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
 media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
 media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
-media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
-media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-musical-spectrum:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-musical-spectrum:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-spectrogram:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-spectrogram:gtk3 - Build with x11-libs/gtk+:3
-media-plugins/deadbeef-waveform-seekbar:gtk2 - Build with x11-libs/gtk+:2
-media-plugins/deadbeef-waveform-seekbar:gtk3 - Build with x11-libs/gtk+:3
 media-sound/puddletag:acoustid - Use media-libs/chromaprint for acoustic fingerprinting
 media-sound/puddletag:cover - Enables editing of FLAC cover art
 media-sound/sonata:dbus - Support for dbus fetching

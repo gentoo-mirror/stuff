@@ -104,7 +104,6 @@ media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
-media-plugins/deadbeef-infobar 1.4 9999-r1: Infobar plugin for DeadBeeF showing lyrics.
 media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
 media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
 media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
