@@ -101,7 +101,7 @@ media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
-media-plugins/deadbeef-fb 9999 20140309 20140311 20140316: DeaDBeeF filebrowser plugin
+media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
 media-plugins/deadbeef-infobar 1.4 9999-r1: Infobar plugin for DeadBeeF showing lyrics.
