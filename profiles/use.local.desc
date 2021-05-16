@@ -75,8 +75,6 @@ media-libs/mlt:rtaudio - Builds rtaudio consumer for native audio support on mul
 media-libs/mlt:ruby - Build SWIG bindings for Ruby
 media-libs/qtav:cuda - Enable cuda support
 media-libs/qtav:gui - Build a video player gui
-media-plugins/deadbeef-fb:gtk2 - Build with x11-libs/gtk+:2
-media-plugins/deadbeef-fb:gtk3 - Build with x11-libs/gtk+:3
 media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
 media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
 media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
