@@ -11,5 +11,5 @@ RDEPEND=!build? ( dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-
 RESTRICT=binchecks strip
 SLOT=4.16.18_p1
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.16.tar.xz http://liquorix.net/sources/4.16.18-1.patch.gz http://stuff.tazhate.com/distfiles/4.16.18-1.patch.gz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	ebdbaed22e873a5abe6205f41349b479	kernel-2	4f32d83b54879e33911296cb0d0d8567
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	ebdbaed22e873a5abe6205f41349b479	kernel-2	88747bdc32924cf1f95dbea28c60d63b
 _md5_=920e4d4bb3b0168f4e2135f60b713af6
