@@ -8,15 +8,11 @@ app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
 app-portage/portopts 9999: quick set opts per package
 app-portage/udept 0.5.99.0.2.96: A Portage analysis toolkit
 app-text/agrep 2.04-r3: A tool for the fast searching of text allowing for errors in the search pattern
-app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
-dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
-dev-libs/libpww 9999: POSIX threads workers wrapper shared library
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
-dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
 dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.3.19: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1-r7: OCaml binding for fuse
