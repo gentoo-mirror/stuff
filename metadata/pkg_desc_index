@@ -4,15 +4,19 @@ app-editors/gobby 0.5.0 9999: GTK-based collaborative editor
 app-editors/manpageeditor 0.0.13: Man Page Editor
 app-misc/tudu 0.8.1-r1 0.8.2 0.10 0.10.2: Command line interface to manage hierarchical todos
 app-office/mytetra 1.44.28 1.44.55 9999: Smart manager for information collecting
+app-portage/gcc-switcher 1.4.1: Switch gcc's version per package
 app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
 app-portage/portopts 9999: quick set opts per package
 app-portage/udept 0.5.99.0.2.96: A Portage analysis toolkit
 app-text/agrep 2.04-r3: A tool for the fast searching of text allowing for errors in the search pattern
+app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
+dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
+dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
 dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.3.19: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1-r7: OCaml binding for fuse
@@ -93,10 +97,12 @@ media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
+media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
+media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
 media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
 media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
 media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
@@ -133,6 +139,7 @@ sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framew
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.51 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy data analysis
+sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
 sys-fs/google-drive-ocamlfuse 0.7.26: FUSE filesystem over Google Drive

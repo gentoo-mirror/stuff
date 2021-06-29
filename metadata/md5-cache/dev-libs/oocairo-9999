@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=prepare unpack
+DEPEND=dev-lang/lua x11-libs/cairo
+DESCRIPTION=oocairo are Lua bindings to the cairo library.
+EAPI=7
+HOMEPAGE=https://github.com/awesomeWM/oocairo
+INHERIT=git-r3
+LICENSE=MIT
+PROPERTIES=live
+RDEPEND=dev-lang/lua x11-libs/cairo
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=c42d73aeb376711a2b14eaa3b1611ddf

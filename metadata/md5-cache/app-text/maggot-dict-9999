@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst prepare unpack
+DESCRIPTION=Console based dictionary writen in pure Python
+EAPI=7
+HOMEPAGE=https://github.com/aslpavel/maggot-dict
+INHERIT=git-r3
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=app-shells/bash-completion
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=f8901dafab4ba6fd7d5831142c6ef130
