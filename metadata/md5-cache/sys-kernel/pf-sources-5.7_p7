@@ -1,0 +1,15 @@
+BDEPEND=!build? ( sys-apps/sed )
+DEFINED_PHASES=compile install postinst postrm preinst prepare pretend setup test unpack
+DESCRIPTION=Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+EAPI=7
+HOMEPAGE=https://pfactum.github.io/pf-kernel/
+INHERIT=readme.gentoo-r1 toolchain-funcs kernel-2
+IUSE=symlink build
+KEYWORDS=-* ~amd64 ~ppc ~ppc64 ~x86
+LICENSE=GPL-2
+RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
+RESTRICT=binchecks strip
+SLOT=5.7_p7
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.7.tar.xz https://github.com/pfactum/pf-kernel/compare/v5.7...v5.7-pf7.diff -> patch-5.7-pf7.diff
+_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	estack	055c42df72f76a4f45ec92b35e83cd56	kernel-2	56c89ae8773964329ad977178804a4e9
+_md5_=44abe4275bdde3a23d096596543d33cb
