@@ -31,7 +31,7 @@ dev-perl/File-Touch 0.11: Update file access and modification times, creating fi
 dev-perl/Graphics-GnuplotIF 1.8: A dynamic Perl interface to gnuplot
 dev-perl/Math-Combinatorics 0.90.0: Perform combinations and permutations on lists
 dev-perl/MooseX-Types-LaxNum 0.04: A LaxNum type which provides the loose behavior of Moose's Num pre-2.10
-dev-perl/PDL-Stats 0.75: A collection of statistics modules in Perl Data Language
+dev-perl/PDL-Stats 0.79: A collection of statistics modules in Perl Data Language
 dev-perl/Pod-ProjectDocs 0.52: generates CPAN like project documents from pod
 dev-perl/Regexp-Assemble 0.35: Assemble multiple Regular Expressions into a single RE
 dev-perl/Term-Sk 0.18: Perl extension for displaying a progress indicator on a terminal
@@ -66,6 +66,7 @@ dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports 
 dev-python/pyshortcuts 1.7.1 1.8.0: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1 0.13.2: Python library for multi-dimensional diffraction microscopy
+dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
 dev-python/silx 0.13.0 0.13.1: Python packages collection for synchrotron data manipulation
@@ -148,9 +149,11 @@ sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
+www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
+x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network

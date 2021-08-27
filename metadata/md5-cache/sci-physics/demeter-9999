@@ -4,7 +4,7 @@ DEPEND=sci-physics/ifeffit >=dev-perl/Archive-Zip-1.31 dev-perl/Module-Build >=d
 DESCRIPTION=Software for XAS data processing
 EAPI=7
 HOMEPAGE=https://github.com/bruceravel/demeter
-INHERIT=perl-module git-r3 virtualx
+INHERIT=perl-module perl-functions git-r3 virtualx
 IUSE=doc test test
 LICENSE=Artistic GPL-1+
 PROPERTIES=live
@@ -12,4 +12,4 @@ RDEPEND=sci-physics/ifeffit >=dev-perl/Archive-Zip-1.31 dev-perl/Module-Build >=
 RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=multiprocessing	61c959fc55c15c00bbb1079d6a71370b	perl-functions	fea344a91ebf37efadf172c6a3de5a72	perl-module	0ee2b2b92175720c966a5608c62b458d	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	virtualx	fa024aa649b6bd544144bf94893d402c
-_md5_=2372117144ca6d259f16d810e24ffeee
+_md5_=eb028a956f823465286b9769fd949b58
