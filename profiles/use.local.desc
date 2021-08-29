@@ -12,7 +12,6 @@ dev-libs/thrift:cpp - Enable cpp support.
 dev-libs/thrift:csharp - Enable csharp support.
 dev-libs/thrift:erlang - Enable erlang support.
 dev-libs/thrift:go - Enable go support.
-dev-libs/thrift:haskell - Enable haskell support.
 dev-libs/thrift:java - Enable java support.
 dev-libs/thrift:perl - Enable perl support.
 dev-libs/thrift:php - Enable php support.
