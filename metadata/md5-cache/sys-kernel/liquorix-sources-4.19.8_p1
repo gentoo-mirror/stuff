@@ -11,5 +11,5 @@ RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-d
 RESTRICT=binchecks strip
 SLOT=4.19.8_p1
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.19.tar.xz http://liquorix.net/sources/v4.19.8-lqx1.patch.gz http://stuff.tazhate.com/distfiles/v4.19.8-lqx1.patch.gz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	kernel-2	d8a3a628167e2c39356a8bed53aa2c18
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	kernel-2	ec72a2795edf166a1057bebec6742a34
 _md5_=c98c745ca7e95c7dbae79e833e5c3c6b
