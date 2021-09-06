@@ -49,7 +49,7 @@ dev-python/fabio 0.10.2 0.11.0: FabIO is an I/O library for images produced by 2
 dev-python/hyperspy 1.6.1 1.6.2: Interactive analysis of multidimensional datasets tools
 dev-python/hyperspy-gui-ipywidgets 1.3.0 1.4.0: Interactive analysis of multidimensional datasets tools
 dev-python/hyperspy-gui-traitsui 1.3.1 1.4.0: Provides traitsui graphic user interface (GUI) elements for hyperspy
-dev-python/hyperspyUI 1.1.2 1.1.4: Provides graphic user interface (GUI) for hyperspy
+dev-python/hyperspyUI 1.1.4: Provides graphic user interface (GUI) for hyperspy
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/lmfit 1.0.1-r1: A library for least-squares minimization and data fitting in Python
 dev-python/numba 0.51.1 0.52.0 0.53.1: NumPy aware dynamic Python compiler using LLVM
@@ -139,7 +139,7 @@ sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.51 9999: Software for XRF data analysis
-sci-visualization/gwyddion 2.56 9999: Framework for Scanning Mode Microscopy data analysis
+sci-visualization/gwyddion 2.56 2.58 2.59 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
