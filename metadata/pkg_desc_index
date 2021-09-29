@@ -51,8 +51,9 @@ dev-python/hyperspy-gui-ipywidgets 1.3.0 1.4.0: Interactive analysis of multidim
 dev-python/hyperspy-gui-traitsui 1.3.1 1.4.0: Provides traitsui graphic user interface (GUI) elements for hyperspy
 dev-python/hyperspyUI 1.1.4: Provides graphic user interface (GUI) for hyperspy
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
+dev-python/llvmlite 0.37.0 9999: Python wrapper around the llvm C++ library
 dev-python/lmfit 1.0.1-r1: A library for least-squares minimization and data fitting in Python
-dev-python/numba 0.51.1 0.52.0 0.53.1: NumPy aware dynamic Python compiler using LLVM
+dev-python/numba 0.51.1 0.52.0 0.53.1 0.54.0 9999: NumPy aware dynamic Python compiler using LLVM
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/pyFAI 0.18.0 0.19.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
