@@ -1,15 +1,15 @@
 DEFINED_PHASES=configure install postinst postrm prerm setup
-DEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 ) virtual/pkgconfig doc? ( dev-util/gtk-doc )
+DEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango hdf5? ( <=sci-libs/hdf5-1.11 ) fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 ) virtual/pkgconfig doc? ( dev-util/gtk-doc )
 DESCRIPTION=Framework for Scanning Mode Microscopy data analysis
 EAPI=6
 HOMEPAGE=http://gwyddion.net/
 INHERIT=xdg-utils gnome2-utils python-r1
-IUSE=doc fits fftw gnome nls opengl perl python ruby sourceview xml X python_targets_python2_7
+IUSE=doc fits fftw gnome nls opengl perl python ruby sourceview xml X +hdf5 python_targets_python2_7
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 )
+RDEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango hdf5? ( <=sci-libs/hdf5-1.11 ) fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 )
 REQUIRED_USE=python? ( || ( python_targets_python2_7 ) )
 SLOT=0
 SRC_URI=http://gwyddion.net/download/2.59/gwyddion-2.59.tar.xz
 _eclasses_=xdg-utils	4f29a8b760a594a212abe9c2ba957c31	desktop	c0d27bf73aa08ca05b663dbd31fbef28	edos2unix	33e347e171066657f91f8b0c72ec8773	estack	055c42df72f76a4f45ec92b35e83cd56	epatch	9f813bb3c47cf2e60619a663b87c5f4e	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	ltprune	4f3f2db5ce3ccbeeacdf3f94954043aa	preserve-libs	dbc9f8d2d49c66467bc327fddd8317bd	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	vcs-clean	b690a7e9b6c497cf59326a7545df4283	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	gnome2-utils	355c758ccc0d6df60d43a066640e642c	multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	python-utils-r1	a8b7938ade305f087865de7e52d079b5	python-r1	e574a3642f886323f18f867ecc4d91c4
-_md5_=3b69f526b16a5f5e90b3897352acb05a
+_md5_=1c3deb4ae3c7e3d13b1a834b8b7fb267
