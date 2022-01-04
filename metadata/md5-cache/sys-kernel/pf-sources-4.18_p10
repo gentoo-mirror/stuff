@@ -11,5 +11,5 @@ RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-d
 RESTRICT=binchecks strip
 SLOT=4.18_p10
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.18.tar.xz https://github.com/pfactum/pf-kernel/compare/v4.18...v4.18-pf10.diff -> patch-4.18-pf10.diff
-_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	estack	055c42df72f76a4f45ec92b35e83cd56	kernel-2	558643172ab02bb7cb88b95070b91f12
+_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	estack	055c42df72f76a4f45ec92b35e83cd56	kernel-2	33a8803ce68dc7729f2850f1d0ab7f1e
 _md5_=44abe4275bdde3a23d096596543d33cb
