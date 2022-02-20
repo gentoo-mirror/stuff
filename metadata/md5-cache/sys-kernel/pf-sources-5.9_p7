@@ -11,5 +11,5 @@ RDEPEND=!build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-d
 RESTRICT=binchecks strip
 SLOT=5.9_p7
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.9.tar.xz https://github.com/pfactum/pf-kernel/compare/v5.9...v5.9-pf7.diff -> patch-5.9-pf7.diff
-_eclasses_=readme.gentoo-r1	eebd0164fe61f4f7b64a683e83fdceb1	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	estack	055c42df72f76a4f45ec92b35e83cd56	kernel-2	0504e914bab621103eb74f52fad0fc6d
+_eclasses_=readme.gentoo-r1	eebd0164fe61f4f7b64a683e83fdceb1	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	estack	055c42df72f76a4f45ec92b35e83cd56	kernel-2	7177fbdc34a8efdcb5b739d8a9673adb
 _md5_=44abe4275bdde3a23d096596543d33cb
