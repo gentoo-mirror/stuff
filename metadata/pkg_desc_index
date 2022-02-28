@@ -86,7 +86,6 @@ dev-util/qbs 9999: Modern build tool for software projects
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 41.0.2 41.1.7: Dwarf (The)rapist for Dwarf Fortress.
-lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
@@ -94,7 +93,6 @@ media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
-media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
