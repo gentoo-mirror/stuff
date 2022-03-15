@@ -1,0 +1,14 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.4:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=>=dev-cpp/libbinio-1.4 virtual/pkgconfig
+DESCRIPTION=A free, cross-platform, hardware independent AdLib sound player library
+EAPI=7
+HOMEPAGE=http://adplug.sourceforge.net
+INHERIT=out-of-source autotools git-r3
+IUSE=debug static-libs
+LICENSE=LGPL-2.1
+PROPERTIES=live
+RDEPEND=>=dev-cpp/libbinio-1.4
+SLOT=0
+_eclasses_=out-of-source	6dc5829f04ddee3f91b9bb274a701fdb	gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6cc26735fa9dd59e8c62880beda05b6e	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=ccebf08465b82b04181087e24caee130

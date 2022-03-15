@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.4:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure install postinst prepare unpack
+DEPEND=x11-libs/gtk+:2 x11-libs/libXmu x11-libs/libXpm lxde-base/lxmenu-data x11-libs/gdk-pixbuf-xlib !lxde-base/lxpanel alsa? ( media-libs/alsa-lib ) libindicator? ( dev-libs/libindicator:0 ) libfm? ( x11-libs/libfm ) menucache? ( lxde-base/menu-cache ) virtual/pkgconfig sys-devel/gettext
+DESCRIPTION=lxpanel fork with improved taskbar
+EAPI=7
+HOMEPAGE=https://code.google.com/p/lxpanelx/
+INHERIT=autotools eutils unpacker
+IUSE=+alsa oss plugins libfm libindicator menucache
+LICENSE=GPL-2
+RDEPEND=x11-libs/gtk+:2 x11-libs/libXmu x11-libs/libXpm lxde-base/lxmenu-data x11-libs/gdk-pixbuf-xlib !lxde-base/lxpanel alsa? ( media-libs/alsa-lib ) libindicator? ( dev-libs/libindicator:0 ) libfm? ( x11-libs/libfm ) menucache? ( lxde-base/menu-cache )
+RESTRICT=test
+SLOT=0
+SRC_URI=https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/lxpanelx/source-archive.zip
+_eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6cc26735fa9dd59e8c62880beda05b6e	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	unpacker	2e16b7d5aafeda049669c53c05ce03c9
+_md5_=c49b96fa13a6007650b423ae91525bd2
