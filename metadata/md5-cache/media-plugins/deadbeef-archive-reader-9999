@@ -1,13 +1,13 @@
 BDEPEND=dev-vcs/subversion[http(+)] net-misc/rsync
 DEFINED_PHASES=install preinst unpack
 DEPEND=media-sound/deadbeef
-DESCRIPTION=Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
+DESCRIPTION=DeaDBeeF plugin for playing directly from RAR, 7z and Gzip archive files
 EAPI=7
 HOMEPAGE=http://subversion.assembla.com/svn/deadbeef_vfs_archive_reader/
 INHERIT=eutils subversion
-LICENSE=GPL-2
+LICENSE=LGPL-2.1
 PROPERTIES=live
 RDEPEND=media-sound/deadbeef
 SLOT=0
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	subversion	dee31e56422214d05644c2a3c900a148
-_md5_=fc9db8d3748fef08294b8ddd0347b05b
+_md5_=410e3cfd43032903c8781c7b805ea6bb

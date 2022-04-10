@@ -100,7 +100,7 @@ media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
-media-plugins/deadbeef-archreader 9999: Dedbeef plugin for play files directly from RAR, 7z and Gzip archive files
+media-plugins/deadbeef-archive-reader 9999: DeaDBeeF plugin for playing directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
@@ -135,10 +135,12 @@ net-misc/ipx-utils 9999: The IPX Utilities
 sci-libs/pycifrw 4.1.1 4.3: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
+sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
 sci-physics/mumax 3.9.3: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
+sci-physics/profex 4.3.6: Open source XRD and Rietveld refiniment
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.51 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.56 2.58 2.59 9999: Framework for Scanning Mode Microscopy data analysis
