@@ -1,23 +1,16 @@
 app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementations
 app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
 app-editors/gobby 0.5.0 9999: GTK-based collaborative editor
-app-editors/manpageeditor 0.0.13: Man Page Editor
-app-misc/tudu 0.8.1-r1 0.8.2 0.10 0.10.2: Command line interface to manage hierarchical todos
 app-office/mytetra 1.44.28 1.44.55 9999: Smart manager for information collecting
 app-portage/gcc-switcher 1.4.1: Switch gcc's version per package
 app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
-app-portage/portopts 9999: quick set opts per package
-app-portage/udept 0.5.99.0.2.96: A Portage analysis toolkit
 app-text/agrep 2.04-r3: A tool for the fast searching of text allowing for errors in the search pattern
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
-dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
-dev-libs/libchardet 1.0.4 1.0.5: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
-dev-libs/thrift 0.9.1 0.9.3 0.10.0: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.3.19: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1-r7: OCaml binding for fuse
 dev-ml/xmlm 1.3.0: Ocaml XML manipulation module
@@ -68,14 +61,11 @@ dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
 dev-python/wxmplot 0.9.41 0.9.45: Provides advanced wxPython widgets for plotting based on matplotlib
 dev-python/wxutils 0.2.3 0.2.4: A library of convenience functions for wxPython
 dev-python/xraydb 4.3.4 4.4.7: X-ray Reference Data for the Elements using SQLite
-dev-util/aptana 3.6.1: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/qbs 9999: Modern build tool for software projects
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
-games-roguelike/adom 1.2.0_pre23: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 41.0.2 41.1.7: Dwarf (The)rapist for Dwarf Fortress.
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
-mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
@@ -83,34 +73,19 @@ media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
-media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archive-reader 9999: DeaDBeeF plugin for playing directly from RAR, 7z and Gzip archive files
-media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
-media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
 media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
-media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
-media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
-media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
-media-plugins/deadbeef-opus 0.3 9999: Ogg Opus decoder plugin for DeaDBeeF audio player.
-media-plugins/deadbeef-remote 9999: Remote control plugin for DeadBeeF
-media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio player
-media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
-media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
-media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
-media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
-media-tv/popcorntime-bin 0.3.10: Watch torrent movies instantly
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
-net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-im/xmppconsole 9999: A tool for XMPP hackers
@@ -131,21 +106,14 @@ sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made eas
 sci-physics/xraylarch 0.9.51 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.56 2.58 2.59 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
-sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
 sys-fs/google-drive-ocamlfuse 0.7.26: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 9999: Small defragmentation tool for reiserfs
-sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
 sys-kernel/liquorix-sources 4.5.6_p2 4.6.6_p1 4.7.8_p1 4.8.17_p1 4.9.49_p1 4.10.16_p1 4.11.12_p1 4.12.14_p3 4.13.16_p1 4.14.21_p1 4.15.18_p4 4.16.18_p1 4.17.19_p2 4.18.20_p1 4.19.8_p1: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.5_p4 4.6_p1 4.7_p6 4.8_p9 4.9_p5 4.10_p3 4.11_p7 4.12_p8 4.13_p13 4.14_p9 4.15_p6 4.16_p7 4.17_p7 4.18_p10 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ
 www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed in C++ and based on Qt5
-x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
-x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
-x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
-x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
-x11-wm/wmfs 9999: Windows Manager From Scratch
