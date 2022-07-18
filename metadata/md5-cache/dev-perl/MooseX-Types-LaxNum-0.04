@@ -1,0 +1,16 @@
+BDEPEND=dev-lang/perl
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-perl/Moose virtual/perl-ExtUtils-MakeMaker >=virtual/perl-ExtUtils-MakeMaker-6.420.0 dev-lang/perl
+DESCRIPTION=A LaxNum type which provides the loose behavior of Moose's Num pre-2.10
+EAPI=7
+HOMEPAGE=https://metacpan.org/release/MooseX-Types-LaxNum
+INHERIT=perl-module
+IUSE=test
+KEYWORDS=~amd64 ~x86
+LICENSE=|| ( Artistic GPL-1+ )
+RDEPEND=dev-perl/Moose virtual/perl-ExtUtils-MakeMaker dev-lang/perl:=
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=mirror://cpan/authors/id/S/SW/SWEETKID/MooseX-Types-LaxNum-0.04.tar.gz
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
+_md5_=2e92cb4314b370412846537be03aeec2

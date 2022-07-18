@@ -1,0 +1,16 @@
+BDEPEND=dev-lang/perl
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-perl/Module-Install test? ( >=virtual/perl-Test-Simple-0.01 ) dev-lang/perl
+DESCRIPTION=XS implementation layer for Encoding::FixLatin
+EAPI=7
+HOMEPAGE=https://metacpan.org/release/Encoding-FixLatin-XS
+INHERIT=perl-module
+IUSE=test
+KEYWORDS=~amd64 ~x86
+LICENSE=|| ( Artistic GPL-2 )
+RDEPEND=dev-lang/perl:=
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=mirror://cpan/authors/id/G/GR/GRANTM/Encoding-FixLatin-XS-1.02.tar.gz
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
+_md5_=b1d234f8248e456aa6ff8e745156f93f
