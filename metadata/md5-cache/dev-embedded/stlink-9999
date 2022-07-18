@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install unpack
+DEPEND=virtual/libusb:= virtual/pkgconfig
+DESCRIPTION=On board debugger driver for stm32-discovery boards
+EAPI=7
+HOMEPAGE=https://github.com/karlp/stlink
+INHERIT=git-r3
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+PROPERTIES=live
+RDEPEND=virtual/libusb:=
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=c0679fa0e83400e40653b23693ee3d70
