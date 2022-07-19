@@ -1,13 +1,13 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=configure install unpack
-DEPEND=media-sound/deadbeef
-DESCRIPTION=DeaDBeeF filebrowser plugin
+DEFINED_PHASES=install unpack
+DEPEND=media-sound/deadbeef media-libs/libbs2b
+DESCRIPTION=bs2b DSP plugin for DeaDBeeF, using libbs2b.
 EAPI=7
-HOMEPAGE=https://sourceforge.net/projects/deadbeef-fb/
+HOMEPAGE=https://github.com/DeaDBeeF-Player/bs2b
 INHERIT=eutils git-r3
-LICENSE=GPL-2
+LICENSE=MIT
 PROPERTIES=live
-RDEPEND=media-sound/deadbeef
+RDEPEND=media-sound/deadbeef media-libs/libbs2b
 SLOT=0
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=942091c046be04acc54daff4c24bb8e8
+_md5_=03bd2b9ad6218ccbed212938a89ee7d1

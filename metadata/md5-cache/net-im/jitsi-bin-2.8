@@ -1,0 +1,15 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=compile install preinst prepare setup unpack
+DEPEND=app-arch/rpm2targz >=dev-java/java-config-2.2.0-r3
+DESCRIPTION=Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
+EAPI=7
+HOMEPAGE=https://jitsi.org/
+INHERIT=rpm java-pkg-2
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2
+RDEPEND=>=dev-java/java-config-2.2.0-r3
+RESTRICT=strip
+SLOT=0
+SRC_URI=x86? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.8-5426.i686.rpm ) amd64? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.8-5426.x86_64.rpm )
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	java-utils-2	c79d65661a9f4f72b60376c9e4b3dfa1	java-pkg-2	3b09e051fc2045a0f0b9471b87d4f8bd
+_md5_=5c76a519346d2589dd6269a4c60b3ebd
