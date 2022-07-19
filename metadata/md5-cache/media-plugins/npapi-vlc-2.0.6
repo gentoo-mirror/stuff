@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure install prepare
+DEPEND=>=media-video/vlc-1.1 x11-libs/libX11 !gtk? ( x11-libs/libXpm x11-libs/libSM x11-libs/libICE ) gtk? ( x11-libs/gtk+:2 ) !<media-video/vlc-1.2[nsplugin] app-arch/xz-utils virtual/pkgconfig >=net-misc/npapi-sdk-0.27
+DESCRIPTION=Mozilla plugin based on VLC
+EAPI=7
+HOMEPAGE=http://www.videolan.org/
+INHERIT=autotools multilib
+IUSE=gtk
+KEYWORDS=amd64 ~ppc64 x86
+LICENSE=LGPL-2.1
+RDEPEND=>=media-video/vlc-1.1 x11-libs/libX11 !gtk? ( x11-libs/libXpm x11-libs/libSM x11-libs/libICE ) gtk? ( x11-libs/gtk+:2 ) !<media-video/vlc-1.2[nsplugin]
+SLOT=0
+SRC_URI=http://download.videolan.org/pub/videolan/vlc/2.0.6/npapi-vlc-2.0.6.tar.xz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9e6965bfaa00f52cc61e0d4bc44c87b3
+_md5_=ab19267f9ee99c9da4bfba794794b3ba

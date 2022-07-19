@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-shells/bash:= sys-apps/portage sys-apps/gawk virtual/linux-sources
+DESCRIPTION=Designed for remove broken kernels from /boot and source_dirs/modules_dirs
+EAPI=7
+HOMEPAGE=https://github.com/megabaks/kernel-cleaner
+INHERIT=git-r3
+IUSE=+parallel
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=app-shells/bash:= sys-apps/portage sys-apps/gawk parallel? ( sys-process/parallel )
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=667346aeb610fcbca0d3dd345390809c
