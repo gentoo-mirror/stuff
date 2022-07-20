@@ -12,4 +12,4 @@ RDEPEND=sci-physics/ifeffit >=dev-perl/Archive-Zip-1.31 dev-perl/Module-Build >=
 RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4	git-r3	b9ac6f96d2a88edb5b351df634dc5e53	virtualx	975d49ff3b3f451efe7a95f230532135
-_md5_=1c8a488ba7408701120167a8ee17d052
+_md5_=39af5d30b170b1d1c4040b0561440930
