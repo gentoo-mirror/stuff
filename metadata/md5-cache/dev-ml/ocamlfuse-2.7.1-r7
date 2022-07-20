@@ -12,4 +12,4 @@ RDEPEND=>=dev-ml/camlidl-0.9.5 dev-lang/ocaml sys-fs/fuse:0 dev-ml/opam
 SLOT=0
 SRC_URI=https://github.com/astrada/ocamlfuse/archive/v2.7.1_cvs7.tar.gz
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=7ca998ddc40638fe06818280e2d1dc2c
+_md5_=1056bb512673c4ff9ae5c9d5b07a5f59

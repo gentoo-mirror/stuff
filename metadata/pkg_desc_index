@@ -104,20 +104,16 @@ media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archive-reader 9999: DeaDBeeF plugin for playing directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
 media-plugins/deadbeef-bs2b 9999: bs2b DSP plugin for DeaDBeeF, using libbs2b.
-media-plugins/deadbeef-fb 9999 20140316: DeaDBeeF filebrowser plugin
 media-plugins/deadbeef-ffmpeg 0.10.6: Complete solution to record, convert and stream audio and video.
 media-plugins/deadbeef-gnome 9999: DeaDBeeF player Gnome (via DBus) multimedia keys plugin
 media-plugins/deadbeef-jack 9999: JACK output plugin for DeaDBeeF.
-media-plugins/deadbeef-mpris-plugin 9999: MPRIS-plugin for deadbeef
 media-plugins/deadbeef-musical-spectrum 9999: Musical Spectrum plugin for DeaDBeeF audio player
 media-plugins/deadbeef-opus 0.3 0.6 9999: Ogg Opus decoder plugin for DeaDBeeF audio player.
-media-plugins/deadbeef-remote 9999: Remote control plugin for DeadBeeF
 media-plugins/deadbeef-spectrogram 9999: Spectrogram plugin for DeaDBeeF audio player
 media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for DeaDBeeF.
 media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 0.5 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
-media-plugins/npapi-vlc 2.0.6: Mozilla plugin based on VLC
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor

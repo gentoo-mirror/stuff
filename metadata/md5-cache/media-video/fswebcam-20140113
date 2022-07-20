@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=media-libs/gd[truetype,png,jpeg]
 SLOT=0
 SRC_URI=http://www.sanslogic.co.uk/fswebcam/files/fswebcam-20140113.tar.xz
-_md5_=f4023b06a7a2cc1150890e84e1e5a44d
+_md5_=8d91d9226afc38ca79704391cb63c318
