@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DEPEND=!arm? ( >=sys-libs/ncurses-5.0[tinfo] )
+DESCRIPTION=Ancient Domains Of Mystery rogue-like game
+EAPI=7
+HOMEPAGE=http://www.adom.de/
+INHERIT=edos2unix
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=adom
+RESTRICT=strip
+SLOT=0
+SRC_URI=x86? ( https://www.adom.de/home/download/old/1.2.0_pre20/adom_linux_debian_32_1.2.0_pre20.tar.gz ) amd64? ( https://www.adom.de/home/download/old/1.2.0_pre20/adom_linux_debian_64_1.2.0_pre20.tar.gz ) arm? ( https://www.adom.de/home/download/old/1.2.0_pre20/adom_linux_arm_1.2.0_pre20.tar.gz )
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773
+_md5_=7b3f12a6f76ce05b33cdd489f29045d4

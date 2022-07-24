@@ -3,11 +3,10 @@ DEPEND=!arm? ( >=sys-libs/ncurses-5.0[tinfo] )
 DESCRIPTION=Ancient Domains Of Mystery rogue-like game
 EAPI=7
 HOMEPAGE=http://www.adom.de/
-INHERIT=eutils
-KEYWORDS=~amd64 ~arm ~x86
+INHERIT=edos2unix
 LICENSE=adom
 RESTRICT=strip
 SLOT=0
-SRC_URI=x86? ( http://www.ancardia.com/download/adom_linux_debian_32_1.2.0_pre23.tar.gz ) amd64? ( http://www.ancardia.com/download/adom_linux_debian_64_1.2.0_pre23.tar.gz ) arm? ( http://www.ancardia.com/download/adom_linux_arm_1.2.0_pre23.tar.gz )
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257
-_md5_=b89047727e1697b5c7cf3a510a88adfb
+SRC_URI=x86? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_debian_32_1.2.0_pre23.tar.gz ) amd64? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_debian_64_1.2.0_pre23.tar.gz ) arm? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_arm_1.2.0_pre23.tar.gz )
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773
+_md5_=1bf767831aba144a90350772f6fff8ef
