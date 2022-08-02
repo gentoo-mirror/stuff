@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install test
+DEPEND=>=dev-util/nvidia-cuda-toolkit-7.5.18-r2 >=dev-lang/go-1.10
+DESCRIPTION=GPU-accelerated micromagnetic simulator
+EAPI=5
+HOMEPAGE=http://mumax.github.io/
+INHERIT=golang-build
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=>=dev-util/nvidia-cuda-toolkit-7.5.18-r2
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/mumax/3/archive/v3.10.zip
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	0bd4f7f8de6ac61b4224cb690c5ea321
+_md5_=642748eff2495655a34d68f11596a4f3
