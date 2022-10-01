@@ -10,5 +10,5 @@ LICENSE=|| ( Artistic GPL-1+ )
 RDEPEND=>=dev-perl/Pod-Parser-1.620.0 dev-perl/Class-Accessor dev-perl/Class-Data-Inheritable virtual/perl-File-Spec virtual/perl-MIME-Base64 dev-perl/Template-Toolkit dev-perl/Readonly dev-perl/URI >=dev-perl/JSON-2.40.0 dev-lang/perl:=
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/M/MG/MGRUNER/Pod-ProjectDocs-0.53.tar.gz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	4f80b00fab088c2f6d68edb55a6c4bf4
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	perl-functions	c3fca037246e877693badea0df3b0ef8	perl-module	21a0cb6221498d0e7894bdf445b79887
 _md5_=7f9a5c44ee831e250f5af0bd29311b4f
