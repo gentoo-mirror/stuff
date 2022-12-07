@@ -119,14 +119,12 @@ media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.0.1 9999: Audio tag editor
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
-media-tv/plex-media-server 0.9.8.18.290-r1 0.9.9.5.411 0.9.9.7.429: PLEX media server
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-im/xmppconsole 9999: A tool for XMPP hackers
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
-net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
 sci-libs/pycifrw 4.1.1 4.3: Reading and writing CIF (Crystallographic Information Format) files
