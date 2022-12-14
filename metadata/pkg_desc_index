@@ -35,54 +35,18 @@ dev-perl/Regexp-Assemble 0.35: Assemble multiple Regular Expressions into a sing
 dev-perl/Term-Sk 0.18: Perl extension for displaying a progress indicator on a terminal
 dev-perl/Term-Twiddle 2.73: Twiddles a thingy while-u-wait
 dev-python/Dans_Diffraction 2.2.0: Generate diffracted intensities from crystals
-dev-python/PTable 0.9.2: Represents tabular data in visually appealing ASCII tables, fork of PrettyTable
-dev-python/PeakUtils 1.3.3: This package provides utilities related to the detection of peaks on 1D data.
-dev-python/Pint 0.16.1 0.17 0.19.1: Python package to manipulate physical units
 dev-python/apsw 3.25.2_p1 3.34.0_p1: APSW - Another Python SQLite Wrapper
-dev-python/ase 3.19.1 3.21.1: Set of Python modules for atomistic simulations
-dev-python/asteval 0.9.18 0.9.21: ASTEVAL provides a numpy-aware, safe(ish) eval function
-dev-python/certifi-python2 10001: Thin replacement for certifi using system certificate store
-dev-python/diffpy_structure 3.0.1: Crystal structure container and parsers for structure formats
 dev-python/diffsims 0.2.3 0.4.2: Python library for simulating diffraction
-dev-python/fabio 0.10.2 0.11.0 0.13.0: FabIO is an I/O library for images produced by 2D X-ray detectors
 dev-python/gemmi 0.5.7: library for structural biology
 dev-python/hyperspy 1.6.1 1.6.2 1.6.5 1.7.3: Interactive analysis of multidimensional datasets tools
-dev-python/hyperspy-gui-ipywidgets 1.3.0 1.4.0 1.5.0: Interactive analysis of multidimensional datasets tools
-dev-python/hyperspy-gui-traitsui 1.3.1 1.4.0 1.5.2: Provides traitsui graphic user interface (GUI) elements for hyperspy
-dev-python/hyperspyUI 1.1.4 1.1.5: Provides graphic user interface (GUI) for hyperspy
-dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/llvmlite 0.37.0 0.38.0 0.39.1 9999: Python wrapper around the llvm C++ library
-dev-python/lmfit 1.0.1-r1: A library for least-squares minimization and data fitting in Python
 dev-python/numba 0.51.1 0.52.0 0.53.1 0.54.0 0.54.1 0.55.1 0.56.3 9999: NumPy aware dynamic Python compiler using LLVM
 dev-python/numcodecs 0.10.2: A Python package providing buffer compression and transformation codecs for use in data storage and communication applications
-dev-python/numpy-python2 1.16.6: Fast array and numerical python library
-dev-python/pyFAI 0.18.0 0.19.0 0.21.3: Libary for azimuthal integration of 2D diffraction data
-dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
-dev-python/pyface 7.0.0 7.3.0 7.4.1: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
-dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
-dev-python/pyqode_core 2.12.1: pyQode is a source code editor widget for PyQt/PySide
 dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (code completion, calltips, etc)
-dev-python/pyqode_qt 2.10.0: Shim that let you write applications that supports both PyQt and PySide
-dev-python/pyshortcuts 1.7.1 1.8.0: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1 0.13.2 0.13.3: Python library for multi-dimensional diffraction microscopy
-dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
-dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
-dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
-dev-python/silx 0.13.0 0.13.1 1.0.0: Python packages collection for synchrotron data manipulation
-dev-python/sparse 0.10.0 0.12.0 0.13.0: Sparse multi-dimensional arrays for the PyData ecosystem
-dev-python/tifffile 2020.12.8: Read and write TIFFr files
-dev-python/traits 6.0.0 6.1.1 6.2.0 6.3.2 6.4.1: Enthought Tool Suite: Explicitly typed attributes for Python
-dev-python/traitsui 7.0.0 7.2.1 7.3.1 7.4.2: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/transforms3d 0.3.1: Code to convert between various geometric transformations
-dev-python/uncertainties 3.1.2 3.1.4: Python module for calculations with uncertainties
-dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
-dev-python/wxmplot 0.9.41 0.9.45: Provides advanced wxPython widgets for plotting based on matplotlib
-dev-python/wxutils 0.2.3 0.2.4: A library of convenience functions for wxPython
-dev-python/xraydb 4.3.4 4.4.7: X-ray Reference Data for the Elements using SQLite
 dev-python/zarr 2.13.3: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/qbs 9999: Modern build tool for software projects
@@ -92,9 +56,7 @@ games-roguelike/dwarftherapist 41.0.2 41.1.7: Dwarf (The)rapist for Dwarf Fortre
 lxde-base/lxpanelx 9999: lxpanel fork with improved taskbar
 lxde-base/lxpolkit 0.1.0-r1: A simple PolicyKit authentication agent
 mail-client/alpine 2.21 9999: alpine is an easy to use text-based based mail and news client
-media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
-media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
 media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
@@ -117,7 +79,6 @@ media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 0.5 9999: Waveform Seekbar p
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-sound/amulet 9999: Elegant and simple audio converter
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
-media-sound/puddletag 2.0.1 9999: Audio tag editor
 media-sound/sonata 9999: an elegant GTK 3 client for the Music Player Daemon
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
@@ -127,7 +88,6 @@ net-im/xmppconsole 9999: A tool for XMPP hackers
 net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communications softwares
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
-sci-libs/pycifrw 4.1.1 4.3: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
 sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
@@ -138,7 +98,6 @@ sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framew
 sci-physics/profex 4.3.6: Open source XRD and Rietveld refiniment
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
 sci-physics/xraylarch 0.9.51 9999: Software for XRF data analysis
-sci-visualization/gwyddion 2.56 2.58 2.59 2.62 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
 sys-fs/fragview 0.1.1 9999: Disk fragmentation viewer written with boost and gtkmm
