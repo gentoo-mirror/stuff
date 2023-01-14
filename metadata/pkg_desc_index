@@ -45,7 +45,6 @@ dev-python/numcodecs 0.10.2: A Python package providing buffer compression and t
 dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
 dev-python/pyqode_python 2.12.1: pyqode.python adds python support to pyQode (code completion, calltips, etc)
 dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image comparison for matplotlib figures
-dev-python/pywavelets 1.1.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.11.0 0.12.1 0.13.2 0.13.3: Python library for multi-dimensional diffraction microscopy
 dev-python/zarr 2.13.3: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
@@ -89,7 +88,6 @@ net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communicati
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
 sci-libs/scikit-image 0.18.0: Image processing routines for SciPy
-sci-mathematics/sofastatistics 1.5.3: SOFA is a statistics, analysis, and reporting program
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
@@ -111,7 +109,6 @@ www-misc/httraqt 1.4.9: Graphical user interface for HTTrack library, developed 
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
-x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
