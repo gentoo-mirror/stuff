@@ -1,0 +1,16 @@
+BDEPEND=python_targets_python3_9? ( >=dev-lang/python-3.9.16:3.9 ) >=dev-python/setuptools-65.5.1[python_targets_python3_9(-)?]
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-python/cython[python_targets_python3_9(-)?] dev-python/h5py[python_targets_python3_9(-)?] dev-python/PyQt5[python_targets_python3_9(-)?] dev-python/matplotlib[python_targets_python3_9(-)?] dev-python/fabio[python_targets_python3_9(-)?] dev-python/numpy[python_targets_python3_9(-)?] dev-python/scipy[python_targets_python3_9(-)?] dev-python/pyopencl[python_targets_python3_9(-)?] dev-python/silx[python_targets_python3_9(-)?] dev-python/numexpr[python_targets_python3_9(-)?] sci-libs/fftw:3.0 doc? ( dev-util/gtk-doc )
+DESCRIPTION=Libary for azimuthal integration of 2D diffraction data
+EAPI=8
+HOMEPAGE=https://pyfai.readthedocs.io
+INHERIT=distutils-r1 flag-o-matic
+IUSE=doc python python_targets_python3_9
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-python/cython[python_targets_python3_9(-)?] dev-python/h5py[python_targets_python3_9(-)?] dev-python/PyQt5[python_targets_python3_9(-)?] dev-python/matplotlib[python_targets_python3_9(-)?] dev-python/fabio[python_targets_python3_9(-)?] dev-python/numpy[python_targets_python3_9(-)?] dev-python/scipy[python_targets_python3_9(-)?] dev-python/pyopencl[python_targets_python3_9(-)?] dev-python/silx[python_targets_python3_9(-)?] dev-python/numexpr[python_targets_python3_9(-)?] sci-libs/fftw:3.0 python_targets_python3_9? ( >=dev-lang/python-3.9.16:3.9 )
+REQUIRED_USE=python? ( || ( python_targets_python3_9 ) ) || ( python_targets_python3_9 )
+SLOT=0
+SRC_URI=mirror://pypi/p/pyFAI/pyFAI-0.19.0.tar.gz
+_eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	bddcb51b74f4a76724ff7cf8e7388869	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	python-r1	666be58f658d6b32affe30f80e39a49e	distutils-r1	dcd5f48510105eb95e550ab968147365	flag-o-matic	69394e25812406faa1f90edaf4969395
+_md5_=2393039c3c783277838c30ed078993a7

@@ -1,0 +1,15 @@
+DEFINED_PHASES=configure install postinst postrm prerm setup
+DEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango hdf5? ( sci-libs/hdf5 ) fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 ) virtual/pkgconfig doc? ( dev-util/gtk-doc )
+DESCRIPTION=Framework for Scanning Mode Microscopy data analysis
+EAPI=8
+HOMEPAGE=http://gwyddion.net/
+INHERIT=xdg-utils gnome2-utils python-r1_py2
+IUSE=doc fits fftw gnome nls opengl perl python ruby sourceview xml X +hdf5 python_targets_python2_7
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-libs/libpng:0= x11-libs/cairo x11-libs/gtk+:2 x11-libs/libXmu x11-libs/pango hdf5? ( sci-libs/hdf5 ) fits? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw:3.0= ) gnome? ( gnome-base/gconf:2 ) opengl? ( virtual/opengl x11-libs/gtkglext ) perl? ( dev-lang/perl:= ) python? ( dev-lang/python:2.7 dev-python/pygtk:2[python_targets_python2_7(-)?] ) ruby? ( dev-ruby/narray ) sourceview? ( x11-libs/gtksourceview:2.0 ) xml? ( dev-libs/libxml2:2 )
+REQUIRED_USE=python? ( || ( python_targets_python2_7 ) )
+SLOT=0
+SRC_URI=http://gwyddion.net/download/2.62/gwyddion-2.62.tar.xz
+_eclasses_=xdg-utils	ac0e315a3688929e34ac75b139e7349a	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	bddcb51b74f4a76724ff7cf8e7388869	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	python-utils-r1_py2	25c880c1db58e21b80b684bacc964958	python-r1_py2	4e15a1dbfb263c290e0552a7ff8f4e29
+_md5_=99468b54fdfa2328642673fe30bd39d0
