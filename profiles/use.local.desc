@@ -32,8 +32,6 @@ dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
 dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
-dev-python/pyqode_python:pyqode-uic - To install pyquode-uic
-dev-python/pyqode_python:pyqt-distutils - To install pyqt-distutils
 dev-python/setuptools-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/setuptools_scm-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/traitsui:demo - To install all requirements demo
