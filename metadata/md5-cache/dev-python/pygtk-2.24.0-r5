@@ -1,0 +1,18 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 test? ( x11-base/xorg-server[xvfb] x11-apps/xhost )
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
+DEPEND=dev-lang/python:2.7 >=dev-libs/glib-2.8:2 >=x11-libs/pango-1.16 >=dev-libs/atk-1.12 >=x11-libs/gtk+-2.24:2 dev-python/pycairo-python2[python_targets_python2_7(-)?] >=dev-python/pygobject-2.26.8-r53:2[python_targets_python2_7(-)?] >=gnome-base/libglade-2.5:2.0 virtual/pkgconfig doc? ( dev-libs/libxslt >=app-text/docbook-xsl-stylesheets-1.70.1 )
+DESCRIPTION=GTK+2 bindings for Python
+EAPI=8
+HOMEPAGE=https://gitlab.gnome.org/Archive/pygtk
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=autotools flag-o-matic gnome2 python-r1_py2 virtualx
+IUSE=doc examples test python_targets_python2_7 test
+KEYWORDS=~alpha ~amd64 ~arm64 ~hppa ~ia64 ~mips ~ppc ~sparc ~x86 ~ppc-macos ~x64-macos ~sparc-solaris ~x64-solaris ~x86-solaris
+LICENSE=LGPL-2.1
+RDEPEND=dev-lang/python:2.7 >=dev-libs/glib-2.8:2 >=x11-libs/pango-1.16 >=dev-libs/atk-1.12 >=x11-libs/gtk+-2.24:2 dev-python/pycairo-python2[python_targets_python2_7(-)?] >=dev-python/pygobject-2.26.8-r53:2[python_targets_python2_7(-)?] >=gnome-base/libglade-2.5:2.0
+REQUIRED_USE=|| ( python_targets_python2_7 )
+RESTRICT=!test? ( test ) !test? ( test )
+SLOT=2
+SRC_URI=mirror://gnome/sources/pygtk/2.24/pygtk-2.24.0.tar.bz2
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	flag-o-matic	69394e25812406faa1f90edaf4969395	gnome.org	429073e99d7067d3462e875bf5c6e14a	xdg-utils	ac0e315a3688929e34ac75b139e7349a	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	xdg	6024fbc93167fad782e2032933654857	gnome2	8dcac7a0c320f92299160b297d4fec6f	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	bddcb51b74f4a76724ff7cf8e7388869	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	python-utils-r1_py2	25c880c1db58e21b80b684bacc964958	python-r1_py2	4e15a1dbfb263c290e0552a7ff8f4e29	virtualx	644887c82aefdf12001489391fca4f02
+_md5_=4eb6ff6dc91a1fcdd9d2ae8a93797912
