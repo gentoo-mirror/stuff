@@ -10,5 +10,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=virtual/libusb:=
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=b523af773f9b41df5227c4333e876789
