@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=unpack
+DEPEND=media-libs/gd
+DESCRIPTION=neat and simple webcam grabbing app
+EAPI=8
+HOMEPAGE=http://www.sanslogic.co.uk/fswebcam/
+INHERIT=git-r3
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=media-libs/gd
+SLOT=0
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
+_md5_=3773b5270974899999eda75e2a22542f

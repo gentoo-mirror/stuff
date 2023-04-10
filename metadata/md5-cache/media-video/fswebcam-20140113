@@ -1,11 +1,11 @@
 DEFINED_PHASES=-
 DEPEND=media-libs/gd[truetype,png,jpeg]
 DESCRIPTION=neat and simple webcam grabbing app
-EAPI=5
+EAPI=8
 HOMEPAGE=http://www.sanslogic.co.uk/fswebcam/
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=GPL-2
 RDEPEND=media-libs/gd[truetype,png,jpeg]
 SLOT=0
 SRC_URI=http://www.sanslogic.co.uk/fswebcam/files/fswebcam-20140113.tar.xz
-_md5_=8d91d9226afc38ca79704391cb63c318
+_md5_=a73aea211300c5019e767bcd07ba3531
