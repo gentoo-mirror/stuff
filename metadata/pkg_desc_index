@@ -115,6 +115,7 @@ media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming v
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 0.5 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
 media-sound/amulet 9999: Elegant and simple audio converter
+media-sound/puddletag 2.2.0 9999: Audio tag editor
 media-sound/sonata 1.7.0-r2 9999: Elegant GTK+ 3 client for the Music Player Daemon (MPD)
 media-video/fswebcam 9999 20140113 20200725: neat and simple webcam grabbing app
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
