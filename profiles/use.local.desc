@@ -77,7 +77,7 @@ media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (usef
 media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
 media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)
 media-sound/puddletag:acoustid - Use media-libs/chromaprint for acoustic fingerprinting
-media-sound/puddletag:cover - Enables editing of FLAC cover art
+media-sound/puddletag:quodlibet - Enables support for editing media-sound/quodlibet databases
 media-sound/sonata:dbus - Support for dbus fetching
 media-sound/sonata:mpd - Support for mpd fetching
 media-sound/sonata:taglib - Enable support for taglib
