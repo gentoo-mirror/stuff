@@ -114,7 +114,7 @@ media-plugins/deadbeef-stereo-widener 9999: A simple stereo widener plugin for D
 media-plugins/deadbeef-vgmstream 9999: A DeaDBeeF plugin for playing streaming video game music using vgmstream.
 media-plugins/deadbeef-waveform-seekbar 0.1 0.2 0.3 0.5 9999: Waveform Seekbar plugin for DeaDBeeF audio player
 media-plugins/frei0r-plugins 9999: A minimalistic plugin API for video effects
-media-sound/amulet 9999: Elegant and simple audio converter
+media-sound/amulet 9999: Elegant audio converter based on ffmpeg
 media-sound/mpdris2 9999: An implementation of the MPRIS 2 interface as a client for MPD
 media-sound/puddletag 2.2.0 9999: Audio tag editor
 media-sound/sonata 1.7.0-r2 9999: Elegant GTK+ 3 client for the Music Player Daemon (MPD)
