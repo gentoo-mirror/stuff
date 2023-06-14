@@ -61,7 +61,7 @@ dev-python/numba 0.54.0 0.54.1 0.55.1 0.56.3 0.57.0 9999: NumPy aware dynamic Py
 dev-python/numcodecs 0.10.2: A Python package providing buffer compression and transformation codecs for use in data storage and communication applications
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
-dev-python/pyface 7.0.0 7.3.0 7.4.1 7.4.4: Toolkit-independent GUI abstraction layer for visualization features of Traits
+dev-python/pyface 7.4.1 7.4.4: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/pyfai 0.19.0 0.21.3 2023.3.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
@@ -69,7 +69,7 @@ dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
 dev-python/pyshortcuts 1.7.1 1.8.0 1.8.3: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/pywavelets 1.1.1 1.4.1: Discrete Wavelet Transforms in Python
-dev-python/pyxem 0.11.0 0.12.1 0.13.2 0.13.3 0.15.0: Python library for multi-dimensional diffraction microscopy
+dev-python/pyxem 0.13.3 0.15.0: Python library for multi-dimensional diffraction microscopy
 dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
