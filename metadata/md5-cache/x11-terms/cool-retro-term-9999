@@ -9,5 +9,5 @@ LICENSE=GPL-3 GPL-2
 PROPERTIES=live
 RDEPEND=dev-qt/qtdeclarative:5[localstorage] dev-qt/qtgraphicaleffects:5 dev-qt/qtquickcontrols:5[widgets] dev-qt/qtsql:5 dev-qt/qtwidgets:5
 SLOT=0
-_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	27e13c09a4c7e4c78ac812f74727e676
+_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	97f7f638070d17e4c2b6542589bb4575
 _md5_=78f099e9bb3e2f209a1a7a9837d97035
