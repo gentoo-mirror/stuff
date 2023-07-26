@@ -11,5 +11,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=dev-cpp/glibmm:2 gtk3? ( dev-cpp/gtkmm:3.0 ) !gtk3? ( dev-cpp/gtkmm:2.4 ) dev-libs/libsigc++:2 gtk3? ( net-libs/libinfinity:0.7[gtk3,avahi?] ) !gtk3? ( net-libs/libinfinity:0.7[gtk,avahi?] ) gtk3? ( x11-libs/gtk+:3 ) !gtk3? ( x11-libs/gtk+:2 ) dev-cpp/libxmlpp:2.6 gtk3? ( x11-libs/gtksourceview:3.0 ) !gtk3? ( x11-libs/gtksourceview:2.0 )
 SLOT=0.5
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	git-r3	97f7f638070d17e4c2b6542589bb4575
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	git-r3	2358a7b20091609e24bd3a83b3ac5991
 _md5_=99f1a8ca23500540908786eacf370371
