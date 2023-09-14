@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=dev-qt/qtgui:5 dev-qt/qtcore:5 dev-qt/qtxmlpatterns:5 dev-qt/qtsvg:5
 SLOT=0
 _eclasses_=toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	2358a7b20091609e24bd3a83b3ac5991
-_md5_=2f7123f9185b571d4303bd31bdb09c38
+_md5_=a7815840cfa8acccc497b9b7ab1676f1

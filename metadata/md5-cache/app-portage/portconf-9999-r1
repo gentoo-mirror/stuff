@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=app-shells/bash sys-apps/portage app-portage/eix app-portage/portage-utils sys-apps/gawk app-text/agrep
 SLOT=0
 _eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
-_md5_=a9e93ea8ea5bd5c28a199ee47f9438fd
+_md5_=d849edfc7307f8a0718803dccbeaa11d
