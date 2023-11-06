@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=The leading eclipse IDE for Ajax and today's web platforms
+EAPI=7
+HOMEPAGE=http://www.aptana.com
+KEYWORDS=amd64 x86
+LICENSE=EPL-1.0
+RDEPEND=media-libs/libjpeg-turbo >=virtual/jre-1.5 media-libs/libpng x11-libs/gtk+:2 sys-apps/net-tools
+RESTRICT=mirror
+SLOT=3
+SRC_URI=x86? ( https://github.com/aptana/studio3/releases/download/v3.6.1/studio3.linux.gtk.x86_3.6.1.zip ) amd64? ( https://github.com/aptana/studio3/releases/download/v3.6.1/studio3.linux.gtk.x86_64_3.6.1.zip )
+_md5_=2cb971663d6ec48830be9efb1994797d

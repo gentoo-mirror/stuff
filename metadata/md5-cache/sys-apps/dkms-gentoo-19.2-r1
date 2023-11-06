@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst
+DEPEND=sys-apps/openrc app-shells/bash sys-apps/gawk sys-apps/portage
+DESCRIPTION=DKMS analog for gentoo
+EAPI=7
+HOMEPAGE=https://github.com/megabaks/dkms-gentoo
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=sys-apps/openrc app-shells/bash sys-apps/gawk sys-apps/portage
+SLOT=0
+SRC_URI=https://github.com/megabaks/dkms-gentoo/archive/19.2.tar.gz -> dkms-gentoo-19.2.tar.gz
+_md5_=40e76a22e8c413a31636cb18d1a00e88
