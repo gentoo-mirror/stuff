@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=compile configure install prepare
+DEPEND=sys-libs/pam >=net-libs/c-client-2007f-r4 sys-libs/ncurses:0 >=dev-libs/openssl-1.0 ldap? ( net-nds/openldap ) kerberos? ( app-crypt/mit-krb5 ) spell? ( app-text/aspell )
+DESCRIPTION=alpine is an easy to use text-based based mail and news client
+EAPI=8
+HOMEPAGE=https://alpineapp.email/
+INHERIT=flag-o-matic autotools multilib toolchain-funcs
+IUSE=doc ipv6 kerberos ldap nls passfile smime spell ssl threads patches
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+RDEPEND=sys-libs/pam >=net-libs/c-client-2007f-r4 sys-libs/ncurses:0 >=dev-libs/openssl-1.0 ldap? ( net-nds/openldap ) kerberos? ( app-crypt/mit-krb5 ) spell? ( app-text/aspell ) app-misc/mime-types !<=net-mail/uw-imap-2004g
+SLOT=0
+SRC_URI=https://alpineapp.email/alpine/release/src/Old/alpine-2.21.tar.xz
+_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde
+_md5_=b9568ac880fe132ecc27c23b3318ea40
