@@ -10,5 +10,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=app-shells/bash:= sys-apps/portage sys-apps/gawk parallel? ( sys-process/parallel )
 SLOT=0
-_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
+_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
 _md5_=78145d199d7730a0dd609e0786f15008

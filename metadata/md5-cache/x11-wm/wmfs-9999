@@ -10,5 +10,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=x11-libs/libX11 x11-libs/libSM x11-libs/libXft imlib2? ( media-libs/imlib2 ) xrandr? ( x11-libs/libXrandr ) xinerama? ( x11-libs/libXinerama )
 SLOT=0
-_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
+_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
 _md5_=a8d7aa801fd3f42dc140bb78c5e7ad7e

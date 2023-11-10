@@ -11,5 +11,5 @@ PROPERTIES=live
 RDEPEND=>=dev-ml/camlidl-0.9.5 dev-lang/ocaml sys-fs/fuse:0 dev-ml/opam
 SLOT=0
 SRC_URI=https://github.com/astrada/ocamlfuse/archive/v2.7.1_cvs7.tar.gz
-_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
+_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
 _md5_=1d3ed5418b99dce1819ef64b0289c51e
