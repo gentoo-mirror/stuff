@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=dev-cpp/glibmm:2 gtk3? ( dev-cpp/gtkmm:3.0 ) !gtk3? ( dev-cpp/gtkmm:2.4 ) dev-libs/libsigc++:2 gtk3? ( net-libs/libinfinity:0/0.6[gtk3,avahi?] ) !gtk3? ( net-libs/libinfinity:0/0.6[gtk,avahi?] ) gtk3? ( x11-libs/gtk+:3 ) !gtk3? ( x11-libs/gtk+:2 ) dev-cpp/libxmlpp:2.6 gtk3? ( x11-libs/gtksourceview:3.0 ) !gtk3? ( x11-libs/gtksourceview:2.0 )
 SLOT=0.5
 SRC_URI=http://releases.0x539.de/gobby/gobby-0.5.0.tar.gz
-_eclasses_=toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
+_eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116
 _md5_=472145693881c12fb81befc9d0f4f7d0
