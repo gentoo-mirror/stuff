@@ -70,6 +70,29 @@ media-libs/mlt:python - Build SWIG bindings for Python
 media-libs/mlt:python_single_target_python2_7 - Enable Python-compatible libs (python2_7 only)
 media-libs/mlt:rtaudio - Builds rtaudio consumer for native audio support on multiple platforms.
 media-libs/mlt:ruby - Build SWIG bindings for Ruby
+media-libs/opencv:contrib - Install user contributed scripts from opencv_contrib (Experimental!)
+media-libs/opencv:contribcvv - CVV module requires Qt5
+media-libs/opencv:contribdnn - DNN module contrib requires tiny dnn
+media-libs/opencv:contribfreetype - Enable Drawing UTF-8 strings with freetype/harfbuzz
+media-libs/opencv:contribhdf - HDF module requires sci-libs/hdf5
+media-libs/opencv:contribovis - Enable Ogre vision module support
+media-libs/opencv:contribsfm - SFM module requires eigen, gflags, and glog
+media-libs/opencv:contribxfeatures2d - Enables xfeatures2d and autodownload of samples in contrib
+media-libs/opencv:cuda - Enable NVIDIA Cuda computations support (Experimental!)
+media-libs/opencv:dnnsamples - Download dnn caffeemodel samples
+media-libs/opencv:download - Enable download during cmake configure
+media-libs/opencv:eigen - Enable usage of dev-cpp/eigen for computations
+media-libs/opencv:features2d - Enable features2d module
+media-libs/opencv:gdal - Enable support for sci-libs/gdal library
+media-libs/opencv:gflags - Use Google's C++ argument parsing library
+media-libs/opencv:glog - Use Google's C++ loggin library
+media-libs/opencv:gtk3 - Enable x11-libs/gtk+:3 support
+media-libs/opencv:lto - Build using Link Time Optimizations (LTO)
+media-libs/opencv:opencl - Add support for OpenCL
+media-libs/opencv:opencvapps - Enable compilation with opencvapps
+media-libs/opencv:tesseract - Use Google's OCR Engine
+media-libs/opencv:testprograms - Build and install programs for testing OpenCV (performance)
+media-libs/opencv:vtk - Build new 3D visualization module viz based on sci-libs/vtk
 media-libs/qtav:cuda - Enable cuda support
 media-libs/qtav:gui - Build a video player gui
 media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
