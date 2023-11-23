@@ -135,8 +135,15 @@ net-libs/bctoolbox 0.5.1 0.6.0: Utilities library used by Belledonne Communicati
 net-libs/libinfinity 0.6.8 0.7.1: An implementation of the Infinote protocol written in GObject-based C
 net-libs/ortp 0.27.0: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-misc/ipx-utils 9999: The IPX Utilities
+sci-libs/amd 3.2.1: Library to order a sparse matrix prior to Cholesky factorization
+sci-libs/camd 3.2.1: Library to order a sparse matrix prior to Cholesky factorization
+sci-libs/ccolamd 3.2.1: Constrained Column approximate minimum degree ordering algorithm
+sci-libs/cholmod 5.0.1: Sparse Cholesky factorization and update/downdate library
+sci-libs/colamd 3.2.1: Column approximate minimum degree ordering algorithm
 sci-libs/pycifrw 4.1.1 4.3 4.4.5: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
+sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suitesparse
+sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library
 sci-mathematics/sofastatistics 1.5.3 1.5.6: SOFA is a statistics, analysis, and reporting program
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 9999: Software for XAS data processing
