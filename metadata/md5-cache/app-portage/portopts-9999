@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=app-shells/bash:= sys-apps/portage sys-apps/gawk
 SLOT=0
 _eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=ee0c81ec0909ad7228b72b325939f1e3
+_md5_=0806c51742749d1e2989b95c56199ca0

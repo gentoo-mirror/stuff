@@ -2,13 +2,13 @@ BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/
 DEFINED_PHASES=configure prepare unpack
 DEPEND=sys-fs/fuse:0 virtual/pkgconfig
 DESCRIPTION=FUSE module to mount ls -lR output
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/pasis/ls-fuse
 INHERIT=autotools git-r3
-IUSE=-debug
+IUSE=debug
 LICENSE=GPL-3+
 PROPERTIES=live
 RDEPEND=sys-fs/fuse:0
 SLOT=0
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=b782c0ed98df7a43656898794dc84328
+_md5_=56feeed9239ec3101ab811dece61c39f
