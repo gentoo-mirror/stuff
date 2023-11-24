@@ -153,7 +153,7 @@ sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framew
 sci-physics/prismatic 2.0: Prismatic Software for STEM Simulation
 sci-physics/profex 4.3.6: Open source XRD and Rietveld refiniment
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
-sci-physics/xraylarch 0.9.51 0.9.67 9999: Software for XRF data analysis
+sci-physics/xraylarch 0.9.51 0.9.67 0.9.74 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.56 2.58 2.59 2.62 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/cryfs 0.10.4 0.11.4: Encrypted FUSE filesystem that conceals metadata
