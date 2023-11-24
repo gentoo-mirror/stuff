@@ -146,7 +146,7 @@ sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suit
 sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library
 sci-mathematics/sofastatistics 1.5.3 1.5.6: SOFA is a statistics, analysis, and reporting program
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
-sci-physics/demeter 0.9.26 9999: Software for XAS data processing
+sci-physics/demeter 0.9.26 0.9.27 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
 sci-physics/mumax 3.9.3 3.10: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
