@@ -59,11 +59,11 @@ dev-python/imageio 2.26.0 2.26.1 2.27.0 2.31.6: Python library for reading and w
 dev-python/importlib-resources 5.12.0 6.0.0: Read resources from Python packages
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/llvmlite 0.37.0 0.38.0 0.39.1 0.40.0 9999: Python wrapper around the llvm C++ library
-dev-python/lmfit 1.0.1-r1 1.1.0: A library for least-squares minimization and data fitting in Python
 dev-python/monty 2023.11.3: Monty is the missing complement to Python
 dev-python/numba 0.54.0 0.54.1 0.55.1 0.56.3 0.57.0 0.58.1 9999: NumPy aware dynamic Python compiler using LLVM
 dev-python/numcodecs 0.10.2: A Python package providing buffer compression and transformation codecs for use in data storage and communication applications
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
+dev-python/parsimonious 0.10.0: pure-Python PEG parser
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 7.4.1 7.4.4 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/pyfai 0.19.0 0.21.3 2023.3.0: Libary for azimuthal integration of 2D diffraction data
