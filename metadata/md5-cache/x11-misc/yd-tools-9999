@@ -1,14 +1,14 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install postinst postrm prepare unpack
-DEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) dev-libs/libappindicator:3[introspection] >=dev-python/pyinotify-0.9.6[python_targets_python3_10(-)?] dev-python/pygobject:3[python_targets_python3_10(-)?] gnome-extra/zenity net-misc/yandex-disk x11-misc/xclip x11-libs/gtk+:3[introspection] x11-libs/gdk-pixbuf:2[introspection] nls? ( sys-devel/gettext )
+DEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) dev-libs/libappindicator:3[introspection] >=dev-python/pyinotify-0.9.6[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/pygobject:3[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] gnome-extra/zenity net-misc/yandex-disk x11-misc/xclip x11-libs/gtk+:3[introspection] x11-libs/gdk-pixbuf:2[introspection] nls? ( sys-devel/gettext )
 DESCRIPTION=A panel indicator (GUI) for YandexDisk CLI client
 EAPI=7
 HOMEPAGE=https://github.com/slytomcat/yandex-disk-indicator
 INHERIT=desktop plocale python-r1 xdg-utils git-r3
-IUSE=nls python_targets_python3_10
+IUSE=nls python_targets_python3_10 python_targets_python3_11 python_targets_python3_12
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) dev-libs/libappindicator:3[introspection] >=dev-python/pyinotify-0.9.6[python_targets_python3_10(-)?] dev-python/pygobject:3[python_targets_python3_10(-)?] gnome-extra/zenity net-misc/yandex-disk x11-misc/xclip x11-libs/gtk+:3[introspection] x11-libs/gdk-pixbuf:2[introspection]
+RDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) dev-libs/libappindicator:3[introspection] >=dev-python/pyinotify-0.9.6[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/pygobject:3[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] gnome-extra/zenity net-misc/yandex-disk x11-misc/xclip x11-libs/gtk+:3[introspection] x11-libs/gdk-pixbuf:2[introspection]
 SLOT=0
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	plocale	950fbaec7deeba41b5bcc0572cca99b9	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	e989dbdcbb647bd8655857c1f95be244	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	xdg-utils	baea6080dd821f5562d715887954c9d3	git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=31fb753093cd6bcbe49a5e2f07a4ec02
+_md5_=1482666dde3e2a4f2a30a5dddb0814e0
