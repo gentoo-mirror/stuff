@@ -9,4 +9,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=x86? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_debian_32_1.2.0_pre23.tar.gz ) amd64? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_debian_64_1.2.0_pre23.tar.gz ) arm? ( https://www.adom.de/home/download/old/1.2.0_pre23/adom_linux_arm_1.2.0_pre23.tar.gz )
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773
-_md5_=ac12010eb1bffc112b14663f79a3edab
+_md5_=4c89a49b629abc0c4f3cbd0118b60a04
