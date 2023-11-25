@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=dev-qt/qtdeclarative:5[localstorage] dev-qt/qtgraphicaleffects:5 dev-qt/qtquickcontrols:5[widgets] dev-qt/qtsql:5 dev-qt/qtwidgets:5
 SLOT=0
 _eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=3d28915656e4dd2793dca79541c6e3b9
+_md5_=1db9987f76ab45421a21f3f6ac85cc76

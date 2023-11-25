@@ -12,4 +12,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/lxpanelx/source-archive.zip
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	unpacker	aa6a4e924009232d8b78b31e932c30b5
-_md5_=83b65192f2ef4e25f01a5450e515f040
+_md5_=390c1db2941950b16bec3ba6d038f530

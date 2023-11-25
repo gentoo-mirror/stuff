@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-sound/deadbeef media-libs/libbs2b
 SLOT=0
 _eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=58c03513f23c65d02e9d0a8ec238eafe
+_md5_=9dbb072c061de3e705a620282cbcceb5

@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=sys-apps/openrc app-shells/bash sys-apps/gawk sys-apps/portage
 SLOT=0
 _eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=0dc9132892d97267d6ef25963c9e58f2
+_md5_=5422be38f192fe4dc1260de0323996d9

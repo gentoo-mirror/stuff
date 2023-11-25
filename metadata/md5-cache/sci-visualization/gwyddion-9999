@@ -12,4 +12,4 @@ RDEPEND=>=dev-libs/glib-2.32 media-libs/libpng:0= x11-libs/cairo dev-libs/libzip
 REQUIRED_USE=python? ( || ( python_targets_python2_7 ) )
 SLOT=0
 _eclasses_=xdg-utils	baea6080dd821f5562d715887954c9d3	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	python-utils-r1_py2	25c880c1db58e21b80b684bacc964958	python-r1_py2	4e15a1dbfb263c290e0552a7ff8f4e29	estack	c61c368a76fdf3a82fdf8dbaebea3804	subversion	44c6a1cae0381c100a526e3b348622cd	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde
-_md5_=0d5f0d7b0468f16715bcd6f8518d419b
+_md5_=3806c1d03b4d4b8ccffcb5ec0d96ba36

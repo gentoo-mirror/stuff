@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=x11-libs/libX11 guile? ( >=dev-scheme/guile-1.8.4[deprecated] ) tk? ( dev-lang/tk:0 )
 SLOT=0
 _eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
-_md5_=f61b4a6cbae0617649e29514b1530715
+_md5_=e6d69429c3d9e600185adf80055d7c86
