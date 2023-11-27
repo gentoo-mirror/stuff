@@ -127,6 +127,10 @@ sci-libs/cholmod:matrixops - Support basic sparse and dense matrix operations (a
 sci-libs/cholmod:modify - Enable Cholesky-modification routines like update, downdate, row-add, and row-delete
 sci-libs/cholmod:partition - Previously called "partition", enable graph partitioning and graph-partition-based orderings through of a modified copy of sci-libs/metis.
 sci-libs/cholmod:supernodal - supernodal cholesky factorisation
+sci-libs/nexus:hdf4 - Support the old HDF4 representation
+sci-libs/nexus:hdf5 - Support the standard representation (HDF5)
+sci-libs/nexus:java - Build the Java bindings
+sci-libs/nexus:xml - Allow using the verbose XML representation of NeXus data
 sci-physics/prismatic:gpu - Enable support for CUDA with dev-util/nvidia-cuda-toolkit
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
 sci-visualization/gwyddion:hdf5 - Enable hdf5 support
