@@ -191,4 +191,3 @@ x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
-x11-wm/wmfs 9999: Windows Manager From Scratch
