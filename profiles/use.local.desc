@@ -24,6 +24,11 @@ dev-python/cupy:cuda - Enable support for nVidia CUDA
 dev-python/cupy:cudnn - Enable support for nVidia cuDNN library
 dev-python/cupy:float19 - Use float19 to fake float32, also advertised as tensor float32 by nVidia.
 dev-python/cupy:rocm - Enable AMD ROCm
+dev-python/exspy:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
+dev-python/exspy:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
+dev-python/exspy:learning - To install required libraries for some machine learning features
+dev-python/exspy:mrcz - To install the mrcz plugin
+dev-python/exspy:speed - To install optional libraries that speed up some functionalities
 dev-python/hyperspy:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
 dev-python/hyperspy:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
 dev-python/hyperspy:learning - To install required libraries for some machine learning features
@@ -36,6 +41,11 @@ dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
 dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/rosettasciio:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
+dev-python/rosettasciio:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
+dev-python/rosettasciio:learning - To install required libraries for some machine learning features
+dev-python/rosettasciio:mrcz - To install the mrcz plugin
+dev-python/rosettasciio:speed - To install optional libraries that speed up some functionalities
 dev-python/setuptools-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/setuptools_scm-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/traitsui:demo - To install all requirements demo

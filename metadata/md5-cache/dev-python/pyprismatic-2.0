@@ -1,6 +1,6 @@
 BDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/setuptools-67.8.0-r1[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?]
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-util/cmake dev-libs/boost sci-libs/fftw[threads] sci-libs/hdf5[cxx] doc? ( dev-util/gtk-doc )
+DEPEND=dev-build/cmake dev-libs/boost sci-libs/fftw[threads] sci-libs/hdf5[cxx] doc? ( dev-util/gtk-doc )
 DESCRIPTION=Prismatic Software for STEM Simulation
 EAPI=8
 HOMEPAGE=https://prism-em.com
@@ -8,9 +8,9 @@ INHERIT=distutils-r1
 IUSE=doc python debug gpu python_targets_python3_10 python_targets_python3_11 python_targets_python3_12
 KEYWORDS=~amd64
 LICENSE=GPL-3
-RDEPEND=dev-util/cmake dev-libs/boost sci-libs/fftw[threads] sci-libs/hdf5[cxx] python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+RDEPEND=dev-build/cmake dev-libs/boost sci-libs/fftw[threads] sci-libs/hdf5[cxx] python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
 SLOT=0
 SRC_URI=https://github.com/prism-em/prismatic/archive/refs/tags/v2.0.tar.gz -> pyprismatic-2.0.tar.gz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b2b07efa51009704f88173b2c7feab47	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	b9318b5e40104e608d7e4582121fb561
-_md5_=761281e984cdfe11318662fc9c180684
+_md5_=dc9459f1682567213d772daaf12f3dc3
