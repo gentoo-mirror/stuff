@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=dev-lang/lua x11-wm/awesome dev-libs/oocairo vicious? ( x11-plugins/vicious )
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=1c492987c782c0761c2e39aecf4f37de
+_md5_=aa5c8c4d13383c467b59cd0c53152f01

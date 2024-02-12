@@ -6,4 +6,4 @@ KEYWORDS=amd64 arm ~amd64-linux ~x86-linux
 LICENSE=WTFPL-2
 RDEPEND=games-misc/fortune-mod
 SLOT=0
-_md5_=7189dd200db9bdb0fd7c8d37a6edc0f0
+_md5_=77fb712af973e8f89280c976a1964fae

@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-sound/deadbeef media-libs/libvorbis media-sound/mpg123
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=a694dccd829c25b91e5caf05f0a2b756
+_md5_=fb81d12b207f81f1590f5146e63b0b7b

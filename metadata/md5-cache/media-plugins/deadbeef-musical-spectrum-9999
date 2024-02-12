@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=sci-libs/fftw:3.0 media-sound/deadbeef
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=89cb9fce170d3535d2548ebe8a0961db
+_md5_=661332366c090961ad54870574f87145

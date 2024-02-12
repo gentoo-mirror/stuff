@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-libs/gd
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=e3a1efe4c825f8a4dff7c416d3453ce0
+_md5_=3c63954af5cc67013dc26cc7fc63abca

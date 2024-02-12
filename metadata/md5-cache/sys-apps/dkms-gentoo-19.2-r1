@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=sys-apps/openrc app-shells/bash sys-apps/gawk sys-apps/portage
 SLOT=0
 SRC_URI=https://github.com/megabaks/dkms-gentoo/archive/19.2.tar.gz -> dkms-gentoo-19.2.tar.gz
-_md5_=0cac20fab07d04e8cf0d55df66391c7d
+_md5_=1bf0dfba9dcb77754f7a6f95e62c60be

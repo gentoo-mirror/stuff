@@ -11,4 +11,4 @@ RDEPEND=>=dev-perl/Pod-Parser-1.620.0 dev-perl/Class-Accessor dev-perl/Class-Dat
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/M/MG/MGRUNER/Pod-ProjectDocs-0.52.tar.gz
 _eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	perl-functions	c3fca037246e877693badea0df3b0ef8	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	perl-module	4e37e1004a0a27e41bb7025c0b974676
-_md5_=67700431be33d796fc5759472b1aa3bc
+_md5_=99b5d96dab1bd6ea027c227d34262e02

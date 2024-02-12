@@ -11,4 +11,4 @@ RDEPEND=dev-qt/qtgui:5 dev-qt/qtcore:5 dev-qt/qtxmlpatterns:5 dev-qt/qtsvg:5
 SLOT=0
 SRC_URI=https://github.com/xintrea/mytetra_dev/archive/v.1.44.55.tar.gz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81
-_md5_=f0de171b5e800ea8a63ed433c736a083
+_md5_=783cb69cb6eac3c192ae620976783d74

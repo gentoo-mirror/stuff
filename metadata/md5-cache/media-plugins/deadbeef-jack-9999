@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-sound/deadbeef media-sound/jack-audio-connection-kit
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=9b2b70eaa6c1f08f05086a5d086c5e08
+_md5_=cf879c9ddbb32478812326f61b181401

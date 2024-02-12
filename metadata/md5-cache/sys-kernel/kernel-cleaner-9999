@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=app-shells/bash:= sys-apps/portage sys-apps/gawk parallel? ( sys-process/parallel )
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=1bc211f5c09ac3d4b754b8b71227d903
+_md5_=ba13f749e3c674c1be631e6b13b8aa26
