@@ -44,7 +44,7 @@ dev-python/apsw 3.25.2_p1 3.34.0_p1: APSW - Another Python SQLite Wrapper
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/ase 3.19.1 3.21.1 3.22.1: Set of Python modules for atomistic simulations
 dev-python/asteval 0.9.18 0.9.21 0.9.28: ASTEVAL provides a numpy-aware, safe(ish) eval function
-dev-python/atomap 0.3.3 0.3.4: Library for analysing atomic resolution images
+dev-python/atomap 0.3.3 0.3.4 0.4.0: Library for analysing atomic resolution images
 dev-python/av 9.2.0: Pythonic bindings for FFmpeg's libraries.
 dev-python/certifi-python2 10001: Thin replacement for certifi using system certificate store
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
@@ -66,6 +66,7 @@ dev-python/hyperspy-gui-traitsui 1.4.0 1.5.2 1.5.3 2.0: Provides traitsui graphi
 dev-python/hyperspyUI 1.1.4 1.1.5 1.3.1 2.0: Provides graphic user interface (GUI) for hyperspy
 dev-python/imageio 2.26.0 2.26.1 2.27.0 2.31.6: Python library for reading and writing image data
 dev-python/importlib-resources 5.12.0 6.0.0: Read resources from Python packages
+dev-python/ipympl 0.8.4: Matplotlib Jupyter Extension
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/llvmlite 0.37.0 0.38.0 0.39.1 0.40.0 9999: Python wrapper around the llvm C++ library
 dev-python/matplotlib_scalebar 0.8.1: Artist for matplotlib to display a scale bar
@@ -76,6 +77,7 @@ dev-python/numba 0.55.1 0.56.3 0.57.0 0.58.1 9999: NumPy aware dynamic Python co
 dev-python/numcodecs 0.10.2: A Python package providing buffer compression and transformation codecs for use in data storage and communication applications
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/parsimonious 0.10.0: pure-Python PEG parser
+dev-python/pillow 9.5.0: Python Imaging Library (fork)
 dev-python/py4DSTEM 0.14.8: Processing and analysis of 4D-STEM data
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 7.4.1 7.4.4 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
@@ -190,6 +192,8 @@ sys-kernel/pf-sources 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 
 www-misc/httraqt 1.4.11: Graphical user interface for HTTrack library, developed in C++ and based on Qt
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
+x11-libs/cairo 1.18.0 9999: A vector graphics library with cross-device output support
+x11-libs/gtk+ 2.24.33-r4: Gimp ToolKit +
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget.

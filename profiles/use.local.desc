@@ -154,3 +154,8 @@ sys-fs/ls-fuse:debug - Enables debug messages
 sys-kernel/kernel-cleaner:parallel - Add support for sys-process/parallel
 x11-libs/bamf:gtk2 - Build with x11-libs/gtk+:2
 x11-libs/bamf:gtk3 - Build with x11-libs/gtk+:3
+x11-libs/cairo:glib - Compile with GLib Object System support
+x11-libs/gtk+:broadway - Enable the GDK Broadway backend
+x11-libs/gtk+:cloudproviders - Enable GtkPlacesSidebar to access cloud services
+x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
+x11-libs/gtk+:sysprof - Enable profiling data capture support using dev-util/sysprof-capture
