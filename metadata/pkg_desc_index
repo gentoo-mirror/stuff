@@ -93,6 +93,7 @@ dev-python/pywavelets 1.1.1 1.4.1: Discrete Wavelet Transforms in Python
 dev-python/pyxem 0.13.3 0.15.0: Python library for multi-dimensional diffraction microscopy
 dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
 dev-python/rosettasciio 0.3: Reading and writing scientific file formats
+dev-python/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
 dev-python/seekpath 2.1.0: Obtain and visualize k-vector coefficients and obtain band paths
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
