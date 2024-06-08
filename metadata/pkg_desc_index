@@ -172,7 +172,6 @@ sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library
 sci-mathematics/sofastatistics 1.5.3 1.5.6: SOFA is a statistics, analysis, and reporting program
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 0.9.27 9999: Software for XAS data processing
-sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
 sci-physics/mantid 6.8.0 9999: Tools to support the processing of materials-science data
 sci-physics/mumax 3.9.3 3.10: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
@@ -197,7 +196,5 @@ x11-libs/cairo 1.18.0 9999: A vector graphics library with cross-device output s
 x11-libs/gtk+ 2.24.33-r4: Gimp ToolKit +
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
-x11-plugins/e_modules-forecasts 9999: The forecasts gadget.
-x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
