@@ -122,7 +122,6 @@ mail-client/alpine 2.21 2.26 9999: An easy to use text-based based mail and news
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
-media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
