@@ -122,10 +122,12 @@ mail-client/alpine 2.21 2.26 9999: An easy to use text-based based mail and news
 media-gfx/fontforge 99999999-r1: postscript font editor and converter
 media-gfx/iscan-data 1.39.1.2: Image Scan! for Linux data files
 media-gfx/sk1 0.9.3 9999: sK1 vector graphics editor
+media-gfx/svgcleaner 0.9.1 0.9.5 9999: SVG Cleaner cleans up your SVG files from unnecessary data.
 media-gfx/wkhtmltopdf 0.12.5: Convert html to pdf (and various image formats) using webkit
 media-libs/adplug 2.3.1 9999: A free, cross-platform, hardware independent AdLib sound player library
 media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
+media-libs/libva 2.20.0 2.21.0 9999: Video Acceleration (VA) API for Linux
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
 media-libs/opencv 4.8.0-r1 4.8.1: A collection of algorithms and sample code for various computer vision problems
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
@@ -196,5 +198,7 @@ x11-libs/cairo 1.18.0 9999: A vector graphics library with cross-device output s
 x11-libs/gtk+ 2.24.33-r4: Gimp ToolKit +
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
 x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
+x11-plugins/e_modules-forecasts 9999: The forecasts gadget written with EFL
+x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
 x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
