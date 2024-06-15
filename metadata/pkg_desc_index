@@ -10,6 +10,7 @@ app-portage/portopts 9999: quick set opts per package
 app-portage/udept 9999: A Portage analysis toolkit
 app-text/agrep 2.04-r3: A tool for the fast searching of text allowing for errors in the search pattern
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
+app-text/pandoc-crossref-bin 0.3.17.1a: Pandoc filter for cross-references
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
