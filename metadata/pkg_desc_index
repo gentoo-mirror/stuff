@@ -198,8 +198,6 @@ x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
 x11-libs/cairo 1.18.0 9999: A vector graphics library with cross-device output support
 x11-libs/gtk+ 2.24.33-r4: Gimp ToolKit +
 x11-misc/xbindkeys 9999: Tool for launching commands on keystrokes
-x11-misc/yd-tools 1.11.0-r1 9999: A panel indicator (GUI) for YandexDisk CLI client
 x11-plugins/e_modules-forecasts 9999: The forecasts gadget written with EFL
 x11-plugins/e_modules-places 9999: E17 Module that manage the mounting of volumes
-x11-plugins/purple-vk-plugin 0.9-r298 0.9-r346: Pidgin plugin for vk.com social network
 x11-terms/cool-retro-term 9999: A good looking terminal emulator which mimics the old cathode display
