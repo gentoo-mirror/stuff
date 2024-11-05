@@ -17,7 +17,6 @@ dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry wr
 dev-libs/libchardet 1.0.4 1.0.5 1.0.6: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
-dev-libs/thrift 0.16.0: Data serialization and communication toolwork
 dev-ml/gapi-ocaml 0.3.19: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1-r7: OCaml binding for fuse
 dev-ml/xmlm 1.3.0: Ocaml XML manipulation module
@@ -135,7 +134,6 @@ media-libs/libjpeg-turbo 9999: MMX, SSE, and SSE2 SIMD accelerated JPEG library
 media-libs/libmkv 0.6.5.1: Lightweight Matroska muxer written for HandBrake
 media-libs/libva 2.20.0 2.21.0 9999: Video Acceleration (VA) API for Linux
 media-libs/mlt 9999: Open source multimedia framework for television broadcasting
-media-libs/opencv 4.8.0-r1 4.8.1: A collection of algorithms and sample code for various computer vision problems
 media-libs/qtav 9999: Multimedia playback framework based on Qt + FFmpeg
 media-plugins/deadbeef-archive-reader 9999: DeaDBeeF plugin for playing directly from RAR, 7z and Gzip archive files
 media-plugins/deadbeef-bookmark-manager 9999: Bookmark Manager plugin for DeaDBeeF audio player
