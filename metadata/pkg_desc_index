@@ -153,7 +153,6 @@ media-sound/mpdris2 0.9.1 9999: An implementation of the MPRIS 2 interface as a 
 media-sound/puddletag 2.2.0 9999: Audio tag editor
 media-sound/sonata 1.7.0-r2 9999: Elegant GTK+ 3 client for the Music Player Daemon (MPD)
 media-video/fswebcam 9999 20200725: neat and simple webcam grabbing app
-net-im/jitsi-bin 2.5 2.8: Secure IM communicator supporting SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/profanity 9999: Ncurses based jabber client inspired by irssi
 net-im/stabber 9999: Stubbed XMPP Server
 net-im/teams 1.5.00.10453-r1: Microsoft Teams, an Office 365 multimedia collaboration client, pre-release
