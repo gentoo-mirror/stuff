@@ -174,6 +174,7 @@ sci-libs/spglib 2.1.0: C library for finding and handling crystal symmetries.
 sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suitesparse
 sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library
 sci-mathematics/sofastatistics 1.5.3 1.5.6: SOFA is a statistics, analysis, and reporting program
+sci-misc/vitables 3.1.0: A graphical tool for browsing / editing files in both PyTables and HDF5 formats
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 0.9.27 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
