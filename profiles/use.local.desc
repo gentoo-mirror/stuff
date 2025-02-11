@@ -41,6 +41,12 @@ dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
 dev-python/traitsui:wx - To install required libraries for wx support
 dev-python/unittest-or-fail:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-util/nvidia-cuda-toolkit:debugger - Install the CUDA debugger
+dev-util/nvidia-cuda-toolkit:nsight - Install profiling and optimizing tools (nsight-compute, nsight-systems)
+dev-util/nvidia-cuda-toolkit:profiler - Install the NVIDIA CUDA profiler (nvprof) and the related libraries
+dev-util/nvidia-cuda-toolkit:rdma - Enable infiniband support via sys-cluster/rdma-core
+dev-util/nvidia-cuda-toolkit:sanitizer - Install compute-sanitizer tool
+dev-util/nvidia-cuda-toolkit:vis-profiler - Install the NVIDIA CUDA visual profiler (nvvp)
 lxde-base/lxpanelx:libfm - Add support for x11-libs/libfm
 lxde-base/lxpanelx:libindicator - Add support for dev-libs/libindicator
 lxde-base/lxpanelx:menucache - Add support for lxde-base/menu-cache
