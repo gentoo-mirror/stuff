@@ -9,7 +9,7 @@ app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
 app-portage/portopts 9999: quick set opts per package
 app-portage/udept 9999: A Portage analysis toolkit
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
-app-text/pandoc-crossref-bin 0.3.18.1 0.3.18.1a: Pandoc filter for cross-references
+app-text/pandoc-crossref-bin 0.3.18.1 0.3.18.1a 0.3.18.2: Pandoc filter for cross-references
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
