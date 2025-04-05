@@ -194,7 +194,7 @@ sys-fs/google-drive-ocamlfuse 0.7.26: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 0.2.2 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
-sys-kernel/pf-sources 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2 6.1_p6 6.2_p7 6.3_p5 6.4_p6 6.5_p6 6.6_p6 6.7_p7 6.8_p9 6.9_p6 6.10_p4 6.11_p4 6.12_p4 6.13_p1 6.13_p2 6.13_p3 6.13_p4 6.13_p5 6.13_p6: Linux kernel fork that includes the pf-kernel patchset and Gentoo's genpatches
+sys-kernel/pf-sources 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2 6.1_p6 6.2_p7 6.3_p5 6.4_p6 6.5_p6 6.6_p6 6.7_p7 6.8_p9 6.9_p6 6.10_p4 6.11_p4 6.12_p4 6.13_p6 6.14_p1: Linux kernel fork that includes the pf-kernel patchset and Gentoo's genpatches
 www-misc/httraqt 1.4.11: Graphical user interface for HTTrack library, developed in C++ and based on Qt
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
