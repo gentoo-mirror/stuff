@@ -11,5 +11,5 @@ LICENSE=Apache-2.0
 RDEPEND=sys-libs/pam >=net-libs/c-client-2007f-r4 sys-libs/ncurses:0 >=dev-libs/openssl-1.0 ldap? ( net-nds/openldap ) kerberos? ( app-crypt/mit-krb5 ) spell? ( app-text/aspell ) app-misc/mime-types !<=net-mail/uw-imap-2004g
 SLOT=0
 SRC_URI=https://alpineapp.email/alpine/release/src/Old/alpine-2.21.tar.xz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	f20ecf7ab0a7c34e83238b3ed4aaf6d6	multilib	b2a329026f2e404e9e371097dda47f96
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	35f9bf6198bb538e28dcdea5fda274f2	multilib	b2a329026f2e404e9e371097dda47f96
 _md5_=655eb7fa1663b66d7858b2aaed9bed56
