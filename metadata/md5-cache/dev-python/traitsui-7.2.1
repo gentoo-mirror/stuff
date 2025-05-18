@@ -1,6 +1,6 @@
-BDEPEND=python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)?,python_targets_python3_12(-)?]
+BDEPEND=python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/gpep517-16[python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)?,python_targets_python3_12(-)?]
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=dev-python/traits dev-python/six >=dev-python/pyface-6.0.0[wx=,pyqt5=,pyside=] wx? ( >=dev-python/wxpython-2.8.10:* dev-python/numpy ) pyqt5? ( dev-python/PyQt5 dev-python/pygments ) pyside? ( dev-python/pyside2 dev-python/pygments ) demo? ( dev-python/configobj ) doc? ( dev-util/gtk-doc )
+DEPEND=dev-python/traits dev-python/six >=dev-python/pyface-6.0.0[wx=,pyqt5=,pyside=] wx? ( >=dev-python/wxpython-2.8.10:* dev-python/numpy ) pyqt5? ( dev-python/pyqt5 dev-python/pygments ) pyside? ( dev-python/pyside2 dev-python/pygments ) demo? ( dev-python/configobj ) doc? ( dev-util/gtk-doc )
 DESCRIPTION=Toolkit-independent GUI abstraction layer for visualization features of Traits
 EAPI=8
 HOMEPAGE=https://docs.enthought.com/traitsui/
@@ -8,9 +8,9 @@ INHERIT=distutils-r1 flag-o-matic
 IUSE=+python doc +wx +pyqt5 +pyside +demo python_targets_python3_11 python_targets_python3_12
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
-RDEPEND=dev-python/traits dev-python/six >=dev-python/pyface-6.0.0[wx=,pyqt5=,pyside=] wx? ( >=dev-python/wxpython-2.8.10:* dev-python/numpy ) pyqt5? ( dev-python/PyQt5 dev-python/pygments ) pyside? ( dev-python/pyside2 dev-python/pygments ) demo? ( dev-python/configobj ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+RDEPEND=dev-python/traits dev-python/six >=dev-python/pyface-6.0.0[wx=,pyqt5=,pyside=] wx? ( >=dev-python/wxpython-2.8.10:* dev-python/numpy ) pyqt5? ( dev-python/pyqt5 dev-python/pygments ) pyside? ( dev-python/pyside2 dev-python/pygments ) demo? ( dev-python/configobj ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
 REQUIRED_USE=python? ( || ( python_targets_python3_11 python_targets_python3_12 ) ) || ( python_targets_python3_11 python_targets_python3_12 )
 SLOT=0
 SRC_URI=mirror://pypi/t/traitsui/traitsui-7.2.1.tar.gz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-r1	0e15b2ab9cfc87d7474678201d6bca38	distutils-r1	0e08701ccfa3f73267c62f539b7ab456
-_md5_=91eed5ba555c295f387dc55925b13d18
+_md5_=c9e52f91e44d32225ac4beefd10e8652

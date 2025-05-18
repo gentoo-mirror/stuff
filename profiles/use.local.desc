@@ -29,6 +29,34 @@ dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
 dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/pyside2:3d - Build Qt3DCore, Qt3DAnimation, Qt3DExtras, Qt3DInput, Qt3DLogic, and Qt3DRender modules
+dev-python/pyside2:charts - Build QtCharts module
+dev-python/pyside2:concurrent - Build QtConcurrent module
+dev-python/pyside2:datavis - Build QtDataVisualization module
+dev-python/pyside2:designer - Build QtDesigner and QtUiTools modules
+dev-python/pyside2:gles2-only - Build QtGui "QOpenGL*" classes
+dev-python/pyside2:gui - Build QtGui module
+dev-python/pyside2:help - Build QtHelp module
+dev-python/pyside2:location - Build QtLocation module
+dev-python/pyside2:multimedia - Build QtMultimedia and QtMultimediaWidgets modules
+dev-python/pyside2:network - Build QtNetwork module
+dev-python/pyside2:positioning - Build QtPositioning module
+dev-python/pyside2:printsupport - Build QtPrintSupport module
+dev-python/pyside2:qml - Build QtQml module
+dev-python/pyside2:quick - Build QtQuick and QtQuickWidgets modules
+dev-python/pyside2:scxml - Build QtScxml module
+dev-python/pyside2:sensors - Build QtSensors module
+dev-python/pyside2:speech - Build QtTextToSpeech module
+dev-python/pyside2:sql - Build QtSql module
+dev-python/pyside2:svg - Build QtSvg module
+dev-python/pyside2:testlib - Build QtTest module
+dev-python/pyside2:webchannel - Build QtWebChannel module
+dev-python/pyside2:webengine - Build QtWebEngine and QtWebEngineWidgets modules
+dev-python/pyside2:websockets - Build QtWebSockets module
+dev-python/pyside2:widgets - Build QtWidgets module
+dev-python/pyside2:x11extras - Build QtX11Extras module
+dev-python/pyside2:xml - Build QtXml module
+dev-python/pyside2:xmlpatterns - Build QtXmlPatterns module
 dev-python/rosettasciio:gui-jupyter - To install required libraries to use the Jupyter widgets GUI elements
 dev-python/rosettasciio:gui-traitsui - To install required libraries to use the GUI elements based on traitsui
 dev-python/rosettasciio:learning - To install required libraries for some machine learning features
@@ -36,6 +64,9 @@ dev-python/rosettasciio:mrcz - To install the mrcz plugin
 dev-python/rosettasciio:speed - To install optional libraries that speed up some functionalities
 dev-python/setuptools-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/setuptools_scm-python2:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/shiboken2:docstrings - Expose documentation as Python docstrings (recommended)
+dev-python/shiboken2:numpy - Implicitly convert passed NumPy arrays to Qt lists
+dev-python/shiboken2:vulkan - Generate "QSurface::VulkanSurface" bindings
 dev-python/traitsui:demo - To install all requirements demo
 dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
