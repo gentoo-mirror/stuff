@@ -29,6 +29,25 @@ dev-python/pyface:pyside - To install required libraries for pyside support
 dev-python/pyface:wx - To install required libraries for wx support
 dev-python/pygobject:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-python/pygtk:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-python/pyqt5:dbus - Build bindings for the QtDBus module
+dev-python/pyqt5:declarative - Build bindings for the QtQml and QtQuick modules and enable the qmlscene plugin
+dev-python/pyqt5:designer - Build bindings for the QtDesigner module and enable the designer plugin
+dev-python/pyqt5:gui - Build bindings for the QtGui module
+dev-python/pyqt5:help - Build bindings for the QtHelp module
+dev-python/pyqt5:multimedia - Build bindings for the QtMultimedia module
+dev-python/pyqt5:network - Build bindings for the QtNetwork module
+dev-python/pyqt5:opengl - Build bindings for the QtOpenGL module
+dev-python/pyqt5:printsupport - Build bindings for the QtPrintSupport module
+dev-python/pyqt5:serialport - Build bindings for the QtSerialPort module
+dev-python/pyqt5:speech - Build bindings for the QtTextToSpeech module
+dev-python/pyqt5:sql - Build bindings for the QtSql module
+dev-python/pyqt5:svg - Build bindings for the QtSvg module
+dev-python/pyqt5:testlib - Build bindings for the QtTest module
+dev-python/pyqt5:webchannel - Build bindings for the QtWebChannel module
+dev-python/pyqt5:websockets - Build bindings for the QtWebSockets module
+dev-python/pyqt5:widgets - Build bindings for the QtWidgets module
+dev-python/pyqt5:x11extras - Build bindings for the QtX11Extras module
+dev-python/pyqt5:xmlpatterns - Build bindings for the QtXmlPatterns module
 dev-python/pyside2:3d - Build Qt3DCore, Qt3DAnimation, Qt3DExtras, Qt3DInput, Qt3DLogic, and Qt3DRender modules
 dev-python/pyside2:charts - Build QtCharts module
 dev-python/pyside2:concurrent - Build QtConcurrent module
@@ -72,6 +91,7 @@ dev-python/traitsui:pyqt5 - To install required libraries for pyqt5 support
 dev-python/traitsui:pyside - To install required libraries for pyside support
 dev-python/traitsui:wx - To install required libraries for wx support
 dev-python/unittest-or-fail:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
+dev-qt/qtwebchannel:qml - Build QML/QtQuick bindings and imports
 dev-util/nvidia-cuda-toolkit:debugger - Install the CUDA debugger
 dev-util/nvidia-cuda-toolkit:nsight - Install profiling and optimizing tools (nsight-compute, nsight-systems)
 dev-util/nvidia-cuda-toolkit:profiler - Install the NVIDIA CUDA profiler (nvprof) and the related libraries
