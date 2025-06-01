@@ -62,6 +62,7 @@ dev-python/exspy 0.1: EELS and EDS analysis with the HyperSpy framework
 dev-python/fabio 0.10.2 0.11.0 0.13.0 2022.12.1 2023.10.0: FabIO is an I/O library for images produced by 2D X-ray detectors
 dev-python/fastrlock 0.8.1: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/gemmi 0.5.7: library for structural biology
+dev-python/hatch-requirements-txt 0.4.1: Hatchling plugin to read project dependencies from requirements.txt
 dev-python/hdf5plugin 4.3.0: HDF5 Plugins for Windows, MacOS, and Linux
 dev-python/hyperspy 1.6.5 1.7.3 1.7.5 1.7.6 2.0: Interactive analysis of multidimensional datasets tools
 dev-python/hyperspy-gui-ipywidgets 1.4.0 1.5.0 2.0: Interactive analysis of multidimensional datasets tools
