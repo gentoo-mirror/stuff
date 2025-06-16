@@ -74,7 +74,6 @@ dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
 dev-python/shiboken2 5.15.14 5.15.16 5.15.17: Python binding generator for C++ libraries
 dev-python/spglib 2.1.0: Python bindings for spglib.
-dev-python/tifffile 2020.12.8 2022.10.10 2023.3.15 2023.3.21: Read and write TIFF files
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/traitsui 7.0.0 7.2.1 7.3.1 7.4.2 7.4.3 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
