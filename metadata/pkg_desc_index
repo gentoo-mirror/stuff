@@ -69,6 +69,7 @@ dev-python/pyside2 5.15.14 5.15.16 5.15.17: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.15.14 5.15.16 5.15.17: PySide development tools (pyside2-lupdate with support for Python)
 dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image comparison for matplotlib figures
 dev-python/rosettasciio 0.3: Reading and writing scientific file formats
+dev-python/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
 dev-python/scikit-optimize 0.9.0-r1 0.10.2: Sequential model-based optimization library
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
