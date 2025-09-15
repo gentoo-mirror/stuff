@@ -9,7 +9,7 @@ app-portage/portconf 1.6.7.7 1.6.8 9999-r1: /etc/portage cleaner
 app-portage/portopts 9999: quick set opts per package
 app-portage/udept 9999: A Portage analysis toolkit
 app-text/maggot-dict 9999: Console based dictionary writen in pure Python
-app-text/pandoc-crossref-bin 0.3.18.2 0.3.19 0.3.20: Pandoc filter for cross-references
+app-text/pandoc-crossref-bin 0.3.18.2 0.3.19 0.3.20 0.3.21: Pandoc filter for cross-references
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
@@ -153,7 +153,7 @@ sys-fs/google-drive-ocamlfuse 0.7.26: FUSE filesystem over Google Drive
 sys-fs/ls-fuse 0.4 9999: FUSE module to mount ls -lR output
 sys-fs/reiserfs-defrag 0.2.2 9999: Small defragmentation tool for reiserfs
 sys-kernel/kernel-cleaner 2.6.4 9999: Designed for remove broken kernels from /boot and source_dirs/modules_dirs
-sys-kernel/pf-sources 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2 6.1_p6 6.2_p7 6.3_p5 6.4_p6 6.5_p6 6.6_p6 6.7_p7 6.8_p9 6.9_p6 6.10_p4 6.11_p4 6.12_p4 6.13_p6 6.14_p6 6.15_p6 6.16_p1 6.16_p2-r1 6.16_p3: Linux kernel fork that includes the pf-kernel patchset and Gentoo's genpatches
+sys-kernel/pf-sources 4.19_p8 4.20_p6 5.0_p8 5.1_p7 5.2_p8 5.3_p8 5.4_p6 5.5_p8 5.6_p8 5.7_p7 5.8_p7 5.9_p7 5.10_p12 5.11_p2 6.1_p6 6.2_p7 6.3_p5 6.4_p6 6.5_p6 6.6_p6 6.7_p7 6.8_p9 6.9_p6 6.10_p4 6.11_p4 6.12_p4 6.13_p6 6.14_p6 6.15_p6 6.16_p1 6.16_p2-r1 6.16_p3 6.16_p4: Linux kernel fork that includes the pf-kernel patchset and Gentoo's genpatches
 www-misc/httraqt 1.4.11: Graphical user interface for HTTrack library, developed in C++ and based on Qt
 x11-apps/skb 0.3 0.4: Simple keyboard layout indicator
 x11-libs/bamf 0.2.104-r1: BAMF Application Matching Framework
