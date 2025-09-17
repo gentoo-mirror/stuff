@@ -81,7 +81,7 @@ dev-python/traitsui 7.0.0 7.2.1 7.3.1 7.4.2 7.4.3 8.0.0: Toolkit-independent GUI
 dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
 dev-qt/qtwebchannel 5.15.16 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
-dev-util/nvidia-cuda-toolkit 12.9.0: NVIDIA CUDA Toolkit (compiler and friends)
+dev-util/nvidia-cuda-toolkit 13.0.1: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/qbs 9999: Modern build tool for software projects
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre20 1.2.0_pre23 1.15.2 2.3.8 3.0.6: Ancient Domains Of Mystery rogue-like game
