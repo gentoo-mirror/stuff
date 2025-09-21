@@ -36,7 +36,7 @@ dev-perl/Regexp-Assemble 0.35: Assemble multiple Regular Expressions into a sing
 dev-perl/Term-Sk 0.18: Perl extension for displaying a progress indicator on a terminal
 dev-perl/Term-Twiddle 2.73: Twiddles a thingy while-u-wait
 dev-python/Dans-Diffraction 2.2.0 3.0.0 3.4.0: Generate diffracted intensities from crystals
-dev-python/PeakUtils 1.3.3 1.3.4: This package provides utilities related to the detection of peaks on 1D data.
+dev-python/PeakUtils 1.3.3 1.3.4 1.3.5: This package provides utilities related to the detection of peaks on 1D data.
 dev-python/Pint 0.16.1 0.17 0.19.1 0.20.1 0.22 0.25: Python package to manipulate physical units
 dev-python/abTEM 0.9999 1.0.0-r34 1.0.5 1.0.6 9999: ab initio transmission electron microscopy
 dev-python/asciitree 0.3.3: Draws ASCII trees
@@ -54,7 +54,7 @@ dev-python/distributed 2023.11.0: Distributed scheduler for Dask
 dev-python/emdfile 0.0.14 0.0.15: hdf5-based Electron Microscopy Dataset
 dev-python/euphonic 1.3.0 1.4.5: Calculates phonon bandstructures and inelastic neutron scattering intensities
 dev-python/exspy 0.1: EELS and EDS analysis with the HyperSpy framework
-dev-python/fabio 0.10.2 0.11.0 0.13.0 2022.12.1 2023.10.0: FabIO is an I/O library for images produced by 2D X-ray detectors
+dev-python/fabio 0.13.0 2022.12.1 2023.10.0 2024.9.0: FabIO is an I/O library for images produced by 2D X-ray detectors
 dev-python/fastrlock 0.8.1 0.8.3: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/hatch-requirements-txt 0.4.1: Hatchling plugin to read project dependencies from requirements.txt
 dev-python/hdf5plugin 4.3.0 5.1.0: HDF5 Plugins for Windows, MacOS, and Linux
@@ -77,14 +77,16 @@ dev-python/py4DSTEM 0.14.8 0.14.15: Processing and analysis of 4D-STEM data
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 7.4.1 7.4.4 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
-dev-python/pyfai 0.19.0 0.21.3 2023.3.0: Libary for azimuthal integration of 2D diffraction data
+dev-python/pyfai 0.21.3 2023.3.0 2025.3.0: Libary for azimuthal integration of 2D diffraction data
 dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pylops 2.2.0: Linear operators to allow solving large-scale optimization problems
 dev-python/pyqt5 5.15.11: Python bindings for the Qt framework
+dev-python/pyshortcuts 1.7.1 1.8.0 1.8.3 1.9.5: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pyside2 5.15.14 5.15.16 5.15.17: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.15.14 5.15.16 5.15.17: PySide development tools (pyside2-lupdate with support for Python)
-dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image comparison for matplotlib figures
+dev-python/pytest-mpl 0.13 0.14.0 0.15.0 0.17.0: Pytest plugin to faciliate image comparison for matplotlib figures
+dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
 dev-python/rosettasciio 0.3: Reading and writing scientific file formats
 dev-python/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
 dev-python/scikit-optimize 0.9.0-r1 0.10.2: Sequential model-based optimization library
@@ -92,12 +94,16 @@ dev-python/seekpath 2.1.0: Obtain and visualize k-vector coefficients and obtain
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
 dev-python/shiboken2 5.15.14 5.15.16 5.15.17: Python binding generator for C++ libraries
+dev-python/silx 0.13.0 0.13.1 1.0.0 1.1.2 2.2.2: Python packages collection for synchrotron data manipulation
 dev-python/sparse 0.10.0 0.12.0 0.13.0 0.14.0 0.17.0: Sparse multi-dimensional arrays for the PyData ecosystem
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
 dev-python/traits 6.0.0 6.1.1 6.2.0 6.3.2 6.4.1 7.0.2: Enthought Tool Suite: Explicitly typed attributes for Python
 dev-python/traitsui 7.0.0 7.2.1 7.3.1 7.4.2 7.4.3 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/transforms3d 0.3.1 0.4.1 0.4.2: Code to convert between various geometric transformations
 dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
+dev-python/wxmplot 0.9.41 0.9.45 0.9.53 2025.1.5: Provides advanced wxPython widgets for plotting based on matplotlib
+dev-python/wxutils 0.2.3 0.2.4 0.2.7 0.3.6: A library of convenience functions for wxPython
+dev-python/xraydb 4.3.4 4.4.7 4.5.8: X-ray Reference Data for the Elements using SQLite
 dev-python/zarr 2.13.3 2.16.1 2.18.2 2.18.7 3.1.3: An implementation of chunked, compressed, N-dimensional arrays for Python
 dev-python/zict 3.0.0: Mutable mapping tools
 dev-qt/qtwebchannel 5.15.16 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients
@@ -167,6 +173,7 @@ sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framew
 sci-physics/prismatic 2.0: Prismatic Software for STEM Simulation
 sci-physics/profex 4.3.6: Open source XRD and Rietveld refiniment
 sci-physics/vampire 4.0: Atomistic simulation of magnetic nanomaterials made easy.
+sci-physics/xraylarch 0.9.51 0.9.67 0.9.74 2025.3.0 9999: Software for XRF data analysis
 sci-visualization/gwyddion 2.56 2.58 2.59 2.62 9999: Framework for Scanning Mode Microscopy data analysis
 sys-apps/dkms-gentoo 19.2-r1 20 9999: DKMS analog for gentoo
 sys-fs/davl 1.2.4: Visualizes the fragmentation status of ext2/3 filesystems
