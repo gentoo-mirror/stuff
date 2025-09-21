@@ -39,8 +39,11 @@ dev-python/Dans-Diffraction 2.2.0 3.0.0 3.4.0: Generate diffracted intensities f
 dev-python/PeakUtils 1.3.3 1.3.4 1.3.5: This package provides utilities related to the detection of peaks on 1D data.
 dev-python/Pint 0.16.1 0.17 0.19.1 0.20.1 0.22 0.25: Python package to manipulate physical units
 dev-python/abTEM 0.9999 1.0.0-r34 1.0.5 1.0.6 9999: ab initio transmission electron microscopy
+dev-python/apsw 3.25.2_p1 3.34.0_p1 3.50.4.0: APSW - Another Python SQLite Wrapper
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/ase 3.19.1 3.21.1 3.22.1 3.23.0 3.26.0: Set of Python modules for atomistic simulations
+dev-python/atomap 0.3.3 0.3.4 0.4.0 0.4.2: Library for analysing atomic resolution images
+dev-python/av 9.2.0 15.1.0: Pythonic bindings for FFmpeg's libraries.
 dev-python/bokeh 2.4.2 3.4.1: Statistical and interactive HTML plots for Python
 dev-python/certifi-python2 10001: Thin replacement for certifi using system certificate store
 dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
@@ -56,6 +59,7 @@ dev-python/euphonic 1.3.0 1.4.5: Calculates phonon bandstructures and inelastic 
 dev-python/exspy 0.1: EELS and EDS analysis with the HyperSpy framework
 dev-python/fabio 0.13.0 2022.12.1 2023.10.0 2024.9.0: FabIO is an I/O library for images produced by 2D X-ray detectors
 dev-python/fastrlock 0.8.1 0.8.3: Fast, re-entrant optimistic lock implemented in Cython
+dev-python/gemmi 0.5.7 0.7.3: library for structural biology
 dev-python/hatch-requirements-txt 0.4.1: Hatchling plugin to read project dependencies from requirements.txt
 dev-python/hdf5plugin 4.3.0 5.1.0: HDF5 Plugins for Windows, MacOS, and Linux
 dev-python/hyperspy 1.6.5 1.7.3 1.7.5 1.7.6 2.0: Interactive analysis of multidimensional datasets tools
@@ -66,10 +70,12 @@ dev-python/imageio 2.26.0 2.26.1 2.27.0 2.31.6: Python library for reading and w
 dev-python/ipympl 0.8.4 0.9.4 0.9.7: Matplotlib Jupyter Extension
 dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
 dev-python/llvmlite 0.39.1 0.40.0 9999: Python wrapper around the llvm C++ library
+dev-python/matplotlib_scalebar 0.8.1 0.9.0: Artist for matplotlib to display a scale bar
 dev-python/monty 2023.11.3: Monty is the missing complement to Python
 dev-python/mpire 2.8.1 2.10.2: A Python package for easy multiprocessing
 dev-python/ncempy 1.11.0 1.13.1: openNCEM's Python Package
 dev-python/numba 0.55.1 0.56.3 0.57.0 0.58.1 9999: NumPy aware dynamic Python compiler using LLVM
+dev-python/numcodecs 0.10.2 0.13.0 0.16.3: A Python package providing buffer compression and transformation codecs for use in data storage and communication applications
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/parsimonious 0.10.0: pure-Python PEG parser
 dev-python/pillow 9.5.0: Python Imaging Library (fork)
@@ -81,11 +87,14 @@ dev-python/pyfai 0.21.3 2023.3.0 2025.3.0: Libary for azimuthal integration of 2
 dev-python/pygobject 2.28.6-r55: GLib's GObject library bindings for Python
 dev-python/pygtk 2.24.0-r5: GTK+2 bindings for Python
 dev-python/pylops 2.2.0: Linear operators to allow solving large-scale optimization problems
+dev-python/pynida 0.1.16: In-situ nanoindentation data analysis
+dev-python/pyprismatic 2.0: Prismatic Software for STEM Simulation
 dev-python/pyqt5 5.15.11: Python bindings for the Qt framework
 dev-python/pyshortcuts 1.7.1 1.8.0 1.8.3 1.9.5: Pyshortcuts helps to create desktop shortcuts that will run python scripts
 dev-python/pyside2 5.15.14 5.15.16 5.15.17: Python bindings for the Qt framework
 dev-python/pyside2-tools 5.15.14 5.15.16 5.15.17: PySide development tools (pyside2-lupdate with support for Python)
 dev-python/pytest-mpl 0.13 0.14.0 0.15.0 0.17.0: Pytest plugin to faciliate image comparison for matplotlib figures
+dev-python/pyxem 0.13.3 0.15.0 0.21.0: Python library for multi-dimensional diffraction microscopy
 dev-python/rdfpy 1.0.0: Module for fast computation of 2D and 3D radial distribution functions
 dev-python/rosettasciio 0.3: Reading and writing scientific file formats
 dev-python/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
@@ -159,6 +168,7 @@ sci-libs/camd 3.2.1: Library to order a sparse matrix prior to Cholesky factoriz
 sci-libs/ccolamd 3.2.1: Constrained Column approximate minimum degree ordering algorithm
 sci-libs/cholmod 5.0.1: Sparse Cholesky factorization and update/downdate library
 sci-libs/colamd 3.2.1: Column approximate minimum degree ordering algorithm
+sci-libs/nexus 4.4.3_p20200126: Data format for neutron and x-ray scattering data
 sci-libs/pycifrw 4.1.1 4.3 4.4.1 4.4.5 5.0.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/spglib 2.1.0: C library for finding and handling crystal symmetries.
 sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suitesparse
@@ -168,6 +178,7 @@ sci-misc/vitables 3.1.0: A graphical tool for browsing / editing files in both P
 sci-physics/bgmn 4.2.23: Open source XRD and Rietveld refiniment
 sci-physics/demeter 0.9.26 0.9.27 9999: Software for XAS data processing
 sci-physics/ifeffit 1.2.11d 9999: Suite of interactive programs for XAFS analysis
+sci-physics/mantid 6.12.0.2 9999: Tools to support the processing of materials-science data
 sci-physics/mumax 3.9.3 3.10: GPU-accelerated micromagnetic simulator
 sci-physics/oommf 1.2_beta1 2.0_alpha0: The Object Oriented MicroMagnetic Framework
 sci-physics/prismatic 2.0: Prismatic Software for STEM Simulation
