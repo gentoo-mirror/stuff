@@ -35,30 +35,46 @@ dev-perl/Pod-ProjectDocs 0.52 0.53: generates CPAN like project documents from p
 dev-perl/Regexp-Assemble 0.35: Assemble multiple Regular Expressions into a single RE
 dev-perl/Term-Sk 0.18: Perl extension for displaying a progress indicator on a terminal
 dev-perl/Term-Twiddle 2.73: Twiddles a thingy while-u-wait
+dev-python/Dans-Diffraction 2.2.0 3.0.0 3.4.0: Generate diffracted intensities from crystals
 dev-python/PeakUtils 1.3.3 1.3.4: This package provides utilities related to the detection of peaks on 1D data.
-dev-python/Pint 0.16.1 0.17 0.19.1 0.20.1 0.22: Python package to manipulate physical units
+dev-python/Pint 0.16.1 0.17 0.19.1 0.20.1 0.22 0.25: Python package to manipulate physical units
+dev-python/abTEM 0.9999 1.0.0-r34 1.0.5 1.0.6 9999: ab initio transmission electron microscopy
 dev-python/asciitree 0.3.3: Draws ASCII trees
+dev-python/ase 3.19.1 3.21.1 3.22.1 3.23.0 3.26.0: Set of Python modules for atomistic simulations
 dev-python/bokeh 2.4.2 3.4.1: Statistical and interactive HTML plots for Python
 dev-python/certifi-python2 10001: Thin replacement for certifi using system certificate store
+dev-python/colorspacious 1.1.2: Powerful, accurate, and easy-to-use Python library for colorspace conversions
 dev-python/cupy 13.2.0 13.4.1: CuPy: A NumPy-compatible array library accelerated by CUDA
 dev-python/cython 0.29.37.1: A Python to C compiler
 dev-python/dask 2023.2.1 2023.3.0 2023.3.1 2023.3.2 2023.11.0 2024.5.2 2024.7.0 2025.5.0: Task scheduling and blocked algorithms for parallel processing
+dev-python/dask-labextension 7.0.0: JupyterLab extension for Dask
+dev-python/diffpy_structure 3.0.1 3.1.0 3.3.1: Crystal structure container and parsers for structure formats
+dev-python/diffsims 0.2.3 0.4.2 0.7.0: Python library for simulating diffraction
 dev-python/distributed 2023.11.0: Distributed scheduler for Dask
 dev-python/emdfile 0.0.14 0.0.15: hdf5-based Electron Microscopy Dataset
+dev-python/euphonic 1.3.0 1.4.5: Calculates phonon bandstructures and inelastic neutron scattering intensities
 dev-python/exspy 0.1: EELS and EDS analysis with the HyperSpy framework
 dev-python/fabio 0.10.2 0.11.0 0.13.0 2022.12.1 2023.10.0: FabIO is an I/O library for images produced by 2D X-ray detectors
+dev-python/fastrlock 0.8.1 0.8.3: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/hatch-requirements-txt 0.4.1: Hatchling plugin to read project dependencies from requirements.txt
+dev-python/hdf5plugin 4.3.0 5.1.0: HDF5 Plugins for Windows, MacOS, and Linux
 dev-python/hyperspy 1.6.5 1.7.3 1.7.5 1.7.6 2.0: Interactive analysis of multidimensional datasets tools
 dev-python/hyperspy-gui-ipywidgets 1.4.0 1.5.0 2.0: Interactive analysis of multidimensional datasets tools
 dev-python/hyperspy-gui-traitsui 1.4.0 1.5.2 1.5.3 2.0: Provides traitsui graphic user interface (GUI) elements for hyperspy
-dev-python/hyperspyUI 1.1.4 1.1.5 1.3.1 2.0: Provides graphic user interface (GUI) for hyperspy
+dev-python/hyperspyUI 1.3.1 2.0: Provides graphic user interface (GUI) for hyperspy
 dev-python/imageio 2.26.0 2.26.1 2.27.0 2.31.6: Python library for reading and writing image data
+dev-python/ipympl 0.8.4 0.9.4 0.9.7: Matplotlib Jupyter Extension
+dev-python/link-traits 1.0.2 1.0.3: A fork to traitlets
+dev-python/llvmlite 0.39.1 0.40.0 9999: Python wrapper around the llvm C++ library
 dev-python/monty 2023.11.3: Monty is the missing complement to Python
+dev-python/mpire 2.8.1 2.10.2: A Python package for easy multiprocessing
+dev-python/ncempy 1.11.0 1.13.1: openNCEM's Python Package
 dev-python/numba 0.55.1 0.56.3 0.57.0 0.58.1 9999: NumPy aware dynamic Python compiler using LLVM
 dev-python/numpy-python2 1.16.6: Fast array and numerical python library
 dev-python/parsimonious 0.10.0: pure-Python PEG parser
 dev-python/pillow 9.5.0: Python Imaging Library (fork)
 dev-python/py4DSTEM 0.14.8 0.14.15: Processing and analysis of 4D-STEM data
+dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pycairo-python2 1.18.2: Python bindings for the cairo library
 dev-python/pyface 7.4.1 7.4.4 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
 dev-python/pyfai 0.19.0 0.21.3 2023.3.0: Libary for azimuthal integration of 2D diffraction data
@@ -72,13 +88,18 @@ dev-python/pytest-mpl 0.13 0.14.0 0.15.0: Pytest plugin to faciliate image compa
 dev-python/rosettasciio 0.3: Reading and writing scientific file formats
 dev-python/scikit-image 0.18.0 0.19.3: Image processing routines for SciPy
 dev-python/scikit-optimize 0.9.0-r1 0.10.2: Sequential model-based optimization library
+dev-python/seekpath 2.1.0: Obtain and visualize k-vector coefficients and obtain band paths
 dev-python/setuptools-python2 46.4.0-r2: Collection of extensions to Distutils
 dev-python/setuptools_scm-python2 4.1.2-r1: Manage versions by scm tags via setuptools
 dev-python/shiboken2 5.15.14 5.15.16 5.15.17: Python binding generator for C++ libraries
-dev-python/spglib 2.1.0: Python bindings for spglib.
+dev-python/sparse 0.10.0 0.12.0 0.13.0 0.14.0 0.17.0: Sparse multi-dimensional arrays for the PyData ecosystem
 dev-python/toml 0.10.2-r1: Python library for handling TOML files
+dev-python/traits 6.0.0 6.1.1 6.2.0 6.3.2 6.4.1 7.0.2: Enthought Tool Suite: Explicitly typed attributes for Python
 dev-python/traitsui 7.0.0 7.2.1 7.3.1 7.4.2 7.4.3 8.0.0: Toolkit-independent GUI abstraction layer for visualization features of Traits
+dev-python/transforms3d 0.3.1 0.4.1 0.4.2: Code to convert between various geometric transformations
 dev-python/unittest-or-fail 1: Run unittests or fail if no tests were found
+dev-python/zarr 2.13.3 2.16.1 2.18.2 2.18.7 3.1.3: An implementation of chunked, compressed, N-dimensional arrays for Python
+dev-python/zict 3.0.0: Mutable mapping tools
 dev-qt/qtwebchannel 5.15.16 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/nvidia-cuda-toolkit 13.0.1: NVIDIA CUDA Toolkit (compiler and friends)
@@ -132,6 +153,7 @@ sci-libs/camd 3.2.1: Library to order a sparse matrix prior to Cholesky factoriz
 sci-libs/ccolamd 3.2.1: Constrained Column approximate minimum degree ordering algorithm
 sci-libs/cholmod 5.0.1: Sparse Cholesky factorization and update/downdate library
 sci-libs/colamd 3.2.1: Column approximate minimum degree ordering algorithm
+sci-libs/pycifrw 4.1.1 4.3 4.4.1 4.4.5 5.0.1: Reading and writing CIF (Crystallographic Information Format) files
 sci-libs/spglib 2.1.0: C library for finding and handling crystal symmetries.
 sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suitesparse
 sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library
