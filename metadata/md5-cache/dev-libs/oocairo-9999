@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=dev-lang/lua x11-libs/cairo
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=ef0d1c89bbee79ba57ef9d67a50cff05
+_md5_=65e432ec88c70071a69cfb5b55106f71

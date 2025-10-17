@@ -13,4 +13,4 @@ RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/N/NE/NEILB/File-Touch-0.11.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	perl-functions	1863acf0982afafc67797e3ce7275b4c	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	perl-module	41920449ca174fe9b9b303dfcbdb37a3
-_md5_=89df782ee00c727d8dcb06b2a9553424
+_md5_=17be66aeff0600b7285d5ab1166b77dc

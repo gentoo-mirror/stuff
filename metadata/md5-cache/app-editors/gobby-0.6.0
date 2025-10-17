@@ -12,4 +12,4 @@ REQUIRED_USE=^^ ( gtk2 gtk3 )
 SLOT=0
 SRC_URI=https://github.com/gobby/gobby/archive/refs/tags/v0.6.0.tar.gz -> gobby-0.6.0.gh.tar.gz
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
-_md5_=185b51f283bd9e7fdeada68a7555ece6
+_md5_=1939ac3efa6d9dcf367eb371f58492da

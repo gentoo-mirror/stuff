@@ -13,4 +13,4 @@ RESTRICT=!test? ( test )
 SLOT=0/1.3.0
 SRC_URI=http://erratique.ch/software/xmlm/releases/xmlm-1.3.0.tbz
 _eclasses_=opam	a6a9e96e7c709313e144e2df4b0fe727
-_md5_=a3dd338071985170c21cea9bd6aefddc
+_md5_=3a0a0345f228b5b158baf3ddafe0623c

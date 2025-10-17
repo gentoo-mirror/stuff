@@ -13,4 +13,4 @@ RDEPEND=dev-qt/qtcore:5= dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtscript:5 dev
 RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=8004f35916f6611f871b4b3d34d8b089
+_md5_=b8d8cbe97b5ddcf6c3086f8622c66c04

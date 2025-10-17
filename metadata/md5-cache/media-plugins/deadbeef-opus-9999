@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-sound/deadbeef media-libs/opusfile[float,http] media-libs/libogg
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672
-_md5_=4f727eb949a09ba0693a7e25b02f464d
+_md5_=9dab06414a9cb3c49b8675e3d7bcc6a4

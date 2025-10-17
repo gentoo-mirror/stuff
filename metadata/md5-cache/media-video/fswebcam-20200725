@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=media-libs/gd[truetype,png,jpeg]
 SLOT=0
 SRC_URI=https://github.com/fsphil/fswebcam/archive/refs/tags/20200725.tar.gz -> fswebcam-20200725.gh.tar.gz
-_md5_=57d416bc981f943450889a3a3047ba04
+_md5_=9b095edf1fe601697e30f67f32f92031

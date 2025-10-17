@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=sys-libs/pam >=net-libs/c-client-2007f-r4 sys-libs/ncurses:0 >=dev-libs/openssl-1.0.1c ldap? ( net-nds/openldap ) kerberos? ( app-crypt/mit-krb5 ) spell? ( app-text/aspell ) app-misc/mime-types !<=net-mail/uw-imap-2004g
 SLOT=0
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	multilib	a199af442898963433d6f038a88cce9c	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=c9172c9db065caf926e504c1afdb7aec
+_md5_=4acc17fcc133edcbe72f9e7b1ce15adc

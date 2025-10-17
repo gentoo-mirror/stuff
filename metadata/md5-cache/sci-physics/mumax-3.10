@@ -11,4 +11,4 @@ RDEPEND=>=dev-util/nvidia-cuda-toolkit-7.5.18-r2
 SLOT=0
 SRC_URI=https://github.com/mumax/3/archive/v3.10.zip
 _eclasses_=golang-base	fef467b1c601a05bbc9550b675b51583	golang-build	20e04694f8bbaef2664220cebb994a48
-_md5_=9efe5f7141e174931abc2900402644e9
+_md5_=0c266a8d2b317619245160d5ded6963a
