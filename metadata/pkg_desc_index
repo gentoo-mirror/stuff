@@ -13,10 +13,17 @@ app-text/pandoc-crossref-bin 0.3.20 0.3.21 0.3.21a 0.3.22: Pandoc filter for cro
 dev-cpp/libbinio 1.4-r1: Binary I/O stream class library
 dev-embedded/stlink 9999: On board debugger driver for stm32-discovery boards
 dev-libs/blingbling 9999: Blingbling is a graphical widget library for Awesome Windows Manager
+dev-libs/hipother 6.4.4: ROCclr runtime implementation for non-AMD HIP platforms, like NVIDIA
 dev-libs/k8json 9999: Small and fast JSON parser (and primitive memory-hungry writter) for Qt.
 dev-libs/libchardet 1.0.4 1.0.5 1.0.6: Mozilla's Universal Charset Detector C/C++ API
 dev-libs/libstrophe 9999: A simple, lightweight C library for writing XMPP clients
 dev-libs/oocairo 9999: oocairo are Lua bindings to the cairo library.
+dev-libs/rocdbgapi 6.4.4: AMD Debugger API
+dev-libs/rocm-comgr 6.4.4: Radeon Open Compute Code Object Manager
+dev-libs/rocm-device-libs 6.4.4: Radeon Open Compute Device Libraries
+dev-libs/rocm-opencl-runtime 6.4.4: Radeon Open Compute OpenCL Compatible Runtime
+dev-libs/rocr-runtime 6.4.4: Radeon Open Compute Runtime
+dev-libs/roct-thunk-interface 6.4.4: Radeon Open Compute Thunk Interface
 dev-ml/gapi-ocaml 0.3.19: A simple OCaml client for Google Services
 dev-ml/ocamlfuse 2.7.1-r7: OCaml binding for fuse
 dev-ml/xmlm 1.3.0: Ocaml XML manipulation module
@@ -117,8 +124,15 @@ dev-python/zarr 2.13.3 2.16.1 2.18.2 2.18.7 3.1.3: An implementation of chunked,
 dev-python/zict 3.0.0: Mutable mapping tools
 dev-qt/qtwebchannel 5.15.16 5.15.17: Qt5 module for integrating C++ and QML applications with HTML/JavaScript clients
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
+dev-util/hip 6.4.4: C++ Heterogeneous-Compute Interface for Portability
+dev-util/hipcc 6.4.4: Radeon Open Compute hipcc
 dev-util/nvidia-cuda-toolkit 13.0.1: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/qbs 9999: Modern build tool for software projects
+dev-util/rocm-smi 6.4.4: ROCm System Management Interface Library
+dev-util/rocm_bandwidth_test 6.4.4: Bandwidth test for ROCm
+dev-util/rocminfo 6.4.4: ROCm Application for Reporting System Info
+dev-util/rocprofiler 6.4.4: Callback/Activity Library for Performance tracing AMD GPU's
+dev-util/roctracer 6.4.4: Callback/Activity Library for Performance tracing AMD GPU's
 games-misc/fortune-mod-lorquotes 9999: The best phrases of Linux.Org.Ru members
 games-roguelike/adom 1.2.0_pre20 1.2.0_pre23 1.15.2 2.3.8 3.0.6: Ancient Domains Of Mystery rogue-like game
 games-roguelike/dwarftherapist 42.1.2: Dwarf (The)rapist for Dwarf Fortress.
@@ -168,8 +182,24 @@ sci-libs/camd 3.2.1: Library to order a sparse matrix prior to Cholesky factoriz
 sci-libs/ccolamd 3.2.1: Constrained Column approximate minimum degree ordering algorithm
 sci-libs/cholmod 5.0.1: Sparse Cholesky factorization and update/downdate library
 sci-libs/colamd 3.2.1: Column approximate minimum degree ordering algorithm
+sci-libs/hipBLAS 6.4.4: ROCm BLAS marshalling library
+sci-libs/hipBLAS-common 6.4.4: Common files shared by hipBLAS and hipBLASLt
+sci-libs/hipBLASLt 6.4.4: General matrix-matrix operations library for AMD Instinct accelerators
+sci-libs/hipCUB 6.4.4: Wrapper of rocPRIM or CUB for GPU parallel primitives
+sci-libs/hipFFT 6.4.4: CU / ROCM agnostic hip FFT implementation
+sci-libs/hipRAND 6.4.4: CU / ROCM agnostic hip RAND implementation
+sci-libs/hipSOLVER 6.4.4: CU / ROCM agnostic marshalling library for LAPACK routines on the GPU
+sci-libs/hipSPARSE 6.4.4: ROCm SPARSE marshalling library
 sci-libs/nexus 4.4.3_p20200126: Data format for neutron and x-ray scattering data
 sci-libs/pycifrw 4.1.1 4.3 4.4.1 4.4.5 5.0.1: Reading and writing CIF (Crystallographic Information Format) files
+sci-libs/rocBLAS 6.4.4: AMD's library for BLAS on ROCm
+sci-libs/rocFFT 6.4.4: Next generation FFT implementation for ROCm
+sci-libs/rocPRIM 6.4.4: HIP parallel primitives for developing performant GPU-accelerated code on ROCm
+sci-libs/rocRAND 6.4.4: Generate pseudo-random and quasi-random numbers
+sci-libs/rocSOLVER 6.4.4: Implementation of a subset of LAPACK functionality on the ROCm platform
+sci-libs/rocSPARSE 6.4.4: Basic Linear Algebra Subroutines for sparse computation
+sci-libs/rocThrust 6.4.4: HIP back-end for the parallel algorithm library Thrust
+sci-libs/rocWMMA 6.4.4: library for accelerating mixed precision matrix multiply-accumulate operations
 sci-libs/spglib 2.1.0: C library for finding and handling crystal symmetries.
 sci-libs/suitesparseconfig 7.3.1: Common configurations for all packages in suitesparse
 sci-libs/umfpack 6.2.2: Unsymmetric multifrontal sparse LU factorization library

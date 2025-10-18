@@ -92,6 +92,10 @@ dev-python/traitsui:pyside - To install required libraries for pyside support
 dev-python/traitsui:wx - To install required libraries for wx support
 dev-python/unittest-or-fail:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-qt/qtwebchannel:qml - Build QML/QtQuick bindings and imports
+dev-util/hip:hip - Build HIP runtime
+dev-util/hip:opencl - Build OpenCL runtime
+dev-util/hip:video_cards_amdgpu - Build for AMD platform
+dev-util/hip:video_cards_nvidia - Build for Nvidia platform
 dev-util/nvidia-cuda-toolkit:debugger - Install the CUDA debugger
 dev-util/nvidia-cuda-toolkit:nsight - Install profiling and optimizing tools (nsight-compute, nsight-systems)
 dev-util/nvidia-cuda-toolkit:profiler - Install the NVIDIA CUDA profiler (nvprof) and the related libraries
@@ -163,10 +167,26 @@ sci-libs/cholmod:matrixops - Support basic sparse and dense matrix operations (a
 sci-libs/cholmod:modify - Enable Cholesky-modification routines like update, downdate, row-add, and row-delete
 sci-libs/cholmod:partition - Previously called "partition", enable graph partitioning and graph-partition-based orderings through of a modified copy of sci-libs/metis.
 sci-libs/cholmod:supernodal - supernodal cholesky factorisation
+sci-libs/hipBLASLt:benchmark - Build and install rocblas-bench.
+sci-libs/hipBLASLt:roctracer - Enable roctracer (roctx) marker.
+sci-libs/hipCUB:benchmark - Build and install benchmark binaries.
+sci-libs/hipSOLVER:sparse - Build hipSOLVER with sparse functionality (sci-libs/cholmod)
+sci-libs/hipSPARSE:benchmark - Build and install hipsparse-bench.
 sci-libs/nexus:hdf4 - Support the old HDF4 representation
 sci-libs/nexus:hdf5 - Support the standard representation (HDF5)
 sci-libs/nexus:java - Build the Java bindings
 sci-libs/nexus:xml - Allow using the verbose XML representation of NeXus data
+sci-libs/rocBLAS:benchmark - Build and install rocblas-bench.
+sci-libs/rocBLAS:hipblaslt - Build with hipBLASLt for some non-batched and strided batched problems on gfx12.
+sci-libs/rocBLAS:test - Perform rocblas-test to compare the result between rocBLAS and system BLAS.
+sci-libs/rocFFT:benchmark - Build and install rocfft benchmark tools.
+sci-libs/rocFFT:perfscripts - Install rocfft-perf performance visualization suite.
+sci-libs/rocPRIM:benchmark - Build and install benchmark programs.
+sci-libs/rocRAND:benchmark - Build and install benchmark programs.
+sci-libs/rocSOLVER:benchmark - Build and install rocsolver-bench.
+sci-libs/rocSOLVER:test - Perform rocsolver-test to compare the result between rocSOLVER and system LAPACK.
+sci-libs/rocSPARSE:benchmark - Build and install rocblas-bench.
+sci-libs/rocThrust:benchmark - Build and install benchmark binary.
 sci-physics/prismatic:gpu - Enable support for CUDA with dev-util/nvidia-cuda-toolkit
 sci-visualization/gwyddion:fits - Enable FITS image import via sci-libs/cfitsio
 sci-visualization/gwyddion:hdf5 - Enable hdf5 support
