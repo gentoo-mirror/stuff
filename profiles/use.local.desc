@@ -92,6 +92,7 @@ dev-python/traitsui:pyside - To install required libraries for pyside support
 dev-python/traitsui:wx - To install required libraries for wx support
 dev-python/unittest-or-fail:python_targets_python2_7 - Enable Python-compatible libs (python2_7 only)
 dev-qt/qtwebchannel:qml - Build QML/QtQuick bindings and imports
+dev-util/Tensile:client - Build and install tensile_client executable to run benchmarks and tune GPU GEMM
 dev-util/hip:hip - Build HIP runtime
 dev-util/hip:opencl - Build OpenCL runtime
 dev-util/hip:video_cards_amdgpu - Build for AMD platform
