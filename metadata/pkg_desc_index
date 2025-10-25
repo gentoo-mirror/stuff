@@ -127,7 +127,7 @@ dev-util/Tensile 6.4.4: Stretching GPU performance for GEMMs and tensor contract
 dev-util/aptana 3.6.1 3.7.2: The leading eclipse IDE for Ajax and today's web platforms
 dev-util/hip 6.4.4: C++ Heterogeneous-Compute Interface for Portability
 dev-util/hipcc 6.4.4: Radeon Open Compute hipcc
-dev-util/nvidia-cuda-toolkit 13.0.1: NVIDIA CUDA Toolkit (compiler and friends)
+dev-util/nvidia-cuda-toolkit 13.0.2: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/qbs 9999: Modern build tool for software projects
 dev-util/rocm-smi 6.4.4: ROCm System Management Interface Library
 dev-util/rocm_bandwidth_test 6.4.4: Bandwidth test for ROCm
